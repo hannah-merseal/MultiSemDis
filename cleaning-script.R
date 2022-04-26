@@ -40,6 +40,18 @@ german <- do.call("rbind", list(german1, german2, german3)) %>%
   select(ID, prompt, response, responseorder, Rating, R1, R2, R3, R4) %>% 
   write_excel_csv("processed/german1.csv")
 
+load("datasets/German/german2.rda")
+load("datasets/German/german2_dat.rda")
+
+ori.dat <- ori.dat %>% rename("ID" = "subject_id",
+                              "prompt" = "object",
+                              "response" = "idea")
+dat.rwa <- dat.rwa %>% rename("ID" = "subject_id")
+
+german2 <- merge(ori.dat, dat.rwa, by = "ID")
+german2 <- as.data.frame(german4)
+write_excel_csv(german2, "processed/german2.csv")
+
 #Italian
 italian1 <- read_excel("datasets/Italian/italian1.xlsx")
 italian2 <- read_excel("datasets/Italian/italian2.xlsx")
