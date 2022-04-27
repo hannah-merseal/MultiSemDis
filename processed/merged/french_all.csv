@@ -1,4 +1,4 @@
-﻿"ID","prompt","response","coder1","coder2","coder3","coder4","coder5","C-act","C-ach"
+﻿"ID","prompt","response","rater1","rater2","rater3","rater4","rater5","C-act","C-ach"
 21,"bouteille","luminaire",3,2,3,2,1,35,106
 21,"bouteille","pieds de tabouret",1,2,2,3,2,35,106
 21,"couteau","décoration",0,3,2,1,2,35,106
