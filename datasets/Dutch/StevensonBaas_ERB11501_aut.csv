@@ -1,0 +1,2415 @@
+"","research_id","respondent_id","response_id","object","original_response","cleaned_response","originality_rater01","originality_rater02","originality_rater03"
+"1","CESvalid2019.fb2",100,860,"brick","Voor","",0,0,0
+"2","CESvalid2019.fb2",100,863,"brick","Hun","",0,0,0
+"3","CESvalid2019.fb2",111,893,"brick","Veel","",0,0,0
+"4","CESvalid2019.bf1",89,1091,"brick","gebruiken als","",0,0,0
+"5","CESvalid2019.bb1",4,4,"brick","Iets aandrukken","aandrukken",2,2,2
+"6","CESvalid2019.bb2",4,279,"brick","Iets aandrukken","aandrukken",2,2,2
+"7","CESvalid2019.bf1",116,1166,"brick","Aandrukken","aandrukken",2,2,2
+"8","CESvalid2019.bf1",99,1145,"brick","Aanvallen","aanvallen",3,0,2
+"9","CESvalid2019.bb2",31,393,"brick","als achtergrond","achtergrond",3,3,3
+"10","CESvalid2019.bb2",71,490,"brick","Achtergrond foto","achtergrond foto",3,3,3
+"11","CESvalid2019.fb2",69,765,"brick","Afbakening","afbakening",2,2,2
+"12","CESvalid2019.fb2",45,677,"brick","afgrenzing maken","afgrenzing",2,2,2
+"13","CESvalid2019.bb1",36,106,"brick","afrastering","afrastering",2,2,2
+"14","CESvalid2019.fb2",47,690,"brick","Afscheiding","afscheiding",2,2,2
+"15","CESvalid2019.bf1",2,940,"brick","afscheiding in boekenkast","afscheiding boekenkast",4,2,2
+"16","CESvalid2019.bf1",37,987,"brick","Afscheiding maken op grond","afscheiding grond",2,2,2
+"17","CESvalid2019.bb2",93,557,"brick","Afsta","afsta",0,0,0
+"18","CESvalid2019.bb2",23,364,"brick","Als afzetting","afzetting",2,2,2
+"19","CESvalid2019.fb2",20,642,"brick","Afzetting","afzetting",2,2,2
+"20","CESvalid2019.bb2",18,325,"brick","Akker","akker",0,2,2
+"21","CESvalid2019.bb1",18,44,"brick","Akkers","akkers",0,2,2
+"22","CESvalid2019.bb2",93,548,"brick","Alweer die baksteen?","alweer baksteen",0,0,0
+"23","CESvalid2019.fb2",53,720,"brick","anker","anker",3,3,3
+"24","CESvalid2019.fb2",74,771,"brick","Ankeren","ankeren",3,3,3
+"25","CESvalid2019.bf1",60,1028,"brick","Appartement","appartement",1,0,1
+"26","CESvalid2019.fb2",20,646,"brick","Aquaduct","aquaduct",1,0,2
+"27","CESvalid2019.bb2",42,435,"brick","Architect","architect",0,0,3
+"28","CESvalid2019.bb2",42,434,"brick","Architectuur","architectuur",1,0,3
+"29","CESvalid2019.bf1",76,1058,"brick","architectuur","architectuur",1,0,3
+"30","CESvalid2019.bf1",96,1115,"brick","Asbakken","asbakken",3,0,3
+"31","CESvalid2019.fb2",100,859,"brick","At","at",0,0,0
+"32","CESvalid2019.fb2",83,802,"brick","Bak","bak",2,1,2
+"33","CESvalid2019.bf1",98,1128,"brick","Bak","bak",2,1,2
+"34","CESvalid2019.bb2",103,577,"brick","Bakplaat","bakplaat",3,4,3
+"35","CESvalid2019.bb2",22,357,"brick","Bakstenen schilderen","bakstenen schilderen",3,3,3
+"36","CESvalid2019.bb2",7,290,"brick","Bal","bal",3,4,3
+"37","CESvalid2019.bb1",11,25,"brick","Gebruiken bij band verwisselen","band verwisselen",4,4,3
+"38","CESvalid2019.bb2",75,499,"brick","Bank maken","bank",3,3,3
+"39","CESvalid2019.fb2",95,835,"brick","een bar van maken","bar",2,1,3
+"40","CESvalid2019.bb2",128,609,"brick","Bbq (zoals bij parken)","barbecue",2,1,2
+"41","CESvalid2019.fb2",92,824,"brick","barbecue","barbecue",2,1,2
+"42","CESvalid2019.bf1",46,1002,"brick","Barbecue","barbecue",2,1,2
+"43","CESvalid2019.bb1",90,211,"brick","Barricade","barricade",2,2,2
+"44","CESvalid2019.bb2",90,543,"brick","Barricade","barricade",2,2,2
+"45","CESvalid2019.bb2",85,537,"brick","Bedreigen","bedreigen",2,2,2
+"46","CESvalid2019.bb1",14,34,"brick","beeld maken","beeld",2,3,3
+"47","CESvalid2019.bb2",14,318,"brick","beeld maken","beeld",2,3,3
+"48","CESvalid2019.bb2",128,603,"brick","Beeld","beeld",2,3,3
+"49","CESvalid2019.bb1",128,268,"brick","Beeld bouwen","beeld bouwen",2,3,3
+"50","CESvalid2019.bb1",110,252,"brick","Beelden","beelden",2,3,3
+"51","CESvalid2019.bb2",110,588,"brick","Beelden","beelden",2,3,3
+"52","CESvalid2019.fb2",95,834,"brick","beeldhouw werk","beeldhouw werk",2,3,3
+"53","CESvalid2019.bb1",7,11,"brick","Beeldhouwen","beeldhouwen",2,3,3
+"54","CESvalid2019.bb1",84,196,"brick","Beeldhouwen","beeldhouwen",2,3,3
+"55","CESvalid2019.bb1",85,205,"brick","Beeldhouwen","beeldhouwen",2,3,3
+"56","CESvalid2019.bb2",7,288,"brick","Beeldhouwen","beeldhouwen",2,3,3
+"57","CESvalid2019.bb2",84,518,"brick","Beeldhouwen","beeldhouwen",2,3,3
+"58","CESvalid2019.bb2",85,534,"brick","Beeldhouwen","beeldhouwen",2,3,3
+"59","CESvalid2019.fb2",83,809,"brick","Beeldhouwen","beeldhouwen",2,3,3
+"60","CESvalid2019.bf1",86,1081,"brick","Beeldhouwen","beeldhouwen",2,3,3
+"61","CESvalid2019.fb2",51,715,"brick","begraven","begraven",2,0,1
+"62","CESvalid2019.fb2",111,891,"brick","Beroep","beroep",0,0,3
+"63","CESvalid2019.bb1",7,7,"brick","Beschilderen","beschilderen",2,3,3
+"64","CESvalid2019.bb2",80,510,"brick","Beschilderen","beschilderen",2,3,3
+"65","CESvalid2019.fb2",20,643,"brick","Beschilderen","beschilderen",2,3,3
+"66","CESvalid2019.fb2",34,664,"brick","beschilderen","beschilderen",2,3,3
+"67","CESvalid2019.fb2",47,683,"brick","Beschilderen","beschilderen",2,3,3
+"68","CESvalid2019.bf1",37,986,"brick","Beschilderen","beschilderen",2,3,3
+"69","CESvalid2019.fb2",20,640,"brick","Beschutting","beschutting",2,2,2
+"70","CESvalid2019.bb2",68,471,"brick","Bestek","bestek",1,5,4
+"71","CESvalid2019.fb2",92,827,"brick","betegelen","betegelen",1,1,1
+"72","CESvalid2019.bb2",42,436,"brick","Beton","beton",1,0,1
+"73","CESvalid2019.bb2",80,512,"brick","Iemand mee bewusteloos slaan","bewusteloos slaan",2,1,2
+"74","CESvalid2019.bb1",93,223,"brick","Bieropener","bieropener",4,4,3
+"75","CESvalid2019.bf1",96,1116,"brick","Bloembakken","bloembakken",3,1,3
+"76","CESvalid2019.bb2",120,602,"brick","bloemenhouder","bloemenhouder",3,1,3
+"77","CESvalid2019.bb1",114,260,"brick","Bloempot","bloempot",3,1,3
+"78","CESvalid2019.bb2",11,313,"brick","Bloempot van maken","bloempot",3,1,3
+"79","CESvalid2019.bb1",110,246,"brick","Blok","blok",1,0,1
+"80","CESvalid2019.bf1",98,1135,"brick","Blok","blok",1,0,1
+"81","CESvalid2019.bb1",23,73,"brick","Als blokkade","blokkade",2,2,2
+"82","CESvalid2019.fb2",59,731,"brick","Bob de bouwer","bob bouwer",0,0,3
+"83","CESvalid2019.bb1",11,29,"brick","Boe","boe",0,0,0
+"84","CESvalid2019.bb2",11,309,"brick","Boekenhouder","boekenhouder",4,3,2
+"85","CESvalid2019.bb2",102,568,"brick","Boekenhouder","boekenhouder",4,3,2
+"86","CESvalid2019.bb2",10,303,"brick","als boekenstandaard","boekenstandaard",4,3,2
+"87","CESvalid2019.bb1",10,20,"brick","als boekensteun","boekensteun",4,3,2
+"88","CESvalid2019.fb2",47,685,"brick","Boekensteun","boekensteun",4,3,2
+"89","CESvalid2019.fb2",49,695,"brick","boekensteun","boekensteun",4,3,2
+"90","CESvalid2019.bb1",102,238,"brick","Boekhouder","boekhouder",4,3,2
+"91","CESvalid2019.fb2",38,674,"brick","als boksbal","boksbal",4,4,3
+"92","CESvalid2019.bf1",54,1020,"brick","Boodschap/ kerstwens voor medestudenten","boodschap kerstwens medestudenten",2,0,4
+"93","CESvalid2019.bb2",71,492,"brick","Boog maken","boog",1,0,2
+"94","CESvalid2019.bf1",12,945,"brick","Boog","boog",1,0,2
+"95","CESvalid2019.bb2",97,559,"brick","Boot","boot",1,0,3
+"96","CESvalid2019.bb1",80,184,"brick","Als bord gebruiken","bord",3,4,3
+"97","CESvalid2019.bb1",110,258,"brick","Bord","bord",3,4,3
+"98","CESvalid2019.bb2",7,292,"brick","Bord","bord",3,4,3
+"99","CESvalid2019.bb2",25,374,"brick","Een bord voor een hipster restaurant","bord hipster restaurant",5,4,3
+"100","CESvalid2019.bb2",68,479,"brick","Borstel","borstel",1,5,3
+"101","CESvalid2019.fb2",59,733,"brick","Boterhammen","boterhammen",1,0,4
+"102","CESvalid2019.fb2",108,877,"brick","Bouw","bouw",1,1,1
+"103","CESvalid2019.bb1",4,1,"brick","Iets bouwen","bouwen",1,1,1
+"104","CESvalid2019.bb1",7,6,"brick","Bouwen","bouwen",1,1,1
+"105","CESvalid2019.bb1",10,15,"brick","bouwen","bouwen",1,1,1
+"106","CESvalid2019.bb1",22,58,"brick","Bouwen","bouwen",1,1,1
+"107","CESvalid2019.bb1",31,88,"brick","Bouwen","bouwen",1,1,1
+"108","CESvalid2019.bb1",36,103,"brick","bouwen","bouwen",1,1,1
+"109","CESvalid2019.bb1",55,133,"brick","Bouwen","bouwen",1,1,1
+"110","CESvalid2019.bb1",58,136,"brick","Bouwen","bouwen",1,1,1
+"111","CESvalid2019.bb1",61,149,"brick","Bouwen","bouwen",1,1,1
+"112","CESvalid2019.bb1",80,180,"brick","Bouwen","bouwen",1,1,1
+"113","CESvalid2019.bb1",85,207,"brick","Bouwen","bouwen",1,1,1
+"114","CESvalid2019.bb2",4,276,"brick","Iets bouwen","bouwen",1,1,1
+"115","CESvalid2019.bb2",28,385,"brick","zelf bouwen","bouwen",1,1,1
+"116","CESvalid2019.bb2",31,387,"brick","Bouwen","bouwen",1,1,1
+"117","CESvalid2019.bb2",36,406,"brick","bouwen","bouwen",1,1,1
+"118","CESvalid2019.bb2",55,448,"brick","Bouwen","bouwen",1,1,1
+"119","CESvalid2019.bb2",61,463,"brick","Iets bouwen","bouwen",1,1,1
+"120","CESvalid2019.bb2",80,501,"brick","Bouwen","bouwen",1,1,1
+"121","CESvalid2019.bb2",84,516,"brick","Bouwen","bouwen",1,1,1
+"122","CESvalid2019.bb2",85,526,"brick","Bouwen","bouwen",1,1,1
+"123","CESvalid2019.bb2",102,569,"brick","Bouwen","bouwen",1,1,1
+"124","CESvalid2019.fb2",29,654,"brick","bouwen","bouwen",1,1,1
+"125","CESvalid2019.fb2",49,691,"brick","bouwen","bouwen",1,1,1
+"126","CESvalid2019.fb2",65,744,"brick","Bouwen","bouwen",1,1,1
+"127","CESvalid2019.fb2",74,769,"brick","Bouwen","bouwen",1,1,1
+"128","CESvalid2019.fb2",78,779,"brick","bouwen","bouwen",1,1,1
+"129","CESvalid2019.fb2",81,797,"brick","er iets mee bouwen","bouwen",1,1,1
+"130","CESvalid2019.fb2",92,812,"brick","bouwen","bouwen",1,1,1
+"131","CESvalid2019.fb2",106,871,"brick","bouwen","bouwen",1,1,1
+"132","CESvalid2019.fb2",108,876,"brick","Bouwen","bouwen",1,1,1
+"133","CESvalid2019.fb2",111,885,"brick","Bouwen","bouwen",1,1,1
+"134","CESvalid2019.fb2",115,894,"brick","Bouwen","bouwen",1,1,1
+"135","CESvalid2019.fb2",118,902,"brick","Bouwen","bouwen",1,1,1
+"136","CESvalid2019.fb2",124,922,"brick","Bouwen","bouwen",1,1,1
+"137","CESvalid2019.fb2",125,926,"brick","Bouwen","bouwen",1,1,1
+"138","CESvalid2019.bf1",33,976,"brick","bouwen","bouwen",1,1,1
+"139","CESvalid2019.bf1",39,989,"brick","Bouwen","bouwen",1,1,1
+"140","CESvalid2019.bf1",50,1011,"brick","bouwen","bouwen",1,1,1
+"141","CESvalid2019.bf1",94,1101,"brick","Bouwen","bouwen",1,1,1
+"142","CESvalid2019.bf1",99,1144,"brick","Bouwen","bouwen",1,1,1
+"143","CESvalid2019.bf1",107,1147,"brick","Bouwen","bouwen",1,1,1
+"144","CESvalid2019.bf1",116,1159,"brick","Bouwen","bouwen",1,1,1
+"145","CESvalid2019.bf1",119,1170,"brick","bouwen","bouwen",1,1,1
+"146","CESvalid2019.bf1",122,1184,"brick","Bouwen","bouwen",1,1,1
+"147","CESvalid2019.bf1",77,1077,"brick","iets bouwen om met kinderen mee te spelen","bouwen kinderen spelen",1,1,2
+"148","CESvalid2019.bb2",114,590,"brick","Bouwmiddel","bouwmiddel",1,1,1
+"149","CESvalid2019.bb1",28,82,"brick","bouwpakket","bouwpakket",1,1,2
+"150","CESvalid2019.bb2",36,411,"brick","bouwsels","bouwsels",1,1,1
+"151","CESvalid2019.bb2",7,287,"brick","Bouwsteen","bouwsteen",1,1,1
+"152","CESvalid2019.bb1",18,45,"brick","Bouwvakker","bouwvakker",1,0,0
+"153","CESvalid2019.bb2",18,326,"brick","Bouwvakker","bouwvakker",1,0,0
+"154","CESvalid2019.bb2",42,430,"brick","Bouwvakker","bouwvakker",1,0,0
+"155","CESvalid2019.fb2",59,726,"brick","Bouwvakker","bouwvakker",1,0,0
+"156","CESvalid2019.fb2",111,886,"brick","Bouwvakker","bouwvakker",1,0,0
+"157","CESvalid2019.bb1",31,99,"brick","Bouwvakkers","bouwvakkers",1,0,0
+"158","CESvalid2019.bb2",31,400,"brick","bouwvakkers","bouwvakkers",1,0,0
+"159","CESvalid2019.bf1",98,1132,"brick","Bouwvakkers","bouwvakkers",1,0,0
+"160","CESvalid2019.bb2",18,338,"brick","Breken","breken",1,1,1
+"161","CESvalid2019.fb2",92,826,"brick","breken","breken",1,1,1
+"162","CESvalid2019.fb2",124,919,"brick","Breken","breken",1,1,1
+"163","CESvalid2019.bf1",30,972,"brick","breken","breken",1,1,1
+"164","CESvalid2019.bb1",103,245,"brick","Breken om te overleven (soort mes maken)","breken overleven",3,3,3
+"165","CESvalid2019.bb2",22,349,"brick","Een brug van maken","brug",1,1,2
+"166","CESvalid2019.bb2",128,604,"brick","Brug","brug",1,1,2
+"167","CESvalid2019.bf1",12,947,"brick","Brug","brug",1,1,2
+"168","CESvalid2019.bb1",110,248,"brick","Bruin","bruin",0,0,0
+"169","CESvalid2019.fb2",59,724,"brick","Bruin","bruin",0,0,0
+"170","CESvalid2019.fb2",118,908,"brick","Bruin","bruin",0,0,0
+"171","CESvalid2019.bf1",73,1055,"brick","bruin","bruin",0,0,0
+"172","CESvalid2019.bf1",94,1106,"brick","Bruin","bruin",0,0,0
+"173","CESvalid2019.bb2",68,475,"brick","Buigen","buigen",1,0,2
+"174","CESvalid2019.bb2",103,578,"brick","Buitenbbq maken","buiten barbecue",2,1,2
+"175","CESvalid2019.fb2",132,938,"brick","Buiten kinderen houden","buiten kinderen houden",2,0,2
+"176","CESvalid2019.bf1",86,1083,"brick","Bureau","bureau",3,1,3
+"177","CESvalid2019.bf1",123,1199,"brick","cadeau","cadeau",2,2,3
+"178","CESvalid2019.fb2",65,757,"brick","cafe baksteen","café baksteen",1,1,NA
+"179","CESvalid2019.bb1",22,62,"brick","Cement","cement",1,0,1
+"180","CESvalid2019.bb1",31,97,"brick","Cement","cement",1,0,1
+"181","CESvalid2019.fb2",108,880,"brick","Cement","cement",1,0,1
+"182","CESvalid2019.fb2",111,888,"brick","Cement","cement",1,0,1
+"183","CESvalid2019.fb2",118,904,"brick","Cement","cement",1,0,1
+"184","CESvalid2019.bf1",73,1048,"brick","cement","cement",1,0,1
+"185","CESvalid2019.bf1",76,1061,"brick","cement","cement",1,0,1
+"186","CESvalid2019.bf1",94,1100,"brick","Sement","cement",1,0,1
+"187","CESvalid2019.bb2",28,377,"brick","cement bouwpakket","cement bouwpakket",1,0,2
+"188","CESvalid2019.bb1",28,83,"brick","cementen voetbal","cementen voetbal",3,0,3
+"189","CESvalid2019.fb2",95,831,"brick","collab met supr<e8>me en verkopen","collab supreme verkopen",2,0,3
+"190","CESvalid2019.bf1",76,1062,"brick","in combinatie met beton","combinatie beton",0,0,1
+"191","CESvalid2019.bf1",76,1065,"brick","in combinatie met hout","combinatie hout",0,0,1
+"192","CESvalid2019.bb1",18,43,"brick","Constructie","constructie",1,1,1
+"193","CESvalid2019.bb2",36,407,"brick","constructie","constructie",1,1,1
+"194","CESvalid2019.bb1",44,127,"brick","Contragewicht","contragewicht",2,2,2
+"195","CESvalid2019.bb2",40,421,"brick","Contragewicht","contragewicht",2,2,2
+"196","CESvalid2019.bb2",44,441,"brick","Contragewicht","contragewicht",2,2,2
+"197","CESvalid2019.bf1",39,991,"brick","Contragewicht","contragewicht",2,2,2
+"198","CESvalid2019.fb2",65,745,"brick","Cree<eb>ren","creeëren",1,0,NA
+"199","CESvalid2019.fb2",100,861,"brick","De d","d",0,0,0
+"200","CESvalid2019.bb1",90,216,"brick","Dak","dak",1,1,2
+"201","CESvalid2019.fb2",45,680,"brick","op dakpan leggen","dakpan leggen",1,1,2
+"202","CESvalid2019.bf1",12,952,"brick","Dam","dam",1,3,2
+"203","CESvalid2019.bb1",25,77,"brick","Decoratie","decoratie",2,3,3
+"204","CESvalid2019.bb1",68,161,"brick","Decoratie","decoratie",2,3,3
+"205","CESvalid2019.bb1",90,210,"brick","Decoratie","decoratie",2,3,3
+"206","CESvalid2019.bb2",25,373,"brick","Als decoratie gebruiken","decoratie",2,3,3
+"207","CESvalid2019.bb2",68,476,"brick","Decoratie","decoratie",2,3,NA
+"208","CESvalid2019.bb2",114,593,"brick","Decoratie","decoratie",2,3,3
+"209","CESvalid2019.bf1",46,1001,"brick","Decoratie","decoratie",2,3,3
+"210","CESvalid2019.bf1",67,1041,"brick","Decoratie","decoratie",2,3,3
+"211","CESvalid2019.bf1",54,1024,"brick","Deeltjes in potten","deeltjes potten",3,3,2
+"212","CESvalid2019.bb2",7,294,"brick","Deksel","deksel",3,2,2
+"213","CESvalid2019.bb1",18,49,"brick","Deur","deur",1,0,2
+"214","CESvalid2019.bb2",90,547,"brick","Deur","deur",1,0,2
+"215","CESvalid2019.fb2",100,862,"brick","Deur","deur",1,0,2
+"216","CESvalid2019.bb2",84,524,"brick","Deur open houden","deur open houden",2,2,2
+"217","CESvalid2019.bb2",23,368,"brick","Als deur open houder","deur open houder",2,2,2
+"218","CESvalid2019.bb1",84,195,"brick","En deur openhouden","deur openhouden",2,2,2
+"219","CESvalid2019.bb2",93,556,"brick","Deur openhouden","deur openhouden",2,2,2
+"220","CESvalid2019.bb1",40,115,"brick","Deur tegen te houden","deur tegen houden",2,2,2
+"221","CESvalid2019.bb2",40,418,"brick","Deur tegen houden","deur tegen houden",2,2,2
+"222","CESvalid2019.bb2",80,509,"brick","Deur mee tegen houden","deur tegen houden",2,2,2
+"223","CESvalid2019.fb2",51,707,"brick","deur tegenhouden","deur tegenhouden",2,2,2
+"224","CESvalid2019.fb2",132,930,"brick","Deur vasthouden","deur vasthouden",2,2,2
+"225","CESvalid2019.bb2",102,563,"brick","Deurklem","deurklem",2,2,2
+"226","CESvalid2019.bb1",25,79,"brick","Deurstopper","deurstopper",2,2,2
+"227","CESvalid2019.bb1",44,126,"brick","Deurstop","deurstopper",2,2,2
+"228","CESvalid2019.bb1",102,237,"brick","Deurstop","deurstopper",2,2,2
+"229","CESvalid2019.bb2",10,305,"brick","deurstop","deurstopper",2,2,2
+"230","CESvalid2019.bb2",11,308,"brick","Deurstopper","deurstopper",2,2,2
+"231","CESvalid2019.bb2",28,383,"brick","deurstopper","deurstopper",2,2,2
+"232","CESvalid2019.bb2",44,440,"brick","Deurstop","deurstopper",2,2,2
+"233","CESvalid2019.fb2",47,686,"brick","Deurstopper","deurstopper",2,2,2
+"234","CESvalid2019.fb2",115,897,"brick","Deurstop","deurstopper",2,2,2
+"235","CESvalid2019.bb1",80,192,"brick","Din","din",0,0,0
+"236","CESvalid2019.bf1",30,974,"brick","dingen mee fijn malen","dingen fijn malen",2,2,3
+"237","CESvalid2019.bf1",30,975,"brick","dingen mee kapot maken","dingen kapot",1,2,2
+"238","CESvalid2019.bb2",58,459,"brick","Gebruiken om dingen mee te laten zinken","dingen laten zinken",2,2,2
+"239","CESvalid2019.bb1",55,130,"brick","Dingen slopen","dingen slopen",1,2,2
+"240","CESvalid2019.fb2",115,895,"brick","Dingen tegenhouden","dingen tegenhouden",2,2,2
+"241","CESvalid2019.fb2",100,841,"brick","Doekoe","doekoe",0,0,3
+"242","CESvalid2019.bb2",10,301,"brick","als doel gebruiken","doel",3,2,3
+"243","CESvalid2019.bf1",96,1120,"brick","De dom toren","dom toren",1,0,2
+"244","CESvalid2019.fb2",49,696,"brick","domino","domino",4,3,3
+"245","CESvalid2019.fb2",64,741,"brick","Domino","domino",4,3,3
+"246","CESvalid2019.bf1",50,1013,"brick","domino","domino",4,3,3
+"247","CESvalid2019.bb1",58,139,"brick","Gebruiken voor domino<U+0092>s","domino s",4,3,3
+"248","CESvalid2019.fb2",34,666,"brick","domino spel","domino spel",4,3,3
+"249","CESvalid2019.bf1",77,1073,"brick","donkere kleuren","donkere kleuren",0,0,3
+"250","CESvalid2019.fb2",100,844,"brick","Donnie","donnie",0,0,0
+"251","CESvalid2019.fb2",100,845,"brick","Twee donnie","donnie",0,0,0
+"252","CESvalid2019.fb2",100,846,"brick","Drie donniee","donniee",0,0,0
+"253","CESvalid2019.fb2",92,815,"brick","doodslag","doodslag",2,1,2
+"254","CESvalid2019.bb2",31,391,"brick","Doorbreken","doorbreken",1,1,1
+"255","CESvalid2019.fb2",51,710,"brick","doormidden zagen","doormidden zagen",1,0,1
+"256","CESvalid2019.fb2",69,760,"brick","Dreigement","dreigement",2,0,2
+"257","CESvalid2019.bb2",84,520,"brick","Dreigen te gooien met baksteen","dreigen gooien baksteen",2,1,2
+"258","CESvalid2019.bf1",122,1192,"brick","Duurzaam","duurzaam",0,0,0
+"259","CESvalid2019.fb2",100,853,"brick","Eikel","eikel",0,0,0
+"260","CESvalid2019.bf1",77,1075,"brick","op elkaar stapelen","elkaar stapelen",2,1,1
+"261","CESvalid2019.fb2",51,712,"brick","ergens aan bevestigen","ergens bevestigen",2,1,2
+"262","CESvalid2019.fb2",81,796,"brick","ernaar kijken","ernaar kijken",1,1,2
+"263","CESvalid2019.bf1",67,1040,"brick","Erop staan","erop staan",2,1,2
+"264","CESvalid2019.bb1",58,145,"brick","Erop tekenen en een mini stad maken","erop tekenen mini stad",4,3,3
+"265","CESvalid2019.bf1",91,1097,"brick","Je kan erop zitten","erop zitten",2,1,2
+"266","CESvalid2019.bf1",123,1203,"brick","etaleren","etaleren",2,0,3
+"267","CESvalid2019.bb2",68,472,"brick","Eten","eten",1,5,4
+"268","CESvalid2019.bb2",80,504,"brick","Van eten","eten",3,5,4
+"269","CESvalid2019.bb2",97,558,"brick","Eten","eten",1,5,4
+"270","CESvalid2019.bb2",68,480,"brick","Eten stampen","eten stampen",3,3,3
+"271","CESvalid2019.bb1",22,61,"brick","Fabrieken","fabrieken",0,0,2
+"272","CESvalid2019.bb1",90,218,"brick","Fiets","fiets",1,0,3
+"273","CESvalid2019.bf1",12,948,"brick","Fietspad","fietspad",1,1,2
+"274","CESvalid2019.fb2",121,914,"brick","Figuren bouwen","figuren bouwen",1,1,3
+"275","CESvalid2019.fb2",49,701,"brick","fijnmalen","fijnmalen",2,3,1
+"276","CESvalid2019.bb1",22,69,"brick","Filtreren van vervuild bv","filtreren vervuild bv",4,0,2
+"277","CESvalid2019.bb1",97,230,"brick","Flatgebouw","flatgebouw",1,1,2
+"278","CESvalid2019.fb2",65,747,"brick","fotografie","fotografie",2,0,3
+"279","CESvalid2019.fb2",65,758,"brick","Fundament","fundament",0,0,1
+"280","CESvalid2019.bf1",76,1060,"brick","fundering","fundering",1,0,1
+"281","CESvalid2019.fb2",45,681,"brick","gat mee dichten","gat dichten",2,2,2
+"282","CESvalid2019.fb2",47,688,"brick","Gat in maken met plant","gat plant",3,3,3
+"283","CESvalid2019.bf1",96,1113,"brick","Gebakjes van steen","gebakjes steen",2,4,4
+"284","CESvalid2019.bf1",73,1049,"brick","gebakken","gebakken",1,1,0
+"285","CESvalid2019.bf1",96,1111,"brick","Gebakken steen","gebakken steen",1,4,1
+"286","CESvalid2019.bb1",36,105,"brick","gebouw","gebouw",1,1,1
+"287","CESvalid2019.bb1",85,201,"brick","Gebouw","gebouw",1,1,1
+"288","CESvalid2019.bb1",114,259,"brick","Gebouw","gebouw",1,1,1
+"289","CESvalid2019.bb2",36,409,"brick","gebouw","gebouw",1,1,1
+"290","CESvalid2019.bb2",42,429,"brick","Gebouw","gebouw",1,1,1
+"291","CESvalid2019.fb2",59,722,"brick","gebouw","gebouw",1,1,1
+"292","CESvalid2019.fb2",118,907,"brick","Gebouw","gebouw",1,1,1
+"293","CESvalid2019.bf1",73,1044,"brick","gebouw","gebouw",1,1,1
+"294","CESvalid2019.bf1",119,1172,"brick","gebouw","gebouw",1,1,1
+"295","CESvalid2019.bb1",129,271,"brick","Gebouw bouwen","gebouw bouwen",1,1,1
+"296","CESvalid2019.fb2",132,936,"brick","Gebouw bouwen","gebouw bouwen",1,1,1
+"297","CESvalid2019.bb2",44,443,"brick","Gebouwen","gebouwen",1,1,1
+"298","CESvalid2019.bb2",110,587,"brick","Gebouwen","gebouwen",1,1,1
+"299","CESvalid2019.bb2",129,615,"brick","Gebouwen bouwen","gebouwen bouwen",1,1,1
+"300","CESvalid2019.bf1",43,998,"brick","Gebruik als handrem (achter de banden leggen van een auto)","gebruik handrem",3,3,3
+"301","CESvalid2019.bf1",43,995,"brick","Gebruik voor kunst","gebruik kunst",2,2,3
+"302","CESvalid2019.bb1",14,35,"brick","gebruiksvoorwerpen maken","gebruiksvoorwerpen",1,1,2
+"303","CESvalid2019.bb2",14,319,"brick","gebruiksvoorwerpen maken","gebruiksvoorwerpen",1,1,2
+"304","CESvalid2019.bb1",128,266,"brick","Gekleurde huis maken","gekleurde huis",1,0,2
+"305","CESvalid2019.bb2",4,281,"brick","Geluid maken","geluid",2,3,3
+"306","CESvalid2019.bb1",7,10,"brick","Geluid door krassen/op elkaar tikken","geluid krassen elkaar tikken",2,3,3
+"307","CESvalid2019.bb2",114,591,"brick","Geluidsisolatie","geluidsisolatie",2,3,3
+"308","CESvalid2019.bb2",68,477,"brick","Gebruiken als gereedschap","gereedschap",3,3,3
+"309","CESvalid2019.fb2",92,825,"brick","geschiedenis","geschiedenis",0,0,0
+"310","CESvalid2019.fb2",65,748,"brick","geur","geur",0,0,3
+"311","CESvalid2019.fb2",111,889,"brick","Gevaarlijk","gevaarlijk",0,0,0
+"312","CESvalid2019.fb2",118,906,"brick","Gevaarlijk","gevaarlijk",0,0,0
+"313","CESvalid2019.bb1",23,71,"brick","Als gewicht gebruiken","gewicht",2,1,2
+"314","CESvalid2019.bb2",23,362,"brick","Gewicht","gewicht",2,0,2
+"315","CESvalid2019.bf1",89,1086,"brick","Gebruiken als Gewicht","gewicht",2,1,2
+"316","CESvalid2019.bf1",119,1183,"brick","gewicht","gewicht",2,0,2
+"317","CESvalid2019.fb2",64,736,"brick","Gewicht ergens in plaatsen","gewicht ergens plaatsen",2,1,2
+"318","CESvalid2019.fb2",3,621,"brick","gewicht om mee te trainen","gewicht trainen",3,4,2
+"319","CESvalid2019.bb2",31,398,"brick","gewichtheffen","gewichtheffen",3,4,2
+"320","CESvalid2019.fb2",15,635,"brick","gewichtheffen","gewichtheffen",3,4,2
+"321","CESvalid2019.fb2",51,714,"brick","gewichtheffen","gewichtheffen",3,4,NA
+"322","CESvalid2019.fb2",64,739,"brick","Gewichtheffen","gewichtheffen",3,4,2
+"323","CESvalid2019.bf1",96,1126,"brick","Gewonden mensen","gewonden mensen",2,1,2
+"324","CESvalid2019.bb2",120,599,"brick","gezicht van een mannetje","gezicht mannetje",1,0,3
+"325","CESvalid2019.bb2",31,396,"brick","glas mee stuk gooien","glas stuk gooien",2,1,1
+"326","CESvalid2019.bf1",54,1018,"brick","Glitter","glitter",0,0,4
+"327","CESvalid2019.bf1",24,962,"brick","als gooi object","gooi object",1,1,2
+"328","CESvalid2019.bb1",4,2,"brick","Gooien","gooien",1,1,2
+"329","CESvalid2019.bb1",18,38,"brick","Gooien","gooien",1,1,2
+"330","CESvalid2019.bb1",18,54,"brick","Gooien","gooien",1,1,2
+"331","CESvalid2019.bb1",22,57,"brick","Gooien","gooien",1,1,2
+"332","CESvalid2019.bb1",61,150,"brick","Gooien","gooien",1,1,2
+"333","CESvalid2019.bb1",68,157,"brick","Gooien","gooien",1,1,2
+"334","CESvalid2019.bb1",71,164,"brick","Gooien","gooien",1,1,2
+"335","CESvalid2019.bb1",75,179,"brick","Mee gooien","gooien",1,1,2
+"336","CESvalid2019.bb1",80,181,"brick","Gooien","gooien",1,1,2
+"337","CESvalid2019.bb2",4,277,"brick","Gooien","gooien",1,1,2
+"338","CESvalid2019.bb2",10,298,"brick","over gooien","gooien",1,1,2
+"339","CESvalid2019.bb2",18,321,"brick","Gooien","gooien",1,1,2
+"340","CESvalid2019.bb2",22,347,"brick","Gooien","gooien",1,1,2
+"341","CESvalid2019.bb2",25,370,"brick","Gooien","gooien",1,1,2
+"342","CESvalid2019.bb2",61,465,"brick","Gooien","gooien",1,1,2
+"343","CESvalid2019.bb2",68,481,"brick","Gooien","gooien",1,1,2
+"344","CESvalid2019.bb2",71,486,"brick","Gooien","gooien",1,1,2
+"345","CESvalid2019.bb2",80,502,"brick","Gooien","gooien",1,1,2
+"346","CESvalid2019.bb2",85,529,"brick","Gooien","gooien",1,1,2
+"347","CESvalid2019.bb2",90,546,"brick","Gooien","gooien",1,1,2
+"348","CESvalid2019.fb2",15,630,"brick","gooien","gooien",1,1,2
+"349","CESvalid2019.fb2",29,653,"brick","mee gooien","gooien",1,1,2
+"350","CESvalid2019.fb2",38,671,"brick","gooien","gooien",1,1,2
+"351","CESvalid2019.fb2",51,705,"brick","gooien","gooien",1,1,2
+"352","CESvalid2019.fb2",74,768,"brick","Gooien","gooien",1,1,2
+"353","CESvalid2019.fb2",78,778,"brick","gooien","gooien",1,1,2
+"354","CESvalid2019.fb2",81,790,"brick","gooien","gooien",1,1,2
+"355","CESvalid2019.fb2",83,811,"brick","Gooien","gooien",1,1,2
+"356","CESvalid2019.fb2",92,817,"brick","gooien","gooien",1,1,2
+"357","CESvalid2019.fb2",95,828,"brick","gooien","gooien",1,1,2
+"358","CESvalid2019.fb2",124,923,"brick","Gooien","gooien",1,1,2
+"359","CESvalid2019.bf1",33,977,"brick","gooien","gooien",1,1,2
+"360","CESvalid2019.bf1",37,985,"brick","Gooien","gooien",1,1,2
+"361","CESvalid2019.bf1",39,988,"brick","Gooien","gooien",1,1,2
+"362","CESvalid2019.bf1",50,1012,"brick","gooien","gooien",1,1,2
+"363","CESvalid2019.bf1",107,1149,"brick","Gooien","gooien",1,1,2
+"364","CESvalid2019.bf1",116,1161,"brick","Gooien","gooien",1,1,2
+"365","CESvalid2019.fb2",45,675,"brick","mee gooien bij demonstratie","gooien demonstratie",1,1,2
+"366","CESvalid2019.fb2",20,644,"brick","Graffiti","graffiti",2,0,3
+"367","CESvalid2019.bb1",18,50,"brick","Grappen","grappen",0,0,3
+"368","CESvalid2019.bb1",18,51,"brick","Grappig","grappig",0,0,0
+"369","CESvalid2019.fb2",81,795,"brick","graveren","graveren",2,3,3
+"370","CESvalid2019.fb2",121,916,"brick","Uitgraveren","graveren",2,3,3
+"371","CESvalid2019.fb2",69,767,"brick","Grens","grens",2,2,2
+"372","CESvalid2019.fb2",118,910,"brick","Grijs","grijs",0,0,0
+"373","CESvalid2019.bf1",73,1053,"brick","grijs","grijs",0,0,0
+"374","CESvalid2019.bf1",98,1142,"brick","Grijs","grijs",0,0,0
+"375","CESvalid2019.bb2",22,359,"brick","Grindpad van maken","grindpad",2,1,1
+"376","CESvalid2019.bf1",96,1122,"brick","Grint","grint",2,1,1
+"377","CESvalid2019.bb1",110,257,"brick","Grond","grond",1,0,1
+"378","CESvalid2019.fb2",111,892,"brick","Groot","groot",0,0,0
+"379","CESvalid2019.bf1",98,1138,"brick","Groot","groot",0,0,0
+"380","CESvalid2019.bb1",28,87,"brick","grote mensen lego","grote mensen lego",2,3,4
+"381","CESvalid2019.bb2",28,379,"brick","grote mensen lego","grote mensen lego",2,3,4
+"382","CESvalid2019.bb2",68,482,"brick","Hakken","hakken",3,1,2
+"383","CESvalid2019.bf1",123,1201,"brick","hakken","hakken",3,1,2
+"384","CESvalid2019.bb1",102,232,"brick","Hamer","hamer",3,3,2
+"385","CESvalid2019.bb2",40,420,"brick","Als hamer gebruiken","hamer",3,3,2
+"386","CESvalid2019.bb2",102,566,"brick","Hamer","hamer",3,3,2
+"387","CESvalid2019.fb2",38,672,"brick","als hamer","hamer",3,3,2
+"388","CESvalid2019.bb1",80,183,"brick","hameren","hameren",3,3,2
+"389","CESvalid2019.fb2",108,879,"brick","Handig","handig",0,0,0
+"390","CESvalid2019.bb1",18,37,"brick","Hard","hard",0,0,0
+"391","CESvalid2019.bb1",110,249,"brick","Hard","hard",0,0,0
+"392","CESvalid2019.bb2",110,583,"brick","Hard","hard",0,0,0
+"393","CESvalid2019.fb2",65,753,"brick","Hard","hard",0,0,0
+"394","CESvalid2019.fb2",111,883,"brick","Hard","hard",0,0,0
+"395","CESvalid2019.fb2",118,905,"brick","Hard","hard",0,0,0
+"396","CESvalid2019.bf1",60,1029,"brick","Hard","hard",0,0,0
+"397","CESvalid2019.bf1",73,1045,"brick","hard","hard",0,0,0
+"398","CESvalid2019.bf1",94,1102,"brick","Hard","hard",0,0,0
+"399","CESvalid2019.bf1",112,1158,"brick","hard","hard",0,0,0
+"400","CESvalid2019.bb1",18,46,"brick","Helm","helm",2,4,4
+"401","CESvalid2019.bb2",18,330,"brick","Helm","helm",2,4,4
+"402","CESvalid2019.fb2",59,732,"brick","Helm","helm",2,4,4
+"403","CESvalid2019.fb2",8,629,"brick","Herdenking","herdenking",0,0,3
+"404","CESvalid2019.bb1",71,172,"brick","Herrie maken","herrie",2,0,3
+"405","CESvalid2019.bb1",18,41,"brick","Hersenletsel","hersenletsel",2,0,2
+"406","CESvalid2019.bb2",18,333,"brick","Hersenletsel","hersenletsel",2,0,2
+"407","CESvalid2019.fb2",20,641,"brick","Hersens inslaan","hersens inslaan",2,0,2
+"408","CESvalid2019.bb1",18,39,"brick","Herschenschudding","hersenschudding",2,0,2
+"409","CESvalid2019.bb2",18,334,"brick","Hersenschudding","hersenschudding",2,0,2
+"410","CESvalid2019.bb2",31,401,"brick","hijskran","hijskraan",0,0,3
+"411","CESvalid2019.bb1",110,254,"brick","Hobby","hobby",0,0,3
+"412","CESvalid2019.bb2",42,427,"brick","Hok","hok",1,1,2
+"413","CESvalid2019.bf1",119,1178,"brick","hok","hok",1,1,2
+"414","CESvalid2019.bb1",71,169,"brick","Hondenhok maken","hondenhok",1,1,2
+"415","CESvalid2019.bf1",94,1110,"brick","Hondenhok","hondenhok",1,1,2
+"416","CESvalid2019.bb2",18,340,"brick","Hoofd","hoofd",0,0,0
+"417","CESvalid2019.bb2",18,335,"brick","Hoofdpijn","hoofdpijn",0,0,0
+"418","CESvalid2019.fb2",20,647,"brick","Hoogte cre<eb>ren","hoogte creëren",2,0,NA
+"419","CESvalid2019.bb1",102,235,"brick","Houder","houder",2,2,2
+"420","CESvalid2019.fb2",3,622,"brick","houder om iets rechtop te laten staan","houder rechtop laten staan",3,2,2
+"421","CESvalid2019.fb2",83,808,"brick","Houtkachel","houtkachel",1,3,2
+"422","CESvalid2019.bb2",18,342,"brick","Huilen","huilen",0,0,1
+"423","CESvalid2019.bb1",25,76,"brick","Huis","huis",1,1,1
+"424","CESvalid2019.bb1",31,90,"brick","Huis","huis",1,1,1
+"425","CESvalid2019.bb1",36,104,"brick","huis","huis",1,1,1
+"426","CESvalid2019.bb1",42,119,"brick","Huis","huis",1,1,1
+"427","CESvalid2019.bb1",85,200,"brick","Huis","huis",1,1,1
+"428","CESvalid2019.bb1",90,209,"brick","Huis","huis",1,1,1
+"429","CESvalid2019.bb1",97,228,"brick","Huis","huis",1,1,1
+"430","CESvalid2019.bb2",36,403,"brick","huis","huis",1,1,1
+"431","CESvalid2019.bb2",42,423,"brick","Huis","huis",1,1,1
+"432","CESvalid2019.bb2",85,525,"brick","Huis","huis",1,1,1
+"433","CESvalid2019.bb2",90,538,"brick","Huis","huis",1,1,1
+"434","CESvalid2019.bb2",110,584,"brick","Huis","huis",1,1,1
+"435","CESvalid2019.bb2",128,605,"brick","Huis","huis",1,1,1
+"436","CESvalid2019.fb2",8,625,"brick","Huis","huis",1,1,1
+"437","CESvalid2019.fb2",20,637,"brick","Huis","huis",1,1,1
+"438","CESvalid2019.fb2",29,649,"brick","huis","huis",1,1,1
+"439","CESvalid2019.fb2",53,719,"brick","huis","huis",1,1,1
+"440","CESvalid2019.fb2",59,721,"brick","Huis","huis",1,1,1
+"441","CESvalid2019.fb2",65,743,"brick","Huis","huis",1,1,1
+"442","CESvalid2019.fb2",83,798,"brick","Huis","huis",1,1,1
+"443","CESvalid2019.fb2",108,875,"brick","Huis","huis",1,1,1
+"444","CESvalid2019.fb2",111,881,"brick","Huis","huis",1,1,1
+"445","CESvalid2019.fb2",118,899,"brick","Huis","huis",1,1,1
+"446","CESvalid2019.bf1",12,941,"brick","Huis","huis",1,1,1
+"447","CESvalid2019.bf1",46,999,"brick","Huis","huis",1,1,1
+"448","CESvalid2019.bf1",48,1006,"brick","Huis","huis",1,1,1
+"449","CESvalid2019.bf1",60,1026,"brick","Huis","huis",1,1,1
+"450","CESvalid2019.bf1",73,1042,"brick","huis","huis",1,1,1
+"451","CESvalid2019.bf1",76,1057,"brick","huis","huis",1,1,1
+"452","CESvalid2019.bf1",86,1082,"brick","Huis","huis",1,1,1
+"453","CESvalid2019.bf1",94,1099,"brick","Huis","huis",1,1,1
+"454","CESvalid2019.bf1",96,1117,"brick","Een huis","huis",1,1,1
+"455","CESvalid2019.bf1",98,1129,"brick","Huis","huis",1,1,1
+"456","CESvalid2019.bf1",112,1152,"brick","huis","huis",1,1,1
+"457","CESvalid2019.bf1",119,1169,"brick","huis","huis",1,1,1
+"458","CESvalid2019.bf1",122,1188,"brick","Huis","huis",1,1,1
+"459","CESvalid2019.bb2",28,375,"brick","huis bouw bestanddeel","huis bouw bestanddeel",1,1,1
+"460","CESvalid2019.bb1",14,32,"brick","huis bouwen","huis bouwen",1,1,1
+"461","CESvalid2019.bb1",58,148,"brick","Een huis mee bouwen","huis bouwen",1,1,1
+"462","CESvalid2019.bb1",68,155,"brick","Huis bouwen","huis bouwen",1,1,1
+"463","CESvalid2019.bb1",75,173,"brick","Huis bouwen","huis bouwen",1,1,1
+"464","CESvalid2019.bb1",84,197,"brick","Huis bouwen","huis bouwen",1,1,1
+"465","CESvalid2019.bb1",93,219,"brick","Huis bouwen","huis bouwen",1,1,1
+"466","CESvalid2019.bb1",103,241,"brick","Huis bouwen","huis bouwen",1,1,1
+"467","CESvalid2019.bb1",129,270,"brick","Huis bouwen","huis bouwen",1,1,1
+"468","CESvalid2019.bb2",14,316,"brick","huis bouwen","huis bouwen",1,1,1
+"469","CESvalid2019.bb2",22,348,"brick","Huis van bouwen","huis bouwen",1,1,1
+"470","CESvalid2019.bb2",25,371,"brick","Een huis bouwen","huis bouwen",1,1,1
+"471","CESvalid2019.bb2",58,457,"brick","Huis mee bouwen","huis bouwen",1,1,1
+"472","CESvalid2019.bb2",75,493,"brick","Huis bouwen","huis bouwen",1,1,1
+"473","CESvalid2019.bb2",84,515,"brick","Huis bouwen","huis bouwen",1,1,1
+"474","CESvalid2019.bb2",93,549,"brick","Huis bouwen","huis bouwen",1,1,1
+"475","CESvalid2019.bb2",103,572,"brick","Huis bouwen","huis bouwen",1,1,1
+"476","CESvalid2019.bb2",129,611,"brick","Huis bouwen","huis bouwen",1,1,1
+"477","CESvalid2019.fb2",34,661,"brick","huis bouwen","huis bouwen",1,1,1
+"478","CESvalid2019.fb2",38,669,"brick","huis bouwen","huis bouwen",1,1,1
+"479","CESvalid2019.fb2",51,704,"brick","huis bouwen","huis bouwen",1,1,1
+"480","CESvalid2019.fb2",64,734,"brick","Huis bouwen","huis bouwen",1,1,1
+"481","CESvalid2019.fb2",132,935,"brick","Huis bouwen","huis bouwen",1,1,1
+"482","CESvalid2019.bf1",30,968,"brick","huis bouwen","huis bouwen",1,1,1
+"483","CESvalid2019.bf1",67,1038,"brick","Een huis bouwen","huis bouwen",1,1,1
+"484","CESvalid2019.bf1",77,1074,"brick","een huis bouwen","huis bouwen",1,1,1
+"485","CESvalid2019.bf1",91,1092,"brick","Huis bouwen","huis bouwen",1,1,1
+"486","CESvalid2019.bf1",123,1193,"brick","huis bouwen","huis bouwen",1,1,1
+"487","CESvalid2019.bb1",28,81,"brick","huisbestanddeel","huisbestanddeel",1,1,1
+"488","CESvalid2019.bb1",28,86,"brick","huisbouwcel","huisbouwcel",1,1,1
+"489","CESvalid2019.bb1",120,264,"brick","huisje","huisje",1,1,1
+"490","CESvalid2019.bb2",120,597,"brick","huisje","huisje",1,1,1
+"491","CESvalid2019.bb2",36,414,"brick","huisvesting","huisvesting",1,1,1
+"492","CESvalid2019.bb1",110,253,"brick","Huizen","huizen",1,1,1
+"493","CESvalid2019.bf1",123,1195,"brick","huizen","huizen",1,1,1
+"494","CESvalid2019.bb1",44,125,"brick","Huizen bouwen","huizen bouwen",1,1,1
+"495","CESvalid2019.fb2",95,829,"brick","huizen bouwen","huizen bouwen",1,1,1
+"496","CESvalid2019.bb1",97,229,"brick","Hut","hut",1,1,1
+"497","CESvalid2019.bf1",119,1176,"brick","hut","hut",1,1,1
+"498","CESvalid2019.fb2",95,833,"brick","hutje maken","hutje",1,1,1
+"499","CESvalid2019.fb2",29,652,"brick","iemands hersens inslaan","iemands hersens inslaan",2,2,2
+"500","CESvalid2019.bb2",84,519,"brick","Door iemands ruit gooien","iemands ruit gooien",1,2,2
+"501","CESvalid2019.bb2",58,462,"brick","Ijs mee breken","ijs breken",2,2,2
+"502","CESvalid2019.bb2",22,355,"brick","Een ijzersterk en van bouwen","ijzersterk bouwen",1,0,1
+"503","CESvalid2019.fb2",92,816,"brick","inbreken","inbreken",2,2,2
+"504","CESvalid2019.bf1",76,1067,"brick","industrieel","industrieel",0,0,0
+"505","CESvalid2019.bb2",61,469,"brick","Inpakken (grapje)","inpakken",2,3,3
+"506","CESvalid2019.bb1",61,153,"brick","Inpakken als geintje (cadeau)","inpakken geintje",2,3,3
+"507","CESvalid2019.fb2",106,872,"brick","interieur","interieur",2,1,3
+"508","CESvalid2019.bf1",122,1189,"brick","Gebruiken als interieur","interieur",2,1,3
+"509","CESvalid2019.fb2",100,857,"brick","Ist","ist",0,0,0
+"510","CESvalid2019.fb2",100,838,"brick","Jemoeder","jemoeder",0,0,0
+"511","CESvalid2019.bb2",90,545,"brick","Yenga","jenga",4,3,3
+"512","CESvalid2019.bb2",80,508,"brick","Jenga mee spelen","jenga spelen",4,3,3
+"513","CESvalid2019.bf1",77,1076,"brick","yenga mee spelen","jenga spelen",4,3,3
+"514","CESvalid2019.fb2",100,840,"brick","Jeoma","jeoma",0,0,0
+"515","CESvalid2019.fb2",100,854,"brick","Jerk","jerk",0,0,0
+"516","CESvalid2019.fb2",100,839,"brick","Jevader","jevader",0,0,0
+"517","CESvalid2019.fb2",100,855,"brick","John","john",0,0,0
+"518","CESvalid2019.bf1",48,1007,"brick","Kachel","kachel",1,0,2
+"519","CESvalid2019.fb2",100,850,"brick","Kak","kak",0,0,0
+"520","CESvalid2019.bb2",7,284,"brick","Kandelaar","kandelaar",3,2,3
+"521","CESvalid2019.bb2",7,293,"brick","Kandelaar","kandelaar",3,2,3
+"522","CESvalid2019.bb1",75,176,"brick","Iets kapot maken","kapot",2,1,1
+"523","CESvalid2019.bb1",80,187,"brick","Kapot maken","kapot",1,1,1
+"524","CESvalid2019.bb2",75,496,"brick","Iets kapot maken","kapot",1,1,1
+"525","CESvalid2019.bb2",80,503,"brick","Kapot maken","kapot",1,1,1
+"526","CESvalid2019.fb2",29,655,"brick","kapot maken","kapot",1,1,1
+"527","CESvalid2019.fb2",132,933,"brick","Iets kapot mee maken","kapot",1,1,1
+"528","CESvalid2019.bf1",54,1023,"brick","Kapot maken","kapot",1,1,1
+"529","CESvalid2019.bf1",107,1151,"brick","Kapot maken","kapot",1,1,1
+"530","CESvalid2019.bb1",4,3,"brick","Iets kapot slaan","kapot slaan",1,1,1
+"531","CESvalid2019.bb2",4,280,"brick","Iets kapot slaan","kapot slaan",1,1,1
+"532","CESvalid2019.fb2",106,868,"brick","iets kapot slaan","kapot slaan",1,1,1
+"533","CESvalid2019.fb2",92,818,"brick","kapotmaken","kapotmaken",1,1,1
+"534","CESvalid2019.bf1",96,1125,"brick","Kapotte ramen","kapotte ramen",1,1,1
+"535","CESvalid2019.bb1",11,26,"brick","Kast mee maken","kast",3,1,2
+"536","CESvalid2019.bb2",10,302,"brick","kast mee bouwen","kast bouwen",3,1,2
+"537","CESvalid2019.bb2",11,311,"brick","Kast bouwen","kast bouwen",3,1,2
+"538","CESvalid2019.bf1",12,946,"brick","Kasteel","kasteel",1,1,2
+"539","CESvalid2019.fb2",121,912,"brick","Kasteel bouwen","kasteel bouwen",1,1,2
+"540","CESvalid2019.fb2",3,617,"brick","kegel","kegel",3,0,3
+"541","CESvalid2019.fb2",64,740,"brick","Kegelen","kegelen",3,2,3
+"542","CESvalid2019.bf1",60,1032,"brick","Kei","kei",1,1,2
+"543","CESvalid2019.bb2",10,304,"brick","als kerstboomhouder","kerstboomhouder",4,2,3
+"544","CESvalid2019.bf1",16,958,"brick","keukenbar","keukenbar",2,1,3
+"545","CESvalid2019.bb1",22,65,"brick","Kinderkopjes","kinderkopjes",1,3,2
+"546","CESvalid2019.fb2",100,864,"brick","Kkr","kkr",0,0,0
+"547","CESvalid2019.bb1",36,110,"brick","klei","klei",1,0,2
+"548","CESvalid2019.bb2",110,580,"brick","Klei","klei",1,0,2
+"549","CESvalid2019.bf1",73,1047,"brick","klei","klei",1,0,2
+"550","CESvalid2019.bf1",122,1187,"brick","Kleien","kleien",1,0,2
+"551","CESvalid2019.bf1",98,1137,"brick","Klein","klein",0,0,2
+"552","CESvalid2019.bb2",102,571,"brick","Klem","klem",2,2,2
+"553","CESvalid2019.bf1",116,1167,"brick","Klemmen","klemmen",2,2,2
+"554","CESvalid2019.bb2",7,289,"brick","Kleurblad","kleurblad",3,3,3
+"555","CESvalid2019.fb2",69,763,"brick","Kleuren","kleuren",2,3,3
+"556","CESvalid2019.fb2",15,632,"brick","op klimmen","klimmen",2,2,3
+"557","CESvalid2019.bb1",18,48,"brick","Kloppen","kloppen",2,2,2
+"558","CESvalid2019.fb2",108,878,"brick","Klussen","klussen",2,2,2
+"559","CESvalid2019.bf1",119,1175,"brick","klussen","klussen",2,2,2
+"560","CESvalid2019.bf1",119,1181,"brick","knutselen","knutselen",2,2,3
+"561","CESvalid2019.bf1",122,1185,"brick","Knutselen","knutselen",2,2,3
+"562","CESvalid2019.bb2",120,598,"brick","knutselgerief","knutselgerief",2,2,3
+"563","CESvalid2019.bb1",110,255,"brick","Knutselopdracht","knutselopdracht",2,2,3
+"564","CESvalid2019.fb2",92,823,"brick","koken","koken",3,3,3
+"565","CESvalid2019.bf1",39,993,"brick","Krachttraining","krachttraining",3,3,2
+"566","CESvalid2019.bb1",18,47,"brick","Krijt","krijt",2,3,3
+"567","CESvalid2019.bb1",102,234,"brick","Krijt","krijt",2,3,3
+"568","CESvalid2019.bb2",129,612,"brick","Gebruiken als krijt","krijt",2,3,3
+"569","CESvalid2019.fb2",3,616,"brick","krijt","krijt",2,3,3
+"570","CESvalid2019.bb1",58,137,"brick","Krijten","krijten",2,3,3
+"571","CESvalid2019.fb2",92,819,"brick","krijten","krijten",2,3,3
+"572","CESvalid2019.fb2",106,869,"brick","kruimelen","kruimelen",1,1,1
+"573","CESvalid2019.bb1",93,221,"brick","Kruk om te zitten","kruk zitten",2,1,2
+"574","CESvalid2019.bb1",42,122,"brick","Kunst","kunst",2,3,3
+"575","CESvalid2019.bb1",55,131,"brick","Kunst","kunst",2,3,3
+"576","CESvalid2019.bb1",129,272,"brick","Kunst maken","kunst",2,3,3
+"577","CESvalid2019.bb2",42,426,"brick","Kunst","kunst",2,3,3
+"578","CESvalid2019.bb2",129,613,"brick","Kunst maken","kunst",2,3,3
+"579","CESvalid2019.fb2",65,746,"brick","kunst","kunst",2,3,3
+"580","CESvalid2019.fb2",83,801,"brick","Kunst","kunst",2,3,3
+"581","CESvalid2019.fb2",92,813,"brick","kunst","kunst",2,3,3
+"582","CESvalid2019.fb2",115,896,"brick","Kunst maken","kunst",2,3,3
+"583","CESvalid2019.bf1",24,963,"brick","als kunst","kunst",2,3,3
+"584","CESvalid2019.bf1",116,1164,"brick","Kunst maken","kunst",2,3,3
+"585","CESvalid2019.fb2",15,633,"brick","kunst object","kunst object",2,3,3
+"586","CESvalid2019.bb2",23,366,"brick","Als kunstopject","kunstobject",2,3,3
+"587","CESvalid2019.bb2",103,576,"brick","Kunstproject","kunstproject",2,3,3
+"588","CESvalid2019.bb1",80,186,"brick","Kunstvoorwerp","kunstvoorwerp",2,3,3
+"589","CESvalid2019.bb1",10,21,"brick","als kunstwerk","kunstwerk",2,3,3
+"590","CESvalid2019.bb1",71,166,"brick","Kunstwerk","kunstwerk",2,3,3
+"591","CESvalid2019.bb1",90,214,"brick","Kunstwerk","kunstwerk",2,3,3
+"592","CESvalid2019.bb2",71,488,"brick","Kunstwerk","kunstwerk",2,3,3
+"593","CESvalid2019.bb2",90,541,"brick","Kunstwerk","kunstwerk",2,3,3
+"594","CESvalid2019.bf1",112,1153,"brick","kunstwerk","kunstwerk",2,3,3
+"595","CESvalid2019.bf1",24,967,"brick","lamp","lamp",1,4,3
+"596","CESvalid2019.fb2",15,636,"brick","lampen voet","lampen voet",3,4,3
+"597","CESvalid2019.bb1",80,190,"brick","Laten zinken","laten zinken",2,1,1
+"598","CESvalid2019.bf1",91,1093,"brick","Iets te laten zinken","laten zinken",2,1,1
+"599","CESvalid2019.bf1",98,1141,"brick","Lava","lava",1,0,3
+"600","CESvalid2019.bf1",123,1194,"brick","lego","lego",2,3,3
+"601","CESvalid2019.bf1",96,1119,"brick","Een Lego toren","lego toren",2,3,3
+"602","CESvalid2019.bb1",36,107,"brick","legoblokken","legoblokken",2,3,3
+"603","CESvalid2019.bb2",36,410,"brick","legoblokken","legoblokken",2,3,3
+"604","CESvalid2019.fb2",121,913,"brick","Letters bouwen","letters bouwen",2,4,3
+"605","CESvalid2019.bb2",10,299,"brick","op liggen","liggen",2,1,1
+"606","CESvalid2019.fb2",124,924,"brick","Liggen","liggen",2,1,1
+"607","CESvalid2019.bf1",54,1017,"brick","Lijm","lijm",1,0,3
+"608","CESvalid2019.bf1",122,1190,"brick","Loft","loft",1,0,2
+"609","CESvalid2019.fb2",132,929,"brick","Op lopen","lopen",1,1,2
+"610","CESvalid2019.fb2",100,843,"brick","Lotto","lotto",0,1,3
+"611","CESvalid2019.fb2",100,852,"brick","Lul","lul",0,0,0
+"612","CESvalid2019.fb2",100,847,"brick","Madre","madre",0,0,0
+"613","CESvalid2019.bb1",71,168,"brick","Meel maken","meel",1,3,3
+"614","CESvalid2019.bb2",71,487,"brick","Meel maken","meel",1,3,3
+"615","CESvalid2019.bb1",18,52,"brick","Mensen","mensen",0,0,0
+"616","CESvalid2019.bb2",68,478,"brick","Gebruiken als mes","mes",3,3,3
+"617","CESvalid2019.bf1",33,983,"brick","mes slijpen","mes slijpen",4,3,3
+"618","CESvalid2019.bb2",18,345,"brick","Meten","meten",3,4,3
+"619","CESvalid2019.bb1",18,56,"brick","Metsel","metsel",1,0,1
+"620","CESvalid2019.bb2",18,344,"brick","Metsel","metsel",1,0,1
+"621","CESvalid2019.fb2",59,730,"brick","Mestel","metsel",1,0,1
+"622","CESvalid2019.bb1",31,98,"brick","Metselen","metselen",1,0,1
+"623","CESvalid2019.bb1",36,102,"brick","metselen","metselen",1,0,1
+"624","CESvalid2019.bb2",31,399,"brick","metselen","metselen",1,0,1
+"625","CESvalid2019.bb2",36,402,"brick","metselen","metselen",1,0,1
+"626","CESvalid2019.bb2",42,431,"brick","Metselen","metselen",1,0,1
+"627","CESvalid2019.fb2",38,670,"brick","metselen","metselen",1,0,1
+"628","CESvalid2019.fb2",49,692,"brick","metselen","metselen",1,0,1
+"629","CESvalid2019.fb2",81,788,"brick","metselen","metselen",1,0,1
+"630","CESvalid2019.bf1",33,980,"brick","metselen","metselen",1,0,1
+"631","CESvalid2019.bf1",39,990,"brick","Metselen","metselen",1,0,1
+"632","CESvalid2019.bf1",116,1160,"brick","Metselen","metselen",1,0,1
+"633","CESvalid2019.bf1",122,1191,"brick","Metselen","metselen",1,0,1
+"634","CESvalid2019.bb1",23,75,"brick","Als meubel","meubel",2,1,3
+"635","CESvalid2019.bb2",110,586,"brick","Meubels","meubels",2,1,3
+"636","CESvalid2019.bb2",36,408,"brick","meubilair","meubilair",2,1,3
+"637","CESvalid2019.bb1",68,159,"brick","Door midden slijpen","midden slijpen",1,3,3
+"638","CESvalid2019.fb2",100,848,"brick","Mierda","mierda",0,0,0
+"639","CESvalid2019.bb2",28,378,"brick","mineralen steen","mineralen steen",1,3,3
+"640","CESvalid2019.bb1",28,85,"brick","mineralen toevoeging","mineralen toevoeging",1,3,3
+"641","CESvalid2019.bb2",58,453,"brick","Mini stad mee bouwen","mini stad bouwen",2,4,2
+"642","CESvalid2019.fb2",78,780,"brick","mishandelen","mishandelen",2,2,2
+"643","CESvalid2019.bb2",18,323,"brick","Moe","moe",0,0,0
+"644","CESvalid2019.fb2",100,865,"brick","Moeder","moeder",0,0,0
+"645","CESvalid2019.bb2",97,562,"brick","Mogelijkheden","mogelijkheden",0,0,0
+"646","CESvalid2019.fb2",111,887,"brick","Monteren","monteren",1,1,1
+"647","CESvalid2019.bb1",128,267,"brick","Monument","monument",1,4,2
+"648","CESvalid2019.bf1",123,1197,"brick","monument","monument",1,4,2
+"649","CESvalid2019.fb2",92,814,"brick","moord","moord",2,2,2
+"650","CESvalid2019.fb2",59,723,"brick","Moordwapen","moordwapen",2,2,2
+"651","CESvalid2019.fb2",65,750,"brick","Mos","mos",0,0,0
+"652","CESvalid2019.bb1",110,256,"brick","Moza<ef>ek","mozaïek",4,4,NA
+"653","CESvalid2019.bb2",110,589,"brick","Moza<ef>ek","mozaïek",4,4,NA
+"654","CESvalid2019.bf1",112,1156,"brick","mud race","mud race",1,4,3
+"655","CESvalid2019.bb1",44,123,"brick","Muren","muren",1,1,1
+"656","CESvalid2019.bb2",44,438,"brick","Muren","muren",1,1,1
+"657","CESvalid2019.fb2",95,832,"brick","muren maken","muren",1,1,1
+"658","CESvalid2019.bb1",22,60,"brick","Muur","muur",1,1,1
+"659","CESvalid2019.bb1",25,78,"brick","Muur","muur",1,1,1
+"660","CESvalid2019.bb1",31,91,"brick","Muur","muur",1,1,1
+"661","CESvalid2019.bb1",36,101,"brick","muur","muur",1,1,1
+"662","CESvalid2019.bb1",42,120,"brick","Muur","muur",1,1,1
+"663","CESvalid2019.bb1",97,231,"brick","Muur","muur",1,1,1
+"664","CESvalid2019.bb1",128,269,"brick","Muur","muur",1,1,1
+"665","CESvalid2019.bb2",23,363,"brick","Als muur","muur",1,1,1
+"666","CESvalid2019.bb2",31,388,"brick","Muur","muur",1,1,1
+"667","CESvalid2019.bb2",36,404,"brick","muur","muur",1,1,1
+"668","CESvalid2019.bb2",42,424,"brick","Muur","muur",1,1,1
+"669","CESvalid2019.fb2",20,639,"brick","Muur","muur",1,1,1
+"670","CESvalid2019.fb2",29,650,"brick","muur","muur",1,1,1
+"671","CESvalid2019.fb2",53,718,"brick","muur","muur",1,1,1
+"672","CESvalid2019.fb2",69,759,"brick","Muur","muur",1,1,1
+"673","CESvalid2019.fb2",78,781,"brick","muur","muur",1,1,1
+"674","CESvalid2019.fb2",106,867,"brick","muur","muur",1,1,1
+"675","CESvalid2019.bf1",12,942,"brick","Muur","muur",1,1,1
+"676","CESvalid2019.bf1",48,1005,"brick","Muur","muur",1,1,1
+"677","CESvalid2019.bf1",73,1043,"brick","muur","muur",1,1,1
+"678","CESvalid2019.bf1",86,1079,"brick","Muur","muur",1,1,1
+"679","CESvalid2019.bf1",94,1108,"brick","Muur","muur",1,1,1
+"680","CESvalid2019.bf1",119,1177,"brick","muur","muur",1,1,1
+"681","CESvalid2019.bb1",11,23,"brick","Muur bouwen","muur bouwen",1,1,1
+"682","CESvalid2019.bb2",11,310,"brick","Muur bouwen","muur bouwen",1,1,1
+"683","CESvalid2019.fb2",34,662,"brick","muur bouwen","muur bouwen",1,1,1
+"684","CESvalid2019.fb2",121,911,"brick","Muur Bouwen","muur bouwen",1,1,1
+"685","CESvalid2019.bf1",131,1204,"brick","Muur bouwen","muur bouwen",1,1,1
+"686","CESvalid2019.bb1",23,70,"brick","Muur voor een huis","muur huis",1,1,1
+"687","CESvalid2019.fb2",8,627,"brick","Muurtje","muurtje",1,1,1
+"688","CESvalid2019.bb1",14,31,"brick","muurtje bouwen","muurtje bouwen",1,1,1
+"689","CESvalid2019.bb2",14,317,"brick","muurtje bouwen","muurtje bouwen",1,1,1
+"690","CESvalid2019.bf1",16,957,"brick","muurtje bouwen","muurtje bouwen",1,1,1
+"691","CESvalid2019.bb1",129,273,"brick","Muziek maken","muziek",2,3,3
+"692","CESvalid2019.bb2",129,614,"brick","Muziek maken","muziek",2,3,3
+"693","CESvalid2019.fb2",74,774,"brick","Muziek maken","muziek",2,3,3
+"694","CESvalid2019.fb2",92,822,"brick","muziek maken","muziek",2,3,3
+"695","CESvalid2019.bf1",24,961,"brick","nachtkastje","nachtkastje",2,2,3
+"696","CESvalid2019.bb1",31,89,"brick","Neerleggen","neerleggen",1,1,1
+"697","CESvalid2019.bb2",31,390,"brick","Neerleggen","neerleggen",1,1,1
+"698","CESvalid2019.fb2",3,623,"brick","netje voor tafeltennis","netje tafeltennis",5,4,4
+"699","CESvalid2019.bb2",18,336,"brick","Neuronen","neuronen",0,0,0
+"700","CESvalid2019.bb1",31,100,"brick","Niet brandbaar","niet brandbaar",0,0,0
+"701","CESvalid2019.bf1",60,1030,"brick","Niet breekbaar","niet breekbaar",0,0,0
+"702","CESvalid2019.bb2",18,327,"brick","Nieuwboos","nieuwboos",0,0,0
+"703","CESvalid2019.bf1",123,1200,"brick","nieuwe creatie maken","nieuwe creatie",1,2,3
+"704","CESvalid2019.bb1",71,165,"brick","Noten kraken","noten kraken",3,3,3
+"705","CESvalid2019.bf1",30,973,"brick","noten kraken","noten kraken",3,3,3
+"706","CESvalid2019.bb1",93,222,"brick","Notenkraker","notenkraker",3,3,3
+"707","CESvalid2019.bb2",93,552,"brick","Notenkraker","notenkraker",3,3,3
+"708","CESvalid2019.fb2",3,624,"brick","een obstakel voor knikkerbaan of iets anders","obstakel knikkerbaan anders",3,3,3
+"709","CESvalid2019.bf1",98,1130,"brick","Omgeving","omgeving",0,0,0
+"710","CESvalid2019.bb2",36,413,"brick","onderdak","onderdak",1,1,0
+"711","CESvalid2019.bf1",116,1165,"brick","Ondersteunen","ondersteunen",2,2,2
+"712","CESvalid2019.bb1",68,162,"brick","Gebruiken als ondersteuning","ondersteuning",2,2,2
+"713","CESvalid2019.bb2",11,312,"brick","Ondersteuning band vervangen","ondersteuning band vervangen",3,2,3
+"714","CESvalid2019.bb1",11,24,"brick","Ondersteuning van tafels","ondersteuning tafels",3,2,2
+"715","CESvalid2019.bb1",7,9,"brick","Onderstuk/pilaar","onderstuk pilaar",2,2,2
+"716","CESvalid2019.bb1",102,240,"brick","Onderzetter","onderzetter",3,2,2
+"717","CESvalid2019.bb2",23,367,"brick","Als onderzetter","onderzetter",3,2,2
+"718","CESvalid2019.bb2",102,564,"brick","Onderzetter","onderzetter",3,2,2
+"719","CESvalid2019.fb2",3,618,"brick","onderzetter","onderzetter",3,2,2
+"720","CESvalid2019.fb2",29,659,"brick","gebruiken als onderzetter","onderzetter",3,2,2
+"721","CESvalid2019.fb2",106,870,"brick","onderzetter","onderzetter",3,2,2
+"722","CESvalid2019.bf1",46,1000,"brick","Onderzetter","onderzetter",3,2,2
+"723","CESvalid2019.bf1",43,996,"brick","Onderzoek doen naar omzetting van zwaarte energie naar kinetische energie","onderzoek omzetting zwaarte energie kinetische energie",4,5,4
+"724","CESvalid2019.bb2",36,412,"brick","ontwerpen","ontwerpen",1,2,3
+"725","CESvalid2019.bf1",119,1173,"brick","ontwikkelen","ontwikkelen",1,2,2
+"726","CESvalid2019.bb2",44,446,"brick","Open haard","open haard",1,2,2
+"727","CESvalid2019.fb2",83,807,"brick","Openhaart","open haard",1,2,2
+"728","CESvalid2019.bf1",43,997,"brick","Gebruiken voor het openhouden van een deur","openhouden deur",2,2,2
+"729","CESvalid2019.fb2",81,794,"brick","ophangen","ophangen",2,2,2
+"730","CESvalid2019.bb1",84,199,"brick","Opstapelen","opstapelen",1,1,1
+"731","CESvalid2019.bb2",61,468,"brick","Opstapelen","opstapelen",1,1,1
+"732","CESvalid2019.bb2",75,498,"brick","Opstapelen","opstapelen",1,1,1
+"733","CESvalid2019.bb2",85,533,"brick","Opstapelen","opstapelen",1,1,1
+"734","CESvalid2019.fb2",51,708,"brick","opstapelen","opstapelen",1,1,1
+"735","CESvalid2019.bf1",99,1146,"brick","Opstapelen","opstapelen",1,1,1
+"736","CESvalid2019.bf1",123,1202,"brick","opstapelen","opstapelen",1,1,1
+"737","CESvalid2019.bf1",131,1206,"brick","Opstapelen","opstapelen",1,1,1
+"738","CESvalid2019.bb1",58,141,"brick","Opstapelen tot een barbecue houder","opstapelen barbecue houder",2,2,2
+"739","CESvalid2019.bb1",11,27,"brick","Opstapelen tot stoel","opstapelen stoel",3,2,2
+"740","CESvalid2019.bb1",58,142,"brick","Opstapelen tot een stoel","opstapelen stoel",3,2,2
+"741","CESvalid2019.bb1",58,140,"brick","Opstapelen tot een tafeltje","opstapelen tafeltje",3,2,2
+"742","CESvalid2019.bb1",7,12,"brick","Opstapje","opstapje",2,2,2
+"743","CESvalid2019.bb1",10,16,"brick","als opstapje","opstapje",2,2,2
+"744","CESvalid2019.bb1",23,72,"brick","Als opstapje","opstapje",2,2,2
+"745","CESvalid2019.bb2",7,285,"brick","Opstapje","opstapje",2,2,2
+"746","CESvalid2019.bb2",10,306,"brick","opstapje","opstapje",2,2,2
+"747","CESvalid2019.bb2",23,365,"brick","Als opstapje","opstapje",2,2,2
+"748","CESvalid2019.fb2",47,684,"brick","Opstapje","opstapje",2,2,2
+"749","CESvalid2019.fb2",64,738,"brick","Opstapje","opstapje",2,2,2
+"750","CESvalid2019.fb2",115,898,"brick","Opstapje","opstapje",2,2,2
+"751","CESvalid2019.bf1",63,1034,"brick","Opstapje","opstapje",2,2,2
+"752","CESvalid2019.fb2",51,713,"brick","iets opzetten","opzetten",1,2,2
+"753","CESvalid2019.bf1",76,1063,"brick","oude bakstenen muur in huis","oude bakstenen muur huis",1,1,2
+"754","CESvalid2019.bb1",31,95,"brick","In oude gebouwen als muur","oude gebouwen muur",1,1,2
+"755","CESvalid2019.bb1",31,96,"brick","Ouderwets","ouderwets",0,0,0
+"756","CESvalid2019.bb2",31,392,"brick","Ouderwetse muren in opvanghuizen","ouderwetse muren opvanghuizen",1,1,2
+"757","CESvalid2019.bb1",36,109,"brick","oven","oven",3,2,2
+"758","CESvalid2019.bb2",44,447,"brick","Oven","oven",3,2,2
+"759","CESvalid2019.bb2",128,606,"brick","Oven","oven",3,2,2
+"760","CESvalid2019.bb1",10,19,"brick","mee overgooien","overgooien",2,3,2
+"761","CESvalid2019.bb1",80,191,"brick","Overgooien","overgooien",2,3,2
+"762","CESvalid2019.bb2",80,511,"brick","Overgooien","overgooien",2,3,2
+"763","CESvalid2019.fb2",29,657,"brick","overgooien","overgooien",2,3,2
+"764","CESvalid2019.bf1",46,1003,"brick","Paaltje","paaltje",2,1,2
+"765","CESvalid2019.bb1",22,64,"brick","Pad","pad",1,1,1
+"766","CESvalid2019.fb2",78,785,"brick","pad","pad",1,1,1
+"767","CESvalid2019.bb2",120,601,"brick","pasta-hoeveelheidsmeter","pasta hoeveelheidsmeter",3,2,3
+"768","CESvalid2019.fb2",121,915,"brick","Patronen Bouwen","patronen bouwen",2,3,3
+"769","CESvalid2019.bb2",120,596,"brick","pennenhouder","pennenhouder",3,3,3
+"770","CESvalid2019.bb1",120,263,"brick","pennenpot","pennenpot",3,3,3
+"771","CESvalid2019.fb2",100,851,"brick","Piemol","piemol",0,0,0
+"772","CESvalid2019.fb2",100,856,"brick","Piet","piet",0,0,0
+"773","CESvalid2019.bb2",18,343,"brick","Pijn","pijn",0,0,0
+"774","CESvalid2019.fb2",65,752,"brick","Pijn","pijn",0,0,0
+"775","CESvalid2019.bb2",7,291,"brick","Pilaar","pilaar",1,1,2
+"776","CESvalid2019.bb1",90,215,"brick","Pyramide","piramide",1,1,2
+"777","CESvalid2019.bb2",90,539,"brick","Pyramide","piramide",1,1,2
+"778","CESvalid2019.bb1",58,146,"brick","Een piramide van bouwen","piramide bouwen",1,1,2
+"779","CESvalid2019.bb2",22,350,"brick","Een pizza oven","pizza oven",3,2,2
+"780","CESvalid2019.fb2",8,626,"brick","Pizza oven","pizza oven",3,2,2
+"781","CESvalid2019.bb1",40,117,"brick","Iets op zijn plaats te houden, dmv zijn gewicht","plaats houden gewicht",2,2,NA
+"782","CESvalid2019.bb2",85,528,"brick","Plaatsen","plaatsen",1,1,1
+"783","CESvalid2019.bb1",75,175,"brick","Plantenbak maken","plantenbak",3,3,2
+"784","CESvalid2019.bb2",75,494,"brick","Plantenbak maken","plantenbak",3,3,2
+"785","CESvalid2019.bf1",48,1010,"brick","Plantenbak","plantenbak",3,3,2
+"786","CESvalid2019.bf1",63,1033,"brick","Plantenbak","plantenbak",3,3,2
+"787","CESvalid2019.bb1",11,28,"brick","Iets plat mee drukken","plat drukken",2,2,2
+"788","CESvalid2019.fb2",49,700,"brick","plat slaan","plat slaan",2,2,2
+"789","CESvalid2019.bf1",89,1090,"brick","gebruiken als plaveisel of vloering","plaveisel bevloering",1,1,2
+"790","CESvalid2019.bf1",39,994,"brick","Plek afdekken","plek afdekken",2,2,2
+"791","CESvalid2019.bb2",40,417,"brick","Iets op zijn plek te houden","plek houden",2,2,2
+"792","CESvalid2019.fb2",106,874,"brick","iets pletten","pletten",2,2,2
+"793","CESvalid2019.bf1",12,951,"brick","Podium","podium",2,1,2
+"794","CESvalid2019.bb1",22,63,"brick","Politie","politie",0,0,0
+"795","CESvalid2019.bb2",68,484,"brick","Prakken","prakken",2,3,2
+"796","CESvalid2019.bf1",54,1025,"brick","Presenteren","presenteren",1,3,3
+"797","CESvalid2019.fb2",34,667,"brick","presse papier","presse papier",3,2,2
+"798","CESvalid2019.fb2",47,687,"brick","Press papier","presse papier",3,2,2
+"799","CESvalid2019.bb2",68,474,"brick","Prikken","prikken",1,2,2
+"800","CESvalid2019.bb1",58,144,"brick","Prullenbak","prullenbak",1,2,3
+"801","CESvalid2019.fb2",100,849,"brick","Puf","puf",0,0,0
+"802","CESvalid2019.bb1",93,224,"brick","Punt slijpen op hout","punt slijpen hout",4,3,3
+"803","CESvalid2019.bb2",128,607,"brick","Put","put",1,2,2
+"804","CESvalid2019.bf1",12,944,"brick","Put","put",1,2,2
+"805","CESvalid2019.bf1",94,1109,"brick","Put","put",1,2,2
+"806","CESvalid2019.bb1",68,163,"brick","Put bouwen","put bouwen",1,2,2
+"807","CESvalid2019.bb2",22,354,"brick","Een put van bouwen","put bouwen",1,2,2
+"808","CESvalid2019.fb2",83,805,"brick","Raam","raam",0,1,2
+"809","CESvalid2019.fb2",118,900,"brick","Raam","raam",0,1,2
+"810","CESvalid2019.bf1",91,1098,"brick","Je kan er een raam mee in","raam",1,1,2
+"811","CESvalid2019.bb1",58,134,"brick","Door een raam gooien","raam gooien",1,1,1
+"812","CESvalid2019.bb2",58,451,"brick","Door een raam gooien","raam gooien",1,1,1
+"813","CESvalid2019.fb2",51,706,"brick","door het raam gooien","raam gooien",1,1,1
+"814","CESvalid2019.fb2",64,735,"brick","Raam doorgooien","raam gooien",1,1,1
+"815","CESvalid2019.fb2",47,682,"brick","Raam ingooien","raam ingooien",1,1,1
+"816","CESvalid2019.fb2",20,638,"brick","Raam inslaan","raam inslaan",1,1,1
+"817","CESvalid2019.bf1",112,1154,"brick","raam inslaan","raam inslaan",1,1,1
+"818","CESvalid2019.bb1",10,17,"brick","raam intikken","raam intikken",1,1,1
+"819","CESvalid2019.bb2",84,521,"brick","Rand van tuin aanleggen","rand tuin aanleggen",2,1,2
+"820","CESvalid2019.fb2",65,751,"brick","Random","random",0,0,0
+"821","CESvalid2019.bb1",110,247,"brick","Rechthoek","rechthoek",0,0,3
+"822","CESvalid2019.fb2",65,755,"brick","Rechthoek","rechthoek",0,0,3
+"823","CESvalid2019.bf1",12,949,"brick","Regenboog","regenboog",0,0,3
+"824","CESvalid2019.bb1",36,113,"brick","rivier (klei","rivier klei",0,0,3
+"825","CESvalid2019.bb1",129,274,"brick","Het gebruiken als rode krijt","rode krijt",2,0,3
+"826","CESvalid2019.bb1",36,111,"brick","rood","rood",0,0,0
+"827","CESvalid2019.fb2",78,787,"brick","rood","rood",0,0,0
+"828","CESvalid2019.fb2",118,909,"brick","Rood","rood",0,0,0
+"829","CESvalid2019.bf1",73,1054,"brick","rood","rood",0,0,0
+"830","CESvalid2019.bf1",98,1139,"brick","Rood","rood",0,0,0
+"831","CESvalid2019.fb2",65,749,"brick","Rood/oranje","rood oranje",0,0,0
+"832","CESvalid2019.bb2",22,352,"brick","Rood poster van maken","rood poster",3,0,3
+"833","CESvalid2019.bf1",96,1124,"brick","Rotzooi","rotzooi",0,0,1
+"834","CESvalid2019.fb2",100,858,"brick","Rst","rst",0,0,0
+"835","CESvalid2019.bf1",30,969,"brick","ruit in gooien","ruit gooien",1,1,1
+"836","CESvalid2019.bb1",84,198,"brick","Door ruit heen gooien","ruit heen gooien",1,1,1
+"837","CESvalid2019.bb1",93,220,"brick","Ruit ingooien","ruit ingooien",1,1,1
+"838","CESvalid2019.bb1",103,243,"brick","Ruit ingooien","ruit ingooien",1,1,1
+"839","CESvalid2019.bb2",93,555,"brick","Ruit ingooien","ruit ingooien",1,1,1
+"840","CESvalid2019.bb2",103,574,"brick","Ruit ingooien","ruit ingooien",1,1,1
+"841","CESvalid2019.fb2",29,656,"brick","ruit ingooien","ruit ingooien",1,1,1
+"842","CESvalid2019.fb2",132,928,"brick","Ruit inslaan","ruit inslaan",1,1,1
+"843","CESvalid2019.bf1",73,1051,"brick","ruw","ruw",0,0,0
+"844","CESvalid2019.bb1",93,227,"brick","Ruzie maken en iemand verwonden","ruzie verwonden",2,2,2
+"845","CESvalid2019.bb2",68,485,"brick","S","s",0,0,0
+"846","CESvalid2019.bb2",18,341,"brick","Schaafwond","schaafwond",0,0,0
+"847","CESvalid2019.bf1",73,1056,"brick","schaafwond","schaafwond",0,0,0
+"848","CESvalid2019.bb1",31,93,"brick","Scheiding","scheiding",2,0,2
+"849","CESvalid2019.bf1",119,1182,"brick","scheiding","scheiding",2,2,2
+"850","CESvalid2019.bb2",31,394,"brick","scheiding tussen twee huizen","scheiding tussen huizen",2,2,2
+"851","CESvalid2019.bb2",103,575,"brick","In scherven breken om te overleven","scherven breken overleven",2,3,3
+"852","CESvalid2019.bb1",22,59,"brick","Schilderen","schilderen",2,3,3
+"853","CESvalid2019.bb1",58,135,"brick","Schilderen","schilderen",2,3,3
+"854","CESvalid2019.bb1",80,182,"brick","Op schilderen","schilderen",2,3,3
+"855","CESvalid2019.bb1",84,194,"brick","Op schilderen","schilderen",2,3,3
+"856","CESvalid2019.bb1",85,204,"brick","Schilderen","schilderen",2,3,3
+"857","CESvalid2019.bb2",84,517,"brick","Schilderen","schilderen",2,3,3
+"858","CESvalid2019.bb2",85,535,"brick","Schilderen","schilderen",2,3,3
+"859","CESvalid2019.fb2",83,810,"brick","Schilderen","schilderen",2,3,3
+"860","CESvalid2019.fb2",92,820,"brick","schilderen","schilderen",2,3,3
+"861","CESvalid2019.bf1",86,1085,"brick","Schilderij op maken","schilderij",2,3,3
+"862","CESvalid2019.bb2",28,382,"brick","schoenen","schoenen",3,4,4
+"863","CESvalid2019.bb2",10,307,"brick","schoenenrek","schoenenrek",3,2,3
+"864","CESvalid2019.bb1",22,67,"brick","Schoorsteen","schoorsteen",1,1,2
+"865","CESvalid2019.bb2",80,513,"brick","Schrijven","schrijven",2,4,3
+"866","CESvalid2019.fb2",74,773,"brick","Schrijven","schrijven",2,4,3
+"867","CESvalid2019.bf1",33,979,"brick","schuren","schuren",3,3,3
+"868","CESvalid2019.bb1",31,94,"brick","Schutting","schutting",1,1,2
+"869","CESvalid2019.bb2",31,395,"brick","schutting","schutting",1,1,2
+"870","CESvalid2019.bb2",42,428,"brick","Schuur","schuur",1,1,2
+"871","CESvalid2019.bf1",112,1155,"brick","schuur","schuur",1,1,2
+"872","CESvalid2019.bf1",89,1089,"brick","Gebruiken als schuurobject","schuurobject",3,2,3
+"873","CESvalid2019.bf1",76,1066,"brick","sfeervol","sfeervol",0,0,0
+"874","CESvalid2019.bb2",44,445,"brick","Siervoorwerpen maken","siervoorwerpen",2,4,3
+"875","CESvalid2019.fb2",45,679,"brick","sinterklaassurprise","sinterklaas surprise",2,3,3
+"876","CESvalid2019.fb2",100,842,"brick","Sjans","sjans",0,0,0
+"877","CESvalid2019.fb2",124,918,"brick","Slaan","slaan",1,2,2
+"878","CESvalid2019.bf1",50,1014,"brick","slaan","slaan",1,2,2
+"879","CESvalid2019.bf1",116,1162,"brick","Slaan","slaan",1,2,2
+"880","CESvalid2019.fb2",74,770,"brick","Slijpen","slijpen",3,3,2
+"881","CESvalid2019.bb2",114,594,"brick","Slijper","slijper",3,3,2
+"882","CESvalid2019.bb1",102,233,"brick","Sloopkogel","sloopkogel",2,3,2
+"883","CESvalid2019.bb2",40,419,"brick","Iets mee slopen","slopen",1,3,1
+"884","CESvalid2019.bb2",55,450,"brick","Slopen","slopen",1,3,1
+"885","CESvalid2019.fb2",49,699,"brick","slopen","slopen",1,3,1
+"886","CESvalid2019.fb2",74,772,"brick","Slopen","slopen",1,3,1
+"887","CESvalid2019.bb1",40,114,"brick","Iets slopen, door te gooien","slopen gooien",1,3,NA
+"888","CESvalid2019.bb2",18,328,"brick","Sloten","sloten",1,1,0
+"889","CESvalid2019.bb2",93,553,"brick","Iets mee sluipen","sluipen",2,0,2
+"890","CESvalid2019.bb1",18,42,"brick","Snel","snel",0,0,0
+"891","CESvalid2019.bb2",25,372,"brick","Soort van schuurpapier","soort schuurpapier",3,2,3
+"892","CESvalid2019.bb2",14,320,"brick","als speelgoed gebruiken","speelgoed",2,3,2
+"893","CESvalid2019.fb2",69,764,"brick","Speelgoed","speelgoed",2,3,2
+"894","CESvalid2019.bf1",12,956,"brick","Speelkuil","speelkuil",2,3,3
+"895","CESvalid2019.bf1",119,1174,"brick","spel","spel",2,3,2
+"896","CESvalid2019.bb2",10,295,"brick","spelen","spelen",2,3,2
+"897","CESvalid2019.bb2",28,386,"brick","spelen","spelen",2,3,2
+"898","CESvalid2019.bb2",55,449,"brick","Spelen","spelen",2,3,2
+"899","CESvalid2019.fb2",74,775,"brick","Spelen","spelen",2,3,2
+"900","CESvalid2019.fb2",124,921,"brick","Spelen","spelen",2,3,2
+"901","CESvalid2019.fb2",132,937,"brick","Mee spelen","spelen",2,3,2
+"902","CESvalid2019.bf1",119,1179,"brick","spelen","spelen",2,3,2
+"903","CESvalid2019.bb1",120,265,"brick","spongebob","spongebob",0,0,3
+"904","CESvalid2019.bb2",120,600,"brick","spongebob-broek","spongebob broek",1,0,4
+"905","CESvalid2019.bb1",103,244,"brick","Sportelement opstellen (overheen springen o.i.d.)","sportelement opstellen",3,3,3
+"906","CESvalid2019.bb1",80,189,"brick","Mee sporten","sporten",3,3,2
+"907","CESvalid2019.bf1",76,1070,"brick","staal","staal",0,0,0
+"908","CESvalid2019.bb1",68,160,"brick","Er op staan","staan",2,1,2
+"909","CESvalid2019.bb2",10,297,"brick","op staan","staan",2,1,2
+"910","CESvalid2019.fb2",78,783,"brick","staan","staan",2,1,2
+"911","CESvalid2019.bf1",98,1131,"brick","Staat","staat",0,1,0
+"912","CESvalid2019.bb2",102,570,"brick","Stamper","stamper",3,3,3
+"913","CESvalid2019.bb1",7,8,"brick","Standaard","standaard",2,2,2
+"914","CESvalid2019.bb1",10,22,"brick","als standaard","standaard",2,2,2
+"915","CESvalid2019.bb1",102,236,"brick","Standaard","standaard",2,2,2
+"916","CESvalid2019.bb1",14,30,"brick","stapelen","stapelen",1,2,1
+"917","CESvalid2019.bb2",4,282,"brick","Stapelen","stapelen",1,2,1
+"918","CESvalid2019.bb2",31,389,"brick","Stapelen","stapelen",1,2,1
+"919","CESvalid2019.bb2",90,544,"brick","Stapelen","stapelen",1,2,1
+"920","CESvalid2019.fb2",64,742,"brick","Stapelen","stapelen",1,2,1
+"921","CESvalid2019.fb2",81,789,"brick","stapelen","stapelen",1,2,1
+"922","CESvalid2019.fb2",92,821,"brick","stapelen","stapelen",1,2,1
+"923","CESvalid2019.bf1",116,1163,"brick","Stapelen","stapelen",1,2,1
+"924","CESvalid2019.bf1",89,1088,"brick","Gebruiken als stapelobject","stapelobject",1,2,1
+"925","CESvalid2019.bb2",80,507,"brick","Statief","statief",3,3,2
+"926","CESvalid2019.bb1",18,36,"brick","Steen","steen",0,0,1
+"927","CESvalid2019.bb1",18,55,"brick","Steen","steen",0,0,1
+"928","CESvalid2019.bb1",110,251,"brick","Steen","steen",0,0,1
+"929","CESvalid2019.bb2",110,581,"brick","Steen","steen",0,0,1
+"930","CESvalid2019.fb2",78,786,"brick","steen","steen",0,0,1
+"931","CESvalid2019.fb2",111,884,"brick","Steen","steen",0,0,1
+"932","CESvalid2019.bf1",60,1027,"brick","Steen","steen",0,0,1
+"933","CESvalid2019.bf1",73,1050,"brick","steen","steen",0,0,1
+"934","CESvalid2019.bf1",94,1104,"brick","Steen","steen",0,0,1
+"935","CESvalid2019.bf1",98,1127,"brick","Steen","steen",0,0,1
+"936","CESvalid2019.bb1",22,68,"brick","Steenfabriek","steenfabriek",0,0,1
+"937","CESvalid2019.bb1",36,108,"brick","steenfabriek","steenfabriek",0,0,1
+"938","CESvalid2019.bb2",23,369,"brick","Als steengrill","steengrill",3,2,2
+"939","CESvalid2019.bf1",48,1008,"brick","Steenoven","steenoven",3,2,2
+"940","CESvalid2019.bf1",96,1112,"brick","Steenoven","steenoven",3,2,2
+"941","CESvalid2019.bb2",68,473,"brick","Steken","steken",2,2,2
+"942","CESvalid2019.fb2",81,793,"brick","stempelen","stempelen",3,2,3
+"943","CESvalid2019.bb2",42,437,"brick","Stenen","stenen",0,0,1
+"944","CESvalid2019.bf1",96,1114,"brick","Stenen bakjes","stenen bakjes",3,3,2
+"945","CESvalid2019.bb2",28,376,"brick","stenen voetbal","stenen voetbal",3,4,3
+"946","CESvalid2019.bb1",61,154,"brick","Als steun gebruiken","steun",2,2,2
+"947","CESvalid2019.bb2",61,464,"brick","Steun","steun",2,2,2
+"948","CESvalid2019.fb2",69,762,"brick","Steun","steun",2,2,2
+"949","CESvalid2019.bb2",18,332,"brick","Stevig","stevig",0,0,0
+"950","CESvalid2019.bf1",73,1046,"brick","stevig","stevig",0,0,0
+"951","CESvalid2019.bb2",58,455,"brick","Stoel mee maken","stoel",3,2,2
+"952","CESvalid2019.bb2",75,500,"brick","Stoel maken","stoel",3,2,2
+"953","CESvalid2019.bb2",110,585,"brick","Stoel","stoel",2,2,2
+"954","CESvalid2019.fb2",83,799,"brick","Stoel","stoel",2,2,2
+"955","CESvalid2019.fb2",95,836,"brick","een stoel","stoel",2,2,2
+"956","CESvalid2019.bf1",24,965,"brick","stoel","stoel",2,2,2
+"957","CESvalid2019.bf1",86,1080,"brick","Stoel","stoel",2,2,2
+"958","CESvalid2019.bf1",91,1094,"brick","Stoel van maken","stoel",3,2,2
+"959","CESvalid2019.bb1",114,262,"brick","Stoelen","stoelen",2,2,2
+"960","CESvalid2019.bb1",42,121,"brick","Stoep","stoep",1,1,1
+"961","CESvalid2019.bb2",42,425,"brick","Stoep","stoep",1,1,1
+"962","CESvalid2019.bb2",84,522,"brick","Stoep maken","stoep",1,1,1
+"963","CESvalid2019.bb2",128,610,"brick","Stoep","stoep",1,1,1
+"964","CESvalid2019.fb2",83,804,"brick","Stoep","stoep",1,1,1
+"965","CESvalid2019.fb2",118,901,"brick","Stoep","stoep",1,1,1
+"966","CESvalid2019.bf1",98,1134,"brick","Stoep","stoep",1,1,1
+"967","CESvalid2019.bb2",102,567,"brick","Stoepkrijt","stoepkrijt",2,3,3
+"968","CESvalid2019.fb2",29,660,"brick","stoepkrijten","stoepkrijten",2,3,3
+"969","CESvalid2019.bb1",90,213,"brick","Straat","straat",1,1,1
+"970","CESvalid2019.bb2",36,405,"brick","straat","straat",1,1,1
+"971","CESvalid2019.bb2",90,542,"brick","Straat","straat",1,1,1
+"972","CESvalid2019.fb2",29,651,"brick","straat","straat",1,1,1
+"973","CESvalid2019.bf1",48,1009,"brick","Straat","straat",1,1,1
+"974","CESvalid2019.bb2",58,458,"brick","Straat mee aanleggen","straat aanleggen",1,1,1
+"975","CESvalid2019.bb2",10,300,"brick","straat mee betegelen","straat betegelen",1,1,1
+"976","CESvalid2019.fb2",51,703,"brick","straat betegelen","straat betegelen",1,1,1
+"977","CESvalid2019.fb2",64,737,"brick","Straat betegelen","straat betegelen",1,1,1
+"978","CESvalid2019.bb1",55,132,"brick","Straat leggen","straat leggen",1,1,1
+"979","CESvalid2019.bb1",58,147,"brick","Een straat mee leggen","straat leggen",1,1,1
+"980","CESvalid2019.bb1",68,156,"brick","Straat leggen","straat leggen",1,1,1
+"981","CESvalid2019.bb1",75,174,"brick","Straat leggen","straat leggen",1,1,1
+"982","CESvalid2019.bf1",67,1039,"brick","Straat leggen","straat leggen",1,1,1
+"983","CESvalid2019.bb2",75,495,"brick","Straat tegelen","straat tegelen",1,1,1
+"984","CESvalid2019.fb2",34,663,"brick","straatje leggen","straatje leggen",1,1,1
+"985","CESvalid2019.fb2",95,830,"brick","straten leggen","straten leggen",1,1,1
+"986","CESvalid2019.bb2",80,505,"brick","Stukjes hakken","stukjes hakken",1,3,1
+"987","CESvalid2019.fb2",69,766,"brick","Symbool","symbool",0,4,3
+"988","CESvalid2019.bb2",58,454,"brick","Tafel mee maken","tafel",3,2,2
+"989","CESvalid2019.bb2",128,608,"brick","Tafel","tafel",2,2,2
+"990","CESvalid2019.fb2",69,761,"brick","Tafel","tafel",2,2,2
+"991","CESvalid2019.fb2",83,806,"brick","Tafel","tafel",2,2,2
+"992","CESvalid2019.fb2",95,837,"brick","tafel","tafel",2,2,2
+"993","CESvalid2019.bf1",86,1078,"brick","Tafel","tafel",2,2,2
+"994","CESvalid2019.bf1",37,984,"brick","Tafelpoot verhogen","tafelpoot verhogen",3,2,2
+"995","CESvalid2019.fb2",3,619,"brick","tafeltje","tafeltje",2,2,2
+"996","CESvalid2019.bf1",24,966,"brick","als tafeltje","tafeltje",2,2,2
+"997","CESvalid2019.bf1",94,1107,"brick","Technisch","technisch",0,0,0
+"998","CESvalid2019.bb2",42,433,"brick","Tegel","tegel",1,0,1
+"999","CESvalid2019.bb2",58,461,"brick","Twee tegen elkaar klappen en gebruiken als start sein","tegen elkaar klappen start sein",4,5,4
+"1000","CESvalid2019.fb2",51,709,"brick","tegenaan schoppen","tegenaan schoppen",2,3,1
+"1001","CESvalid2019.bb1",61,152,"brick","Iets tegenhouden","tegenhouden",2,2,2
+"1002","CESvalid2019.bb2",61,467,"brick","Iets tegenhouden","tegenhouden",2,2,2
+"1003","CESvalid2019.bb1",68,158,"brick","Er op tekenen","tekenen",2,3,3
+"1004","CESvalid2019.bb2",71,489,"brick","Op tekenen","tekenen",2,3,3
+"1005","CESvalid2019.bf1",91,1095,"brick","Als Tennisracket gebruiken","tennisracket",4,4,4
+"1006","CESvalid2019.bf1",54,1022,"brick","Tentoonstellen Amfi of BPH","tentoonstellen amfi bph",2,4,3
+"1007","CESvalid2019.bb2",28,380,"brick","thuis gewichtheffen","thuis gewichtheffen",3,3,2
+"1008","CESvalid2019.fb2",132,931,"brick","Tillen","tillen",2,1,2
+"1009","CESvalid2019.fb2",29,658,"brick","timmeren","timmeren",3,2,2
+"1010","CESvalid2019.bb2",22,356,"brick","Toren van maken","toren",1,2,2
+"1011","CESvalid2019.fb2",132,932,"brick","Toren maken","toren",1,2,2
+"1012","CESvalid2019.bb1",71,167,"brick","Toren bouwen","toren bouwen",1,2,2
+"1013","CESvalid2019.bb1",75,177,"brick","Toren bouwen","toren bouwen",1,2,2
+"1014","CESvalid2019.bb2",28,384,"brick","toren bouwen","toren bouwen",1,2,2
+"1015","CESvalid2019.bb2",71,491,"brick","Toren bouwen","toren bouwen",1,2,2
+"1016","CESvalid2019.bb2",75,497,"brick","Toren bouwen","toren bouwen",1,2,2
+"1017","CESvalid2019.fb2",74,776,"brick","Trainen","trainen",3,3,2
+"1018","CESvalid2019.fb2",124,925,"brick","Trainen","trainen",3,3,2
+"1019","CESvalid2019.bb2",93,554,"brick","Trainen als gewicht","trainen gewicht",3,3,2
+"1020","CESvalid2019.bb1",93,225,"brick","Trainen voor spierballen","trainen spierballen",3,3,2
+"1021","CESvalid2019.bb1",103,242,"brick","Trap maken","trap",1,3,2
+"1022","CESvalid2019.bb2",103,573,"brick","Trap opstellen","trap opstellen",1,3,2
+"1023","CESvalid2019.bb1",90,217,"brick","Trui","trui",1,4,4
+"1024","CESvalid2019.bb2",85,532,"brick","Tuin","tuin",1,1,2
+"1025","CESvalid2019.bf1",123,1198,"brick","voor in je tuin","tuin",1,1,2
+"1026","CESvalid2019.fb2",20,648,"brick","Tuin aanleggen","tuin aanleggen",1,1,2
+"1027","CESvalid2019.bb1",114,261,"brick","Tuinbeeldjes","tuinbeeldjes",2,3,3
+"1028","CESvalid2019.fb2",15,631,"brick","tuinmeubel","tuinmeubel",2,2,3
+"1029","CESvalid2019.fb2",20,645,"brick","Tunnel","tunnel",1,1,2
+"1030","CESvalid2019.bb1",4,5,"brick","Iets uitbeelden","uitbeelden",1,3,3
+"1031","CESvalid2019.bb2",4,278,"brick","Iets uitbeelden","uitbeelden",1,3,3
+"1032","CESvalid2019.fb2",121,917,"brick","Uithollen","uithollen",2,3,2
+"1033","CESvalid2019.bf1",12,950,"brick","Uitkijktoren","uitkijktoren",1,2,2
+"1034","CESvalid2019.fb2",100,866,"brick","Vabahahhaha","vabahahhaha",0,0,0
+"1035","CESvalid2019.bb2",18,337,"brick","Vallen","vallen",1,0,0
+"1036","CESvalid2019.bb2",28,381,"brick","vandalen apparaat","vandalen apparaat",2,0,2
+"1037","CESvalid2019.bb2",68,483,"brick","Vast pakken","vast pakken",1,1,1
+"1038","CESvalid2019.fb2",51,711,"brick","vastlijmen","vastlijmen",2,1,1
+"1039","CESvalid2019.bb1",80,188,"brick","Vastmaken aan iets","vastmaken",2,1,1
+"1040","CESvalid2019.bb2",4,283,"brick","Iets vastzetten","vastzetten",2,1,2
+"1041","CESvalid2019.bf1",63,1036,"brick","Vastzetten van iets","vastzetten",2,1,2
+"1042","CESvalid2019.bf1",33,982,"brick","vastzetten tegen wind","vastzetten tegen wind",2,2,2
+"1043","CESvalid2019.fb2",49,702,"brick","ve","ve",0,0,0
+"1044","CESvalid2019.bf1",131,1207,"brick","Ve","ve",0,0,0
+"1045","CESvalid2019.bb2",18,331,"brick","Veiligheid","veiligheid",0,1,0
+"1046","CESvalid2019.bf1",112,1157,"brick","veiligheid","veiligheid",0,1,0
+"1047","CESvalid2019.fb2",34,665,"brick","ver gooi wedstrijd","ver gooi wedstrijd",4,3,3
+"1048","CESvalid2019.fb2",59,727,"brick","Verbouwing","verbouwing",1,1,1
+"1049","CESvalid2019.bb1",58,138,"brick","Verbrijzelen","verbrijzelen",1,2,1
+"1050","CESvalid2019.bb2",80,506,"brick","Verbrijzelen","verbrijzelen",1,2,1
+"1051","CESvalid2019.bf1",46,1004,"brick","Verdedigingsvoorwerp","verdedigingsvoorwerp",2,2,2
+"1052","CESvalid2019.fb2",49,698,"brick","verduisteren","verduisteren",1,3,2
+"1053","CESvalid2019.bb2",22,353,"brick","Verf van maken","verf",3,4,3
+"1054","CESvalid2019.bb2",110,579,"brick","Verf","verf",2,4,3
+"1055","CESvalid2019.fb2",81,791,"brick","vergruizen","vergruizen",2,3,1
+"1056","CESvalid2019.bb1",40,116,"brick","Iets verhogen","verhogen",2,2,2
+"1057","CESvalid2019.bb2",40,422,"brick","Iets verhogen","verhogen",2,2,2
+"1058","CESvalid2019.bb1",7,13,"brick","Verhoging","verhoging",2,2,2
+"1059","CESvalid2019.bb1",25,80,"brick","Verhoging","verhoging",2,2,2
+"1060","CESvalid2019.bb1",85,208,"brick","verhogi","verhoging",2,2,2
+"1061","CESvalid2019.bb2",7,286,"brick","Verhoging","verhoging",2,2,2
+"1062","CESvalid2019.bb2",85,536,"brick","Verhoging","verhoging",2,2,2
+"1063","CESvalid2019.bb2",93,551,"brick","Verhoging gebruiken","verhoging",2,2,2
+"1064","CESvalid2019.bb2",114,595,"brick","Verhoging","verhoging",2,2,2
+"1065","CESvalid2019.fb2",49,694,"brick","verhoging","verhoging",2,2,2
+"1066","CESvalid2019.bb2",11,314,"brick","Verhoging van bed of kast","verhoging bed kast",2,2,2
+"1067","CESvalid2019.bb2",84,523,"brick","Verhoging als je er op staat","verhoging staat",2,2,2
+"1068","CESvalid2019.bb1",93,226,"brick","Verhoging voor een stoel","verhoging stoel",2,2,2
+"1069","CESvalid2019.bf1",76,1064,"brick","verkleurd","verkleurd",2,0,0
+"1070","CESvalid2019.bb1",85,206,"brick","Vermalen","vermalen",2,3,1
+"1071","CESvalid2019.bb1",102,239,"brick","Om mee te vermalen","vermalen",2,3,1
+"1072","CESvalid2019.bf1",30,971,"brick","verplaatsen","verplaatsen",1,1,1
+"1073","CESvalid2019.bb2",80,514,"brick","Vers","vers",0,0,0
+"1074","CESvalid2019.bf1",76,1059,"brick","verschillende kleuren","verschillende kleuren",0,0,3
+"1075","CESvalid2019.bf1",76,1068,"brick","verschillende lagen","verschillende lagen",0,1,3
+"1076","CESvalid2019.bf1",30,970,"brick","verschuiven","verschuiven",1,1,1
+"1077","CESvalid2019.bf1",123,1196,"brick","versiering","versiering",2,2,3
+"1078","CESvalid2019.bf1",131,1205,"brick","Als versiering gebruiken","versiering",2,2,3
+"1079","CESvalid2019.bb1",129,275,"brick","Gebruiken als versiering in je tuin","versiering tuin",2,2,3
+"1080","CESvalid2019.bf1",116,1168,"brick","Verstevigen","verstevigen",2,2,2
+"1081","CESvalid2019.bb2",44,444,"brick","Versteviging","versteviging",2,2,2
+"1082","CESvalid2019.bf1",16,959,"brick","versteviging voor mijn palletbed","versteviging pallet bed",3,2,2
+"1083","CESvalid2019.fb2",15,634,"brick","versteviging om plastic te bevestigen","versteviging plastic bevestigen",2,2,2
+"1084","CESvalid2019.bb1",44,129,"brick","Versteviging van voorwerpen","versteviging voorwerpen",2,2,2
+"1085","CESvalid2019.fb2",51,716,"brick","verstoppen","verstoppen",1,3,2
+"1086","CESvalid2019.bb2",58,452,"brick","Verven","verven",2,3,3
+"1087","CESvalid2019.fb2",51,717,"brick","verven","verven",2,3,3
+"1088","CESvalid2019.fb2",81,792,"brick","verven","verven",2,3,3
+"1089","CESvalid2019.bf1",54,1016,"brick","Verfen","verven",2,3,3
+"1090","CESvalid2019.bf1",119,1180,"brick","verven","verven",2,3,3
+"1091","CESvalid2019.bb2",85,527,"brick","Vervormen","vervormen",1,3,2
+"1092","CESvalid2019.fb2",45,678,"brick","verwerken in kunstwerk","verwerken kunstwerk",2,3,3
+"1093","CESvalid2019.bb2",93,550,"brick","Verwonden","verwonden",2,2,2
+"1094","CESvalid2019.bb1",61,151,"brick","Iets verzwaren","verzwaren",2,2,2
+"1095","CESvalid2019.bb2",11,315,"brick","Iets mee verzwaren","verzwaren",2,2,2
+"1096","CESvalid2019.bb2",61,466,"brick","Iets verzwaren","verzwaren",2,2,2
+"1097","CESvalid2019.bf1",33,981,"brick","iets verzwaren","verzwaren",2,2,2
+"1098","CESvalid2019.fb2",45,676,"brick","iets verzwaren tegen de wind","verzwaren tegen wind",2,2,2
+"1099","CESvalid2019.fb2",65,756,"brick","Vestigingen","vestigingen",2,1,2
+"1100","CESvalid2019.bb2",18,346,"brick","Vierkant","vierkant",0,0,3
+"1101","CESvalid2019.fb2",65,754,"brick","Vierkant","vierkant",0,0,3
+"1102","CESvalid2019.bf1",77,1072,"brick","vierkant","vierkant",0,0,3
+"1103","CESvalid2019.bf1",98,1136,"brick","Vierkant","vierkant",0,0,3
+"1104","CESvalid2019.bb2",18,329,"brick","Vies","vies",0,0,0
+"1105","CESvalid2019.bf1",12,953,"brick","Vila","villa",1,1,2
+"1106","CESvalid2019.bb1",71,171,"brick","Vis vangen","vis vangen",4,4,3
+"1107","CESvalid2019.bf1",54,1021,"brick","In vitrine kast plaatsen","vitrine kast plaatsen",2,1,2
+"1108","CESvalid2019.bb1",90,212,"brick","Vloer","vloer",1,1,2
+"1109","CESvalid2019.bb2",90,540,"brick","Vloer","vloer",1,1,2
+"1110","CESvalid2019.bb2",42,432,"brick","Voeg","voeg",1,1,2
+"1111","CESvalid2019.bb1",36,112,"brick","voegen","voegen",1,1,2
+"1112","CESvalid2019.bf1",12,954,"brick","Voetbalkuil","voetbalkuil",3,3,3
+"1113","CESvalid2019.bf1",86,1084,"brick","Voeten steun","voeten steun",2,2,2
+"1114","CESvalid2019.bf1",122,1186,"brick","Voetenbank","voetenbank",2,2,2
+"1115","CESvalid2019.bb2",58,456,"brick","Voetenbankje","voetenbankje",2,2,2
+"1116","CESvalid2019.bb1",85,203,"brick","Voetensteun","voetensteun",2,2,2
+"1117","CESvalid2019.fb2",83,800,"brick","Voetensteun","voetensteun",2,2,2
+"1118","CESvalid2019.bb1",84,193,"brick","Voetensteuntje","voetensteuntje",2,2,2
+"1119","CESvalid2019.bb2",85,530,"brick","Voetsteuntje","voetsteuntje",2,2,2
+"1120","CESvalid2019.bf1",2,939,"brick","voetstuk","voetstuk",2,2,2
+"1121","CESvalid2019.fb2",34,668,"brick","voorkomen dat auto wegrolt (of caravan)","voorkomen auto wegrolt",3,2,3
+"1122","CESvalid2019.bb1",44,128,"brick","Voorkomen dat iets wegwaait","voorkomen wegwaait",2,2,2
+"1123","CESvalid2019.bb2",44,442,"brick","Voorkomen dat iets wegwaait","voorkomen wegwaait",2,2,2
+"1124","CESvalid2019.bf1",77,1071,"brick","vorm","vorm",0,0,3
+"1125","CESvalid2019.bb2",22,360,"brick","Vorm van nemen en er een brood uit bakken","vorm nemen brood bakken",4,3,3
+"1126","CESvalid2019.bb1",18,53,"brick","Vrienden","vrienden",0,0,0
+"1127","CESvalid2019.bf1",96,1121,"brick","Vrijwel heel Amsterdam","vrijwel heel amsterdam",0,0,0
+"1128","CESvalid2019.fb2",74,777,"brick","Vuurmaken","vuur",1,3,3
+"1129","CESvalid2019.bf1",98,1140,"brick","Vuur","vuur",0,3,2
+"1130","CESvalid2019.bb1",75,178,"brick","Vuurkorf maken","vuurkorf",2,3,2
+"1131","CESvalid2019.bb2",58,460,"brick","Vuurkorf mee maken","vuurkorf",2,3,2
+"1132","CESvalid2019.fb2",8,628,"brick","Vuurplaats","vuurplaats",2,3,2
+"1133","CESvalid2019.bb1",23,74,"brick","Als wapen","wapen",2,2,2
+"1134","CESvalid2019.bb1",40,118,"brick","Wapen","wapen",2,2,2
+"1135","CESvalid2019.bb1",44,124,"brick","Wapen","wapen",2,2,2
+"1136","CESvalid2019.bb2",23,361,"brick","Wapen","wapen",2,2,2
+"1137","CESvalid2019.bb2",40,416,"brick","Wapen","wapen",2,2,2
+"1138","CESvalid2019.bb2",44,439,"brick","Wapen","wapen",2,2,2
+"1139","CESvalid2019.bb2",102,565,"brick","Wapen","wapen",2,2,2
+"1140","CESvalid2019.fb2",38,673,"brick","als wapen","wapen",2,2,2
+"1141","CESvalid2019.bf1",63,1035,"brick","Wapen","wapen",2,2,2
+"1142","CESvalid2019.bf1",91,1096,"brick","Als wapen gebruiken","wapen",2,2,2
+"1143","CESvalid2019.bf1",60,1031,"brick","Warm","warm",0,0,0
+"1144","CESvalid2019.bf1",76,1069,"brick","warm","warm",0,0,0
+"1145","CESvalid2019.bf1",94,1105,"brick","Warm","warm",0,0,0
+"1146","CESvalid2019.bb2",22,358,"brick","In het water gooien","water gooien",1,1,1
+"1147","CESvalid2019.fb2",49,697,"brick","water tegenhouden","water tegenhouden",2,2,2
+"1148","CESvalid2019.bb1",7,14,"brick","Waxinelicjthouder","waxinelichthouder",5,3,3
+"1149","CESvalid2019.bb1",58,143,"brick","Wc pot","wc pot",4,4,4
+"1150","CESvalid2019.bb1",22,66,"brick","Weg","weg",1,1,1
+"1151","CESvalid2019.fb2",78,784,"brick","weg","weg",1,1,1
+"1152","CESvalid2019.fb2",83,803,"brick","Weg","weg",1,1,1
+"1153","CESvalid2019.fb2",118,903,"brick","Weg","weg",1,1,1
+"1154","CESvalid2019.bf1",12,943,"brick","Weg","weg",1,1,1
+"1155","CESvalid2019.bf1",96,1118,"brick","Een weg","weg",1,1,1
+"1156","CESvalid2019.bb1",14,33,"brick","weg aanleggen","weg aanleggen",1,1,1
+"1157","CESvalid2019.bb2",22,351,"brick","Weg van bouwen","weg bouwen",1,1,1
+"1158","CESvalid2019.bb2",36,415,"brick","wegen","wegen",2,1,1
+"1159","CESvalid2019.fb2",132,934,"brick","Wegen","wegen",2,1,1
+"1160","CESvalid2019.bf1",107,1150,"brick","Wegen","wegen",2,1,1
+"1161","CESvalid2019.bf1",67,1037,"brick","Weggooien","weggooien",1,1,1
+"1162","CESvalid2019.fb2",111,890,"brick","Werken","werken",1,1,2
+"1163","CESvalid2019.fb2",59,725,"brick","Wit","wit",0,0,0
+"1164","CESvalid2019.bb2",18,339,"brick","Wond","wond",0,1,0
+"1165","CESvalid2019.bf1",98,1133,"brick","Zagen","zagen",1,3,2
+"1166","CESvalid2019.fb2",59,729,"brick","Zand","zand",1,0,2
+"1167","CESvalid2019.bf1",96,1123,"brick","Zand","zand",1,0,2
+"1168","CESvalid2019.bf1",98,1143,"brick","Zand","zand",1,0,2
+"1169","CESvalid2019.bf1",12,955,"brick","Zandbak","zandbak",2,2,2
+"1170","CESvalid2019.bf1",16,960,"brick","zandbak omlijning","zandbak omlijning",2,2,2
+"1171","CESvalid2019.bb2",114,592,"brick","Zelfdefensie","zelfbescherming",2,2,2
+"1172","CESvalid2019.bb1",18,40,"brick","Ziekenhuis","ziekenhuis",0,1,2
+"1173","CESvalid2019.bb1",28,84,"brick","zink hulpstuk","zink hulpstuk",2,2,2
+"1174","CESvalid2019.bb2",97,560,"brick","Zinken","zinken",2,2,2
+"1175","CESvalid2019.fb2",3,620,"brick","zitje","zitje",2,2,2
+"1176","CESvalid2019.fb2",47,689,"brick","Zitje","zitje",2,2,2
+"1177","CESvalid2019.bb2",18,324,"brick","Zitplaats","zitplaats",2,2,2
+"1178","CESvalid2019.bb2",85,531,"brick","Zitplaats","zitplaats",2,2,2
+"1179","CESvalid2019.bf1",39,992,"brick","Zitplek maken","zitplek",2,2,2
+"1180","CESvalid2019.bb1",10,18,"brick","op zitten","zitten",2,2,2
+"1181","CESvalid2019.bb1",80,185,"brick","Op zitten","zitten",2,2,2
+"1182","CESvalid2019.bb1",85,202,"brick","Zitten","zitten",2,2,2
+"1183","CESvalid2019.bb2",10,296,"brick","op zitten","zitten",2,2,2
+"1184","CESvalid2019.bb2",18,322,"brick","Zitten","zitten",2,2,2
+"1185","CESvalid2019.fb2",49,693,"brick","zitten","zitten",2,2,2
+"1186","CESvalid2019.fb2",78,782,"brick","zitten","zitten",2,2,2
+"1187","CESvalid2019.fb2",124,920,"brick","Zitten","zitten",2,2,2
+"1188","CESvalid2019.fb2",125,927,"brick","Er op zitten","zitten",2,2,2
+"1189","CESvalid2019.bf1",33,978,"brick","op zitten","zitten",2,2,2
+"1190","CESvalid2019.bf1",50,1015,"brick","zitten","zitten",2,2,2
+"1191","CESvalid2019.bf1",107,1148,"brick","Zitten","zitten",2,2,2
+"1192","CESvalid2019.bf1",24,964,"brick","op iets zodat het niet wegvliegt","zodat niet wegvliegt",2,2,2
+"1193","CESvalid2019.bb2",61,470,"brick","Zorgen dat iets niet verzakt","zorgen niet verzakt",3,2,2
+"1194","CESvalid2019.bb1",31,92,"brick","Zwaar","zwaar",0,0,0
+"1195","CESvalid2019.bb1",110,250,"brick","Zwaar","zwaar",0,0,0
+"1196","CESvalid2019.bb2",31,397,"brick","Zwaar","zwaar",0,0,0
+"1197","CESvalid2019.bb2",97,561,"brick","Zwaar","zwaar",0,0,0
+"1198","CESvalid2019.bb2",110,582,"brick","Zwaar","zwaar",0,0,0
+"1199","CESvalid2019.fb2",59,728,"brick","Zwaar","zwaar",0,0,0
+"1200","CESvalid2019.fb2",111,882,"brick","Zwaar","zwaar",0,0,0
+"1201","CESvalid2019.bf1",73,1052,"brick","zwaar","zwaar",0,0,0
+"1202","CESvalid2019.bf1",94,1103,"brick","Zwaar","zwaar",0,0,0
+"1203","CESvalid2019.bf1",119,1171,"brick","zwaar","zwaar",0,0,0
+"1204","CESvalid2019.bf1",89,1087,"brick","Gebruiken als zwaar projectiel","zwaar projectiel",2,0,2
+"1205","CESvalid2019.fb2",106,873,"brick","zwaarte gebruiken voor hefboom","zwaarte hefboom",3,2,2
+"1206","CESvalid2019.bf1",54,1019,"brick","Zwarte stift","zwarte stift",2,1,4
+"1207","CESvalid2019.bb1",71,170,"brick","Zwembad in de tuin","zwembad tuin",1,1,2
+"1208","CESvalid2019.fb2",100,860,"brick","Voor","",0,0,0
+"1209","CESvalid2019.fb2",100,863,"brick","Hun","",0,0,0
+"1210","CESvalid2019.fb2",111,893,"brick","Veel","",0,0,0
+"1211","CESvalid2019.bf1",89,1091,"brick","gebruiken als","",0,0,0
+"1212","CESvalid2019.bb1",4,4,"brick","Iets aandrukken","aandrukken",2,2,2
+"1213","CESvalid2019.bb2",4,279,"brick","Iets aandrukken","aandrukken",2,2,2
+"1214","CESvalid2019.bf1",116,1166,"brick","Aandrukken","aandrukken",2,2,2
+"1215","CESvalid2019.bf1",99,1145,"brick","Aanvallen","aanvallen",3,0,2
+"1216","CESvalid2019.bb2",31,393,"brick","als achtergrond","achtergrond",3,3,3
+"1217","CESvalid2019.bb2",71,490,"brick","Achtergrond foto","achtergrond foto",3,3,3
+"1218","CESvalid2019.fb2",69,765,"brick","Afbakening","afbakening",2,2,2
+"1219","CESvalid2019.fb2",45,677,"brick","afgrenzing maken","afgrenzing",2,2,2
+"1220","CESvalid2019.bb1",36,106,"brick","afrastering","afrastering",2,2,2
+"1221","CESvalid2019.fb2",47,690,"brick","Afscheiding","afscheiding",2,2,2
+"1222","CESvalid2019.bf1",2,940,"brick","afscheiding in boekenkast","afscheiding boekenkast",4,2,2
+"1223","CESvalid2019.bf1",37,987,"brick","Afscheiding maken op grond","afscheiding grond",2,2,2
+"1224","CESvalid2019.bb2",93,557,"brick","Afsta","afsta",0,0,0
+"1225","CESvalid2019.bb2",23,364,"brick","Als afzetting","afzetting",2,2,2
+"1226","CESvalid2019.fb2",20,642,"brick","Afzetting","afzetting",2,2,2
+"1227","CESvalid2019.bb2",18,325,"brick","Akker","akker",0,2,2
+"1228","CESvalid2019.bb1",18,44,"brick","Akkers","akkers",0,2,2
+"1229","CESvalid2019.bb2",93,548,"brick","Alweer die baksteen?","alweer baksteen",0,0,0
+"1230","CESvalid2019.fb2",53,720,"brick","anker","anker",3,3,3
+"1231","CESvalid2019.fb2",74,771,"brick","Ankeren","ankeren",3,3,3
+"1232","CESvalid2019.bf1",60,1028,"brick","Appartement","appartement",1,0,1
+"1233","CESvalid2019.fb2",20,646,"brick","Aquaduct","aquaduct",1,0,2
+"1234","CESvalid2019.bb2",42,435,"brick","Architect","architect",0,0,3
+"1235","CESvalid2019.bb2",42,434,"brick","Architectuur","architectuur",1,0,3
+"1236","CESvalid2019.bf1",76,1058,"brick","architectuur","architectuur",1,0,3
+"1237","CESvalid2019.bf1",96,1115,"brick","Asbakken","asbakken",3,0,3
+"1238","CESvalid2019.fb2",100,859,"brick","At","at",0,0,0
+"1239","CESvalid2019.fb2",83,802,"brick","Bak","bak",2,1,2
+"1240","CESvalid2019.bf1",98,1128,"brick","Bak","bak",2,1,2
+"1241","CESvalid2019.bb2",103,577,"brick","Bakplaat","bakplaat",3,4,3
+"1242","CESvalid2019.bb2",22,357,"brick","Bakstenen schilderen","bakstenen schilderen",3,3,3
+"1243","CESvalid2019.bb2",7,290,"brick","Bal","bal",3,4,3
+"1244","CESvalid2019.bb1",11,25,"brick","Gebruiken bij band verwisselen","band verwisselen",4,4,3
+"1245","CESvalid2019.bb2",75,499,"brick","Bank maken","bank",3,3,3
+"1246","CESvalid2019.fb2",95,835,"brick","een bar van maken","bar",2,1,3
+"1247","CESvalid2019.bb2",128,609,"brick","Bbq (zoals bij parken)","barbecue",2,1,2
+"1248","CESvalid2019.fb2",92,824,"brick","barbecue","barbecue",2,1,2
+"1249","CESvalid2019.bf1",46,1002,"brick","Barbecue","barbecue",2,1,2
+"1250","CESvalid2019.bb1",90,211,"brick","Barricade","barricade",2,2,2
+"1251","CESvalid2019.bb2",90,543,"brick","Barricade","barricade",2,2,2
+"1252","CESvalid2019.bb2",85,537,"brick","Bedreigen","bedreigen",2,2,2
+"1253","CESvalid2019.bb1",14,34,"brick","beeld maken","beeld",2,3,3
+"1254","CESvalid2019.bb2",14,318,"brick","beeld maken","beeld",2,3,3
+"1255","CESvalid2019.bb2",128,603,"brick","Beeld","beeld",2,3,3
+"1256","CESvalid2019.bb1",128,268,"brick","Beeld bouwen","beeld bouwen",2,3,3
+"1257","CESvalid2019.bb1",110,252,"brick","Beelden","beelden",2,3,3
+"1258","CESvalid2019.bb2",110,588,"brick","Beelden","beelden",2,3,3
+"1259","CESvalid2019.fb2",95,834,"brick","beeldhouw werk","beeldhouw werk",2,3,3
+"1260","CESvalid2019.bb1",7,11,"brick","Beeldhouwen","beeldhouwen",2,3,3
+"1261","CESvalid2019.bb1",84,196,"brick","Beeldhouwen","beeldhouwen",2,3,3
+"1262","CESvalid2019.bb1",85,205,"brick","Beeldhouwen","beeldhouwen",2,3,3
+"1263","CESvalid2019.bb2",7,288,"brick","Beeldhouwen","beeldhouwen",2,3,3
+"1264","CESvalid2019.bb2",84,518,"brick","Beeldhouwen","beeldhouwen",2,3,3
+"1265","CESvalid2019.bb2",85,534,"brick","Beeldhouwen","beeldhouwen",2,3,3
+"1266","CESvalid2019.fb2",83,809,"brick","Beeldhouwen","beeldhouwen",2,3,3
+"1267","CESvalid2019.bf1",86,1081,"brick","Beeldhouwen","beeldhouwen",2,3,3
+"1268","CESvalid2019.fb2",51,715,"brick","begraven","begraven",2,0,1
+"1269","CESvalid2019.fb2",111,891,"brick","Beroep","beroep",0,0,3
+"1270","CESvalid2019.bb1",7,7,"brick","Beschilderen","beschilderen",2,3,3
+"1271","CESvalid2019.bb2",80,510,"brick","Beschilderen","beschilderen",2,3,3
+"1272","CESvalid2019.fb2",20,643,"brick","Beschilderen","beschilderen",2,3,3
+"1273","CESvalid2019.fb2",34,664,"brick","beschilderen","beschilderen",2,3,3
+"1274","CESvalid2019.fb2",47,683,"brick","Beschilderen","beschilderen",2,3,3
+"1275","CESvalid2019.bf1",37,986,"brick","Beschilderen","beschilderen",2,3,3
+"1276","CESvalid2019.fb2",20,640,"brick","Beschutting","beschutting",2,2,2
+"1277","CESvalid2019.bb2",68,471,"brick","Bestek","bestek",1,5,4
+"1278","CESvalid2019.fb2",92,827,"brick","betegelen","betegelen",1,1,1
+"1279","CESvalid2019.bb2",42,436,"brick","Beton","beton",1,0,1
+"1280","CESvalid2019.bb2",80,512,"brick","Iemand mee bewusteloos slaan","bewusteloos slaan",2,1,2
+"1281","CESvalid2019.bb1",93,223,"brick","Bieropener","bieropener",4,4,3
+"1282","CESvalid2019.bf1",96,1116,"brick","Bloembakken","bloembakken",3,1,3
+"1283","CESvalid2019.bb2",120,602,"brick","bloemenhouder","bloemenhouder",3,1,3
+"1284","CESvalid2019.bb1",114,260,"brick","Bloempot","bloempot",3,1,3
+"1285","CESvalid2019.bb2",11,313,"brick","Bloempot van maken","bloempot",3,1,3
+"1286","CESvalid2019.bb1",110,246,"brick","Blok","blok",1,0,1
+"1287","CESvalid2019.bf1",98,1135,"brick","Blok","blok",1,0,1
+"1288","CESvalid2019.bb1",23,73,"brick","Als blokkade","blokkade",2,2,2
+"1289","CESvalid2019.fb2",59,731,"brick","Bob de bouwer","bob bouwer",0,0,3
+"1290","CESvalid2019.bb1",11,29,"brick","Boe","boe",0,0,0
+"1291","CESvalid2019.bb2",11,309,"brick","Boekenhouder","boekenhouder",4,3,2
+"1292","CESvalid2019.bb2",102,568,"brick","Boekenhouder","boekenhouder",4,3,2
+"1293","CESvalid2019.bb2",10,303,"brick","als boekenstandaard","boekenstandaard",4,3,2
+"1294","CESvalid2019.bb1",10,20,"brick","als boekensteun","boekensteun",4,3,2
+"1295","CESvalid2019.fb2",47,685,"brick","Boekensteun","boekensteun",4,3,2
+"1296","CESvalid2019.fb2",49,695,"brick","boekensteun","boekensteun",4,3,2
+"1297","CESvalid2019.bb1",102,238,"brick","Boekhouder","boekhouder",4,3,2
+"1298","CESvalid2019.fb2",38,674,"brick","als boksbal","boksbal",4,4,3
+"1299","CESvalid2019.bf1",54,1020,"brick","Boodschap/ kerstwens voor medestudenten","boodschap kerstwens medestudenten",2,0,4
+"1300","CESvalid2019.bb2",71,492,"brick","Boog maken","boog",1,0,2
+"1301","CESvalid2019.bf1",12,945,"brick","Boog","boog",1,0,2
+"1302","CESvalid2019.bb2",97,559,"brick","Boot","boot",1,0,3
+"1303","CESvalid2019.bb1",80,184,"brick","Als bord gebruiken","bord",3,4,3
+"1304","CESvalid2019.bb1",110,258,"brick","Bord","bord",3,4,3
+"1305","CESvalid2019.bb2",7,292,"brick","Bord","bord",3,4,3
+"1306","CESvalid2019.bb2",25,374,"brick","Een bord voor een hipster restaurant","bord hipster restaurant",5,4,3
+"1307","CESvalid2019.bb2",68,479,"brick","Borstel","borstel",1,5,3
+"1308","CESvalid2019.fb2",59,733,"brick","Boterhammen","boterhammen",1,0,4
+"1309","CESvalid2019.fb2",108,877,"brick","Bouw","bouw",1,1,1
+"1310","CESvalid2019.bb1",4,1,"brick","Iets bouwen","bouwen",1,1,1
+"1311","CESvalid2019.bb1",7,6,"brick","Bouwen","bouwen",1,1,1
+"1312","CESvalid2019.bb1",10,15,"brick","bouwen","bouwen",1,1,1
+"1313","CESvalid2019.bb1",22,58,"brick","Bouwen","bouwen",1,1,1
+"1314","CESvalid2019.bb1",31,88,"brick","Bouwen","bouwen",1,1,1
+"1315","CESvalid2019.bb1",36,103,"brick","bouwen","bouwen",1,1,1
+"1316","CESvalid2019.bb1",55,133,"brick","Bouwen","bouwen",1,1,1
+"1317","CESvalid2019.bb1",58,136,"brick","Bouwen","bouwen",1,1,1
+"1318","CESvalid2019.bb1",61,149,"brick","Bouwen","bouwen",1,1,1
+"1319","CESvalid2019.bb1",80,180,"brick","Bouwen","bouwen",1,1,1
+"1320","CESvalid2019.bb1",85,207,"brick","Bouwen","bouwen",1,1,1
+"1321","CESvalid2019.bb2",4,276,"brick","Iets bouwen","bouwen",1,1,1
+"1322","CESvalid2019.bb2",28,385,"brick","zelf bouwen","bouwen",1,1,1
+"1323","CESvalid2019.bb2",31,387,"brick","Bouwen","bouwen",1,1,1
+"1324","CESvalid2019.bb2",36,406,"brick","bouwen","bouwen",1,1,1
+"1325","CESvalid2019.bb2",55,448,"brick","Bouwen","bouwen",1,1,1
+"1326","CESvalid2019.bb2",61,463,"brick","Iets bouwen","bouwen",1,1,1
+"1327","CESvalid2019.bb2",80,501,"brick","Bouwen","bouwen",1,1,1
+"1328","CESvalid2019.bb2",84,516,"brick","Bouwen","bouwen",1,1,1
+"1329","CESvalid2019.bb2",85,526,"brick","Bouwen","bouwen",1,1,1
+"1330","CESvalid2019.bb2",102,569,"brick","Bouwen","bouwen",1,1,1
+"1331","CESvalid2019.fb2",29,654,"brick","bouwen","bouwen",1,1,1
+"1332","CESvalid2019.fb2",49,691,"brick","bouwen","bouwen",1,1,1
+"1333","CESvalid2019.fb2",65,744,"brick","Bouwen","bouwen",1,1,1
+"1334","CESvalid2019.fb2",74,769,"brick","Bouwen","bouwen",1,1,1
+"1335","CESvalid2019.fb2",78,779,"brick","bouwen","bouwen",1,1,1
+"1336","CESvalid2019.fb2",81,797,"brick","er iets mee bouwen","bouwen",1,1,1
+"1337","CESvalid2019.fb2",92,812,"brick","bouwen","bouwen",1,1,1
+"1338","CESvalid2019.fb2",106,871,"brick","bouwen","bouwen",1,1,1
+"1339","CESvalid2019.fb2",108,876,"brick","Bouwen","bouwen",1,1,1
+"1340","CESvalid2019.fb2",111,885,"brick","Bouwen","bouwen",1,1,1
+"1341","CESvalid2019.fb2",115,894,"brick","Bouwen","bouwen",1,1,1
+"1342","CESvalid2019.fb2",118,902,"brick","Bouwen","bouwen",1,1,1
+"1343","CESvalid2019.fb2",124,922,"brick","Bouwen","bouwen",1,1,1
+"1344","CESvalid2019.fb2",125,926,"brick","Bouwen","bouwen",1,1,1
+"1345","CESvalid2019.bf1",33,976,"brick","bouwen","bouwen",1,1,1
+"1346","CESvalid2019.bf1",39,989,"brick","Bouwen","bouwen",1,1,1
+"1347","CESvalid2019.bf1",50,1011,"brick","bouwen","bouwen",1,1,1
+"1348","CESvalid2019.bf1",94,1101,"brick","Bouwen","bouwen",1,1,1
+"1349","CESvalid2019.bf1",99,1144,"brick","Bouwen","bouwen",1,1,1
+"1350","CESvalid2019.bf1",107,1147,"brick","Bouwen","bouwen",1,1,1
+"1351","CESvalid2019.bf1",116,1159,"brick","Bouwen","bouwen",1,1,1
+"1352","CESvalid2019.bf1",119,1170,"brick","bouwen","bouwen",1,1,1
+"1353","CESvalid2019.bf1",122,1184,"brick","Bouwen","bouwen",1,1,1
+"1354","CESvalid2019.bf1",77,1077,"brick","iets bouwen om met kinderen mee te spelen","bouwen kinderen spelen",1,1,2
+"1355","CESvalid2019.bb2",114,590,"brick","Bouwmiddel","bouwmiddel",1,1,1
+"1356","CESvalid2019.bb1",28,82,"brick","bouwpakket","bouwpakket",1,1,2
+"1357","CESvalid2019.bb2",36,411,"brick","bouwsels","bouwsels",1,1,1
+"1358","CESvalid2019.bb2",7,287,"brick","Bouwsteen","bouwsteen",1,1,1
+"1359","CESvalid2019.bb1",18,45,"brick","Bouwvakker","bouwvakker",1,0,0
+"1360","CESvalid2019.bb2",18,326,"brick","Bouwvakker","bouwvakker",1,0,0
+"1361","CESvalid2019.bb2",42,430,"brick","Bouwvakker","bouwvakker",1,0,0
+"1362","CESvalid2019.fb2",59,726,"brick","Bouwvakker","bouwvakker",1,0,0
+"1363","CESvalid2019.fb2",111,886,"brick","Bouwvakker","bouwvakker",1,0,0
+"1364","CESvalid2019.bb1",31,99,"brick","Bouwvakkers","bouwvakkers",1,0,0
+"1365","CESvalid2019.bb2",31,400,"brick","bouwvakkers","bouwvakkers",1,0,0
+"1366","CESvalid2019.bf1",98,1132,"brick","Bouwvakkers","bouwvakkers",1,0,0
+"1367","CESvalid2019.bb2",18,338,"brick","Breken","breken",1,1,1
+"1368","CESvalid2019.fb2",92,826,"brick","breken","breken",1,1,1
+"1369","CESvalid2019.fb2",124,919,"brick","Breken","breken",1,1,1
+"1370","CESvalid2019.bf1",30,972,"brick","breken","breken",1,1,1
+"1371","CESvalid2019.bb1",103,245,"brick","Breken om te overleven (soort mes maken)","breken overleven",3,3,3
+"1372","CESvalid2019.bb2",22,349,"brick","Een brug van maken","brug",1,1,2
+"1373","CESvalid2019.bb2",128,604,"brick","Brug","brug",1,1,2
+"1374","CESvalid2019.bf1",12,947,"brick","Brug","brug",1,1,2
+"1375","CESvalid2019.bb1",110,248,"brick","Bruin","bruin",0,0,0
+"1376","CESvalid2019.fb2",59,724,"brick","Bruin","bruin",0,0,0
+"1377","CESvalid2019.fb2",118,908,"brick","Bruin","bruin",0,0,0
+"1378","CESvalid2019.bf1",73,1055,"brick","bruin","bruin",0,0,0
+"1379","CESvalid2019.bf1",94,1106,"brick","Bruin","bruin",0,0,0
+"1380","CESvalid2019.bb2",68,475,"brick","Buigen","buigen",1,0,2
+"1381","CESvalid2019.bb2",103,578,"brick","Buitenbbq maken","buiten barbecue",2,1,2
+"1382","CESvalid2019.fb2",132,938,"brick","Buiten kinderen houden","buiten kinderen houden",2,0,2
+"1383","CESvalid2019.bf1",86,1083,"brick","Bureau","bureau",3,1,3
+"1384","CESvalid2019.bf1",123,1199,"brick","cadeau","cadeau",2,2,3
+"1385","CESvalid2019.fb2",65,757,"brick","cafe baksteen","café baksteen",1,1,NA
+"1386","CESvalid2019.bb1",22,62,"brick","Cement","cement",1,0,1
+"1387","CESvalid2019.bb1",31,97,"brick","Cement","cement",1,0,1
+"1388","CESvalid2019.fb2",108,880,"brick","Cement","cement",1,0,1
+"1389","CESvalid2019.fb2",111,888,"brick","Cement","cement",1,0,1
+"1390","CESvalid2019.fb2",118,904,"brick","Cement","cement",1,0,1
+"1391","CESvalid2019.bf1",73,1048,"brick","cement","cement",1,0,1
+"1392","CESvalid2019.bf1",76,1061,"brick","cement","cement",1,0,1
+"1393","CESvalid2019.bf1",94,1100,"brick","Sement","cement",1,0,1
+"1394","CESvalid2019.bb2",28,377,"brick","cement bouwpakket","cement bouwpakket",1,0,2
+"1395","CESvalid2019.bb1",28,83,"brick","cementen voetbal","cementen voetbal",3,0,3
+"1396","CESvalid2019.fb2",95,831,"brick","collab met supr<e8>me en verkopen","collab supreme verkopen",2,0,3
+"1397","CESvalid2019.bf1",76,1062,"brick","in combinatie met beton","combinatie beton",0,0,1
+"1398","CESvalid2019.bf1",76,1065,"brick","in combinatie met hout","combinatie hout",0,0,1
+"1399","CESvalid2019.bb1",18,43,"brick","Constructie","constructie",1,1,1
+"1400","CESvalid2019.bb2",36,407,"brick","constructie","constructie",1,1,1
+"1401","CESvalid2019.bb1",44,127,"brick","Contragewicht","contragewicht",2,2,2
+"1402","CESvalid2019.bb2",40,421,"brick","Contragewicht","contragewicht",2,2,2
+"1403","CESvalid2019.bb2",44,441,"brick","Contragewicht","contragewicht",2,2,2
+"1404","CESvalid2019.bf1",39,991,"brick","Contragewicht","contragewicht",2,2,2
+"1405","CESvalid2019.fb2",65,745,"brick","Cree<eb>ren","creeëren",1,0,NA
+"1406","CESvalid2019.fb2",100,861,"brick","De d","d",0,0,0
+"1407","CESvalid2019.bb1",90,216,"brick","Dak","dak",1,1,2
+"1408","CESvalid2019.fb2",45,680,"brick","op dakpan leggen","dakpan leggen",1,1,2
+"1409","CESvalid2019.bf1",12,952,"brick","Dam","dam",1,3,2
+"1410","CESvalid2019.bb1",25,77,"brick","Decoratie","decoratie",2,3,3
+"1411","CESvalid2019.bb1",68,161,"brick","Decoratie","decoratie",2,3,3
+"1412","CESvalid2019.bb1",90,210,"brick","Decoratie","decoratie",2,3,3
+"1413","CESvalid2019.bb2",25,373,"brick","Als decoratie gebruiken","decoratie",2,3,3
+"1414","CESvalid2019.bb2",68,476,"brick","Decoratie","decoratie",2,3,NA
+"1415","CESvalid2019.bb2",114,593,"brick","Decoratie","decoratie",2,3,3
+"1416","CESvalid2019.bf1",46,1001,"brick","Decoratie","decoratie",2,3,3
+"1417","CESvalid2019.bf1",67,1041,"brick","Decoratie","decoratie",2,3,3
+"1418","CESvalid2019.bf1",54,1024,"brick","Deeltjes in potten","deeltjes potten",3,3,2
+"1419","CESvalid2019.bb2",7,294,"brick","Deksel","deksel",3,2,2
+"1420","CESvalid2019.bb1",18,49,"brick","Deur","deur",1,0,2
+"1421","CESvalid2019.bb2",90,547,"brick","Deur","deur",1,0,2
+"1422","CESvalid2019.fb2",100,862,"brick","Deur","deur",1,0,2
+"1423","CESvalid2019.bb2",84,524,"brick","Deur open houden","deur open houden",2,2,2
+"1424","CESvalid2019.bb2",23,368,"brick","Als deur open houder","deur open houder",2,2,2
+"1425","CESvalid2019.bb1",84,195,"brick","En deur openhouden","deur openhouden",2,2,2
+"1426","CESvalid2019.bb2",93,556,"brick","Deur openhouden","deur openhouden",2,2,2
+"1427","CESvalid2019.bb1",40,115,"brick","Deur tegen te houden","deur tegen houden",2,2,2
+"1428","CESvalid2019.bb2",40,418,"brick","Deur tegen houden","deur tegen houden",2,2,2
+"1429","CESvalid2019.bb2",80,509,"brick","Deur mee tegen houden","deur tegen houden",2,2,2
+"1430","CESvalid2019.fb2",51,707,"brick","deur tegenhouden","deur tegenhouden",2,2,2
+"1431","CESvalid2019.fb2",132,930,"brick","Deur vasthouden","deur vasthouden",2,2,2
+"1432","CESvalid2019.bb2",102,563,"brick","Deurklem","deurklem",2,2,2
+"1433","CESvalid2019.bb1",25,79,"brick","Deurstopper","deurstopper",2,2,2
+"1434","CESvalid2019.bb1",44,126,"brick","Deurstop","deurstopper",2,2,2
+"1435","CESvalid2019.bb1",102,237,"brick","Deurstop","deurstopper",2,2,2
+"1436","CESvalid2019.bb2",10,305,"brick","deurstop","deurstopper",2,2,2
+"1437","CESvalid2019.bb2",11,308,"brick","Deurstopper","deurstopper",2,2,2
+"1438","CESvalid2019.bb2",28,383,"brick","deurstopper","deurstopper",2,2,2
+"1439","CESvalid2019.bb2",44,440,"brick","Deurstop","deurstopper",2,2,2
+"1440","CESvalid2019.fb2",47,686,"brick","Deurstopper","deurstopper",2,2,2
+"1441","CESvalid2019.fb2",115,897,"brick","Deurstop","deurstopper",2,2,2
+"1442","CESvalid2019.bb1",80,192,"brick","Din","din",0,0,0
+"1443","CESvalid2019.bf1",30,974,"brick","dingen mee fijn malen","dingen fijn malen",2,2,3
+"1444","CESvalid2019.bf1",30,975,"brick","dingen mee kapot maken","dingen kapot",1,2,2
+"1445","CESvalid2019.bb2",58,459,"brick","Gebruiken om dingen mee te laten zinken","dingen laten zinken",2,2,2
+"1446","CESvalid2019.bb1",55,130,"brick","Dingen slopen","dingen slopen",1,2,2
+"1447","CESvalid2019.fb2",115,895,"brick","Dingen tegenhouden","dingen tegenhouden",2,2,2
+"1448","CESvalid2019.fb2",100,841,"brick","Doekoe","doekoe",0,0,3
+"1449","CESvalid2019.bb2",10,301,"brick","als doel gebruiken","doel",3,2,3
+"1450","CESvalid2019.bf1",96,1120,"brick","De dom toren","dom toren",1,0,2
+"1451","CESvalid2019.fb2",49,696,"brick","domino","domino",4,3,3
+"1452","CESvalid2019.fb2",64,741,"brick","Domino","domino",4,3,3
+"1453","CESvalid2019.bf1",50,1013,"brick","domino","domino",4,3,3
+"1454","CESvalid2019.bb1",58,139,"brick","Gebruiken voor domino<U+0092>s","domino s",4,3,3
+"1455","CESvalid2019.fb2",34,666,"brick","domino spel","domino spel",4,3,3
+"1456","CESvalid2019.bf1",77,1073,"brick","donkere kleuren","donkere kleuren",0,0,3
+"1457","CESvalid2019.fb2",100,844,"brick","Donnie","donnie",0,0,0
+"1458","CESvalid2019.fb2",100,845,"brick","Twee donnie","donnie",0,0,0
+"1459","CESvalid2019.fb2",100,846,"brick","Drie donniee","donniee",0,0,0
+"1460","CESvalid2019.fb2",92,815,"brick","doodslag","doodslag",2,1,2
+"1461","CESvalid2019.bb2",31,391,"brick","Doorbreken","doorbreken",1,1,1
+"1462","CESvalid2019.fb2",51,710,"brick","doormidden zagen","doormidden zagen",1,0,1
+"1463","CESvalid2019.fb2",69,760,"brick","Dreigement","dreigement",2,0,2
+"1464","CESvalid2019.bb2",84,520,"brick","Dreigen te gooien met baksteen","dreigen gooien baksteen",2,1,2
+"1465","CESvalid2019.bf1",122,1192,"brick","Duurzaam","duurzaam",0,0,0
+"1466","CESvalid2019.fb2",100,853,"brick","Eikel","eikel",0,0,0
+"1467","CESvalid2019.bf1",77,1075,"brick","op elkaar stapelen","elkaar stapelen",2,1,1
+"1468","CESvalid2019.fb2",51,712,"brick","ergens aan bevestigen","ergens bevestigen",2,1,2
+"1469","CESvalid2019.fb2",81,796,"brick","ernaar kijken","ernaar kijken",1,1,2
+"1470","CESvalid2019.bf1",67,1040,"brick","Erop staan","erop staan",2,1,2
+"1471","CESvalid2019.bb1",58,145,"brick","Erop tekenen en een mini stad maken","erop tekenen mini stad",4,3,3
+"1472","CESvalid2019.bf1",91,1097,"brick","Je kan erop zitten","erop zitten",2,1,2
+"1473","CESvalid2019.bf1",123,1203,"brick","etaleren","etaleren",2,0,3
+"1474","CESvalid2019.bb2",68,472,"brick","Eten","eten",1,5,4
+"1475","CESvalid2019.bb2",80,504,"brick","Van eten","eten",3,5,4
+"1476","CESvalid2019.bb2",97,558,"brick","Eten","eten",1,5,4
+"1477","CESvalid2019.bb2",68,480,"brick","Eten stampen","eten stampen",3,3,3
+"1478","CESvalid2019.bb1",22,61,"brick","Fabrieken","fabrieken",0,0,2
+"1479","CESvalid2019.bb1",90,218,"brick","Fiets","fiets",1,0,3
+"1480","CESvalid2019.bf1",12,948,"brick","Fietspad","fietspad",1,1,2
+"1481","CESvalid2019.fb2",121,914,"brick","Figuren bouwen","figuren bouwen",1,1,3
+"1482","CESvalid2019.fb2",49,701,"brick","fijnmalen","fijnmalen",2,3,1
+"1483","CESvalid2019.bb1",22,69,"brick","Filtreren van vervuild bv","filtreren vervuild bv",4,0,2
+"1484","CESvalid2019.bb1",97,230,"brick","Flatgebouw","flatgebouw",1,1,2
+"1485","CESvalid2019.fb2",65,747,"brick","fotografie","fotografie",2,0,3
+"1486","CESvalid2019.fb2",65,758,"brick","Fundament","fundament",0,0,1
+"1487","CESvalid2019.bf1",76,1060,"brick","fundering","fundering",1,0,1
+"1488","CESvalid2019.fb2",45,681,"brick","gat mee dichten","gat dichten",2,2,2
+"1489","CESvalid2019.fb2",47,688,"brick","Gat in maken met plant","gat plant",3,3,3
+"1490","CESvalid2019.bf1",96,1113,"brick","Gebakjes van steen","gebakjes steen",2,4,4
+"1491","CESvalid2019.bf1",73,1049,"brick","gebakken","gebakken",1,1,0
+"1492","CESvalid2019.bf1",96,1111,"brick","Gebakken steen","gebakken steen",1,4,1
+"1493","CESvalid2019.bb1",36,105,"brick","gebouw","gebouw",1,1,1
+"1494","CESvalid2019.bb1",85,201,"brick","Gebouw","gebouw",1,1,1
+"1495","CESvalid2019.bb1",114,259,"brick","Gebouw","gebouw",1,1,1
+"1496","CESvalid2019.bb2",36,409,"brick","gebouw","gebouw",1,1,1
+"1497","CESvalid2019.bb2",42,429,"brick","Gebouw","gebouw",1,1,1
+"1498","CESvalid2019.fb2",59,722,"brick","gebouw","gebouw",1,1,1
+"1499","CESvalid2019.fb2",118,907,"brick","Gebouw","gebouw",1,1,1
+"1500","CESvalid2019.bf1",73,1044,"brick","gebouw","gebouw",1,1,1
+"1501","CESvalid2019.bf1",119,1172,"brick","gebouw","gebouw",1,1,1
+"1502","CESvalid2019.bb1",129,271,"brick","Gebouw bouwen","gebouw bouwen",1,1,1
+"1503","CESvalid2019.fb2",132,936,"brick","Gebouw bouwen","gebouw bouwen",1,1,1
+"1504","CESvalid2019.bb2",44,443,"brick","Gebouwen","gebouwen",1,1,1
+"1505","CESvalid2019.bb2",110,587,"brick","Gebouwen","gebouwen",1,1,1
+"1506","CESvalid2019.bb2",129,615,"brick","Gebouwen bouwen","gebouwen bouwen",1,1,1
+"1507","CESvalid2019.bf1",43,998,"brick","Gebruik als handrem (achter de banden leggen van een auto)","gebruik handrem",3,3,3
+"1508","CESvalid2019.bf1",43,995,"brick","Gebruik voor kunst","gebruik kunst",2,2,3
+"1509","CESvalid2019.bb1",14,35,"brick","gebruiksvoorwerpen maken","gebruiksvoorwerpen",1,1,2
+"1510","CESvalid2019.bb2",14,319,"brick","gebruiksvoorwerpen maken","gebruiksvoorwerpen",1,1,2
+"1511","CESvalid2019.bb1",128,266,"brick","Gekleurde huis maken","gekleurde huis",1,0,2
+"1512","CESvalid2019.bb2",4,281,"brick","Geluid maken","geluid",2,3,3
+"1513","CESvalid2019.bb1",7,10,"brick","Geluid door krassen/op elkaar tikken","geluid krassen elkaar tikken",2,3,3
+"1514","CESvalid2019.bb2",114,591,"brick","Geluidsisolatie","geluidsisolatie",2,3,3
+"1515","CESvalid2019.bb2",68,477,"brick","Gebruiken als gereedschap","gereedschap",3,3,3
+"1516","CESvalid2019.fb2",92,825,"brick","geschiedenis","geschiedenis",0,0,0
+"1517","CESvalid2019.fb2",65,748,"brick","geur","geur",0,0,3
+"1518","CESvalid2019.fb2",111,889,"brick","Gevaarlijk","gevaarlijk",0,0,0
+"1519","CESvalid2019.fb2",118,906,"brick","Gevaarlijk","gevaarlijk",0,0,0
+"1520","CESvalid2019.bb1",23,71,"brick","Als gewicht gebruiken","gewicht",2,1,2
+"1521","CESvalid2019.bb2",23,362,"brick","Gewicht","gewicht",2,0,2
+"1522","CESvalid2019.bf1",89,1086,"brick","Gebruiken als Gewicht","gewicht",2,1,2
+"1523","CESvalid2019.bf1",119,1183,"brick","gewicht","gewicht",2,0,2
+"1524","CESvalid2019.fb2",64,736,"brick","Gewicht ergens in plaatsen","gewicht ergens plaatsen",2,1,2
+"1525","CESvalid2019.fb2",3,621,"brick","gewicht om mee te trainen","gewicht trainen",3,4,2
+"1526","CESvalid2019.bb2",31,398,"brick","gewichtheffen","gewichtheffen",3,4,2
+"1527","CESvalid2019.fb2",15,635,"brick","gewichtheffen","gewichtheffen",3,4,2
+"1528","CESvalid2019.fb2",51,714,"brick","gewichtheffen","gewichtheffen",3,4,NA
+"1529","CESvalid2019.fb2",64,739,"brick","Gewichtheffen","gewichtheffen",3,4,2
+"1530","CESvalid2019.bf1",96,1126,"brick","Gewonden mensen","gewonden mensen",2,1,2
+"1531","CESvalid2019.bb2",120,599,"brick","gezicht van een mannetje","gezicht mannetje",1,0,3
+"1532","CESvalid2019.bb2",31,396,"brick","glas mee stuk gooien","glas stuk gooien",2,1,1
+"1533","CESvalid2019.bf1",54,1018,"brick","Glitter","glitter",0,0,4
+"1534","CESvalid2019.bf1",24,962,"brick","als gooi object","gooi object",1,1,2
+"1535","CESvalid2019.bb1",4,2,"brick","Gooien","gooien",1,1,2
+"1536","CESvalid2019.bb1",18,38,"brick","Gooien","gooien",1,1,2
+"1537","CESvalid2019.bb1",18,54,"brick","Gooien","gooien",1,1,2
+"1538","CESvalid2019.bb1",22,57,"brick","Gooien","gooien",1,1,2
+"1539","CESvalid2019.bb1",61,150,"brick","Gooien","gooien",1,1,2
+"1540","CESvalid2019.bb1",68,157,"brick","Gooien","gooien",1,1,2
+"1541","CESvalid2019.bb1",71,164,"brick","Gooien","gooien",1,1,2
+"1542","CESvalid2019.bb1",75,179,"brick","Mee gooien","gooien",1,1,2
+"1543","CESvalid2019.bb1",80,181,"brick","Gooien","gooien",1,1,2
+"1544","CESvalid2019.bb2",4,277,"brick","Gooien","gooien",1,1,2
+"1545","CESvalid2019.bb2",10,298,"brick","over gooien","gooien",1,1,2
+"1546","CESvalid2019.bb2",18,321,"brick","Gooien","gooien",1,1,2
+"1547","CESvalid2019.bb2",22,347,"brick","Gooien","gooien",1,1,2
+"1548","CESvalid2019.bb2",25,370,"brick","Gooien","gooien",1,1,2
+"1549","CESvalid2019.bb2",61,465,"brick","Gooien","gooien",1,1,2
+"1550","CESvalid2019.bb2",68,481,"brick","Gooien","gooien",1,1,2
+"1551","CESvalid2019.bb2",71,486,"brick","Gooien","gooien",1,1,2
+"1552","CESvalid2019.bb2",80,502,"brick","Gooien","gooien",1,1,2
+"1553","CESvalid2019.bb2",85,529,"brick","Gooien","gooien",1,1,2
+"1554","CESvalid2019.bb2",90,546,"brick","Gooien","gooien",1,1,2
+"1555","CESvalid2019.fb2",15,630,"brick","gooien","gooien",1,1,2
+"1556","CESvalid2019.fb2",29,653,"brick","mee gooien","gooien",1,1,2
+"1557","CESvalid2019.fb2",38,671,"brick","gooien","gooien",1,1,2
+"1558","CESvalid2019.fb2",51,705,"brick","gooien","gooien",1,1,2
+"1559","CESvalid2019.fb2",74,768,"brick","Gooien","gooien",1,1,2
+"1560","CESvalid2019.fb2",78,778,"brick","gooien","gooien",1,1,2
+"1561","CESvalid2019.fb2",81,790,"brick","gooien","gooien",1,1,2
+"1562","CESvalid2019.fb2",83,811,"brick","Gooien","gooien",1,1,2
+"1563","CESvalid2019.fb2",92,817,"brick","gooien","gooien",1,1,2
+"1564","CESvalid2019.fb2",95,828,"brick","gooien","gooien",1,1,2
+"1565","CESvalid2019.fb2",124,923,"brick","Gooien","gooien",1,1,2
+"1566","CESvalid2019.bf1",33,977,"brick","gooien","gooien",1,1,2
+"1567","CESvalid2019.bf1",37,985,"brick","Gooien","gooien",1,1,2
+"1568","CESvalid2019.bf1",39,988,"brick","Gooien","gooien",1,1,2
+"1569","CESvalid2019.bf1",50,1012,"brick","gooien","gooien",1,1,2
+"1570","CESvalid2019.bf1",107,1149,"brick","Gooien","gooien",1,1,2
+"1571","CESvalid2019.bf1",116,1161,"brick","Gooien","gooien",1,1,2
+"1572","CESvalid2019.fb2",45,675,"brick","mee gooien bij demonstratie","gooien demonstratie",1,1,2
+"1573","CESvalid2019.fb2",20,644,"brick","Graffiti","graffiti",2,0,3
+"1574","CESvalid2019.bb1",18,50,"brick","Grappen","grappen",0,0,3
+"1575","CESvalid2019.bb1",18,51,"brick","Grappig","grappig",0,0,0
+"1576","CESvalid2019.fb2",81,795,"brick","graveren","graveren",2,3,3
+"1577","CESvalid2019.fb2",121,916,"brick","Uitgraveren","graveren",2,3,3
+"1578","CESvalid2019.fb2",69,767,"brick","Grens","grens",2,2,2
+"1579","CESvalid2019.fb2",118,910,"brick","Grijs","grijs",0,0,0
+"1580","CESvalid2019.bf1",73,1053,"brick","grijs","grijs",0,0,0
+"1581","CESvalid2019.bf1",98,1142,"brick","Grijs","grijs",0,0,0
+"1582","CESvalid2019.bb2",22,359,"brick","Grindpad van maken","grindpad",2,1,1
+"1583","CESvalid2019.bf1",96,1122,"brick","Grint","grint",2,1,1
+"1584","CESvalid2019.bb1",110,257,"brick","Grond","grond",1,0,1
+"1585","CESvalid2019.fb2",111,892,"brick","Groot","groot",0,0,0
+"1586","CESvalid2019.bf1",98,1138,"brick","Groot","groot",0,0,0
+"1587","CESvalid2019.bb1",28,87,"brick","grote mensen lego","grote mensen lego",2,3,4
+"1588","CESvalid2019.bb2",28,379,"brick","grote mensen lego","grote mensen lego",2,3,4
+"1589","CESvalid2019.bb2",68,482,"brick","Hakken","hakken",3,1,2
+"1590","CESvalid2019.bf1",123,1201,"brick","hakken","hakken",3,1,2
+"1591","CESvalid2019.bb1",102,232,"brick","Hamer","hamer",3,3,2
+"1592","CESvalid2019.bb2",40,420,"brick","Als hamer gebruiken","hamer",3,3,2
+"1593","CESvalid2019.bb2",102,566,"brick","Hamer","hamer",3,3,2
+"1594","CESvalid2019.fb2",38,672,"brick","als hamer","hamer",3,3,2
+"1595","CESvalid2019.bb1",80,183,"brick","hameren","hameren",3,3,2
+"1596","CESvalid2019.fb2",108,879,"brick","Handig","handig",0,0,0
+"1597","CESvalid2019.bb1",18,37,"brick","Hard","hard",0,0,0
+"1598","CESvalid2019.bb1",110,249,"brick","Hard","hard",0,0,0
+"1599","CESvalid2019.bb2",110,583,"brick","Hard","hard",0,0,0
+"1600","CESvalid2019.fb2",65,753,"brick","Hard","hard",0,0,0
+"1601","CESvalid2019.fb2",111,883,"brick","Hard","hard",0,0,0
+"1602","CESvalid2019.fb2",118,905,"brick","Hard","hard",0,0,0
+"1603","CESvalid2019.bf1",60,1029,"brick","Hard","hard",0,0,0
+"1604","CESvalid2019.bf1",73,1045,"brick","hard","hard",0,0,0
+"1605","CESvalid2019.bf1",94,1102,"brick","Hard","hard",0,0,0
+"1606","CESvalid2019.bf1",112,1158,"brick","hard","hard",0,0,0
+"1607","CESvalid2019.bb1",18,46,"brick","Helm","helm",2,4,4
+"1608","CESvalid2019.bb2",18,330,"brick","Helm","helm",2,4,4
+"1609","CESvalid2019.fb2",59,732,"brick","Helm","helm",2,4,4
+"1610","CESvalid2019.fb2",8,629,"brick","Herdenking","herdenking",0,0,3
+"1611","CESvalid2019.bb1",71,172,"brick","Herrie maken","herrie",2,0,3
+"1612","CESvalid2019.bb1",18,41,"brick","Hersenletsel","hersenletsel",2,0,2
+"1613","CESvalid2019.bb2",18,333,"brick","Hersenletsel","hersenletsel",2,0,2
+"1614","CESvalid2019.fb2",20,641,"brick","Hersens inslaan","hersens inslaan",2,0,2
+"1615","CESvalid2019.bb1",18,39,"brick","Herschenschudding","hersenschudding",2,0,2
+"1616","CESvalid2019.bb2",18,334,"brick","Hersenschudding","hersenschudding",2,0,2
+"1617","CESvalid2019.bb2",31,401,"brick","hijskran","hijskraan",0,0,3
+"1618","CESvalid2019.bb1",110,254,"brick","Hobby","hobby",0,0,3
+"1619","CESvalid2019.bb2",42,427,"brick","Hok","hok",1,1,2
+"1620","CESvalid2019.bf1",119,1178,"brick","hok","hok",1,1,2
+"1621","CESvalid2019.bb1",71,169,"brick","Hondenhok maken","hondenhok",1,1,2
+"1622","CESvalid2019.bf1",94,1110,"brick","Hondenhok","hondenhok",1,1,2
+"1623","CESvalid2019.bb2",18,340,"brick","Hoofd","hoofd",0,0,0
+"1624","CESvalid2019.bb2",18,335,"brick","Hoofdpijn","hoofdpijn",0,0,0
+"1625","CESvalid2019.fb2",20,647,"brick","Hoogte cre<eb>ren","hoogte creëren",2,0,NA
+"1626","CESvalid2019.bb1",102,235,"brick","Houder","houder",2,2,2
+"1627","CESvalid2019.fb2",3,622,"brick","houder om iets rechtop te laten staan","houder rechtop laten staan",3,2,2
+"1628","CESvalid2019.fb2",83,808,"brick","Houtkachel","houtkachel",1,3,2
+"1629","CESvalid2019.bb2",18,342,"brick","Huilen","huilen",0,0,1
+"1630","CESvalid2019.bb1",25,76,"brick","Huis","huis",1,1,1
+"1631","CESvalid2019.bb1",31,90,"brick","Huis","huis",1,1,1
+"1632","CESvalid2019.bb1",36,104,"brick","huis","huis",1,1,1
+"1633","CESvalid2019.bb1",42,119,"brick","Huis","huis",1,1,1
+"1634","CESvalid2019.bb1",85,200,"brick","Huis","huis",1,1,1
+"1635","CESvalid2019.bb1",90,209,"brick","Huis","huis",1,1,1
+"1636","CESvalid2019.bb1",97,228,"brick","Huis","huis",1,1,1
+"1637","CESvalid2019.bb2",36,403,"brick","huis","huis",1,1,1
+"1638","CESvalid2019.bb2",42,423,"brick","Huis","huis",1,1,1
+"1639","CESvalid2019.bb2",85,525,"brick","Huis","huis",1,1,1
+"1640","CESvalid2019.bb2",90,538,"brick","Huis","huis",1,1,1
+"1641","CESvalid2019.bb2",110,584,"brick","Huis","huis",1,1,1
+"1642","CESvalid2019.bb2",128,605,"brick","Huis","huis",1,1,1
+"1643","CESvalid2019.fb2",8,625,"brick","Huis","huis",1,1,1
+"1644","CESvalid2019.fb2",20,637,"brick","Huis","huis",1,1,1
+"1645","CESvalid2019.fb2",29,649,"brick","huis","huis",1,1,1
+"1646","CESvalid2019.fb2",53,719,"brick","huis","huis",1,1,1
+"1647","CESvalid2019.fb2",59,721,"brick","Huis","huis",1,1,1
+"1648","CESvalid2019.fb2",65,743,"brick","Huis","huis",1,1,1
+"1649","CESvalid2019.fb2",83,798,"brick","Huis","huis",1,1,1
+"1650","CESvalid2019.fb2",108,875,"brick","Huis","huis",1,1,1
+"1651","CESvalid2019.fb2",111,881,"brick","Huis","huis",1,1,1
+"1652","CESvalid2019.fb2",118,899,"brick","Huis","huis",1,1,1
+"1653","CESvalid2019.bf1",12,941,"brick","Huis","huis",1,1,1
+"1654","CESvalid2019.bf1",46,999,"brick","Huis","huis",1,1,1
+"1655","CESvalid2019.bf1",48,1006,"brick","Huis","huis",1,1,1
+"1656","CESvalid2019.bf1",60,1026,"brick","Huis","huis",1,1,1
+"1657","CESvalid2019.bf1",73,1042,"brick","huis","huis",1,1,1
+"1658","CESvalid2019.bf1",76,1057,"brick","huis","huis",1,1,1
+"1659","CESvalid2019.bf1",86,1082,"brick","Huis","huis",1,1,1
+"1660","CESvalid2019.bf1",94,1099,"brick","Huis","huis",1,1,1
+"1661","CESvalid2019.bf1",96,1117,"brick","Een huis","huis",1,1,1
+"1662","CESvalid2019.bf1",98,1129,"brick","Huis","huis",1,1,1
+"1663","CESvalid2019.bf1",112,1152,"brick","huis","huis",1,1,1
+"1664","CESvalid2019.bf1",119,1169,"brick","huis","huis",1,1,1
+"1665","CESvalid2019.bf1",122,1188,"brick","Huis","huis",1,1,1
+"1666","CESvalid2019.bb2",28,375,"brick","huis bouw bestanddeel","huis bouw bestanddeel",1,1,1
+"1667","CESvalid2019.bb1",14,32,"brick","huis bouwen","huis bouwen",1,1,1
+"1668","CESvalid2019.bb1",58,148,"brick","Een huis mee bouwen","huis bouwen",1,1,1
+"1669","CESvalid2019.bb1",68,155,"brick","Huis bouwen","huis bouwen",1,1,1
+"1670","CESvalid2019.bb1",75,173,"brick","Huis bouwen","huis bouwen",1,1,1
+"1671","CESvalid2019.bb1",84,197,"brick","Huis bouwen","huis bouwen",1,1,1
+"1672","CESvalid2019.bb1",93,219,"brick","Huis bouwen","huis bouwen",1,1,1
+"1673","CESvalid2019.bb1",103,241,"brick","Huis bouwen","huis bouwen",1,1,1
+"1674","CESvalid2019.bb1",129,270,"brick","Huis bouwen","huis bouwen",1,1,1
+"1675","CESvalid2019.bb2",14,316,"brick","huis bouwen","huis bouwen",1,1,1
+"1676","CESvalid2019.bb2",22,348,"brick","Huis van bouwen","huis bouwen",1,1,1
+"1677","CESvalid2019.bb2",25,371,"brick","Een huis bouwen","huis bouwen",1,1,1
+"1678","CESvalid2019.bb2",58,457,"brick","Huis mee bouwen","huis bouwen",1,1,1
+"1679","CESvalid2019.bb2",75,493,"brick","Huis bouwen","huis bouwen",1,1,1
+"1680","CESvalid2019.bb2",84,515,"brick","Huis bouwen","huis bouwen",1,1,1
+"1681","CESvalid2019.bb2",93,549,"brick","Huis bouwen","huis bouwen",1,1,1
+"1682","CESvalid2019.bb2",103,572,"brick","Huis bouwen","huis bouwen",1,1,1
+"1683","CESvalid2019.bb2",129,611,"brick","Huis bouwen","huis bouwen",1,1,1
+"1684","CESvalid2019.fb2",34,661,"brick","huis bouwen","huis bouwen",1,1,1
+"1685","CESvalid2019.fb2",38,669,"brick","huis bouwen","huis bouwen",1,1,1
+"1686","CESvalid2019.fb2",51,704,"brick","huis bouwen","huis bouwen",1,1,1
+"1687","CESvalid2019.fb2",64,734,"brick","Huis bouwen","huis bouwen",1,1,1
+"1688","CESvalid2019.fb2",132,935,"brick","Huis bouwen","huis bouwen",1,1,1
+"1689","CESvalid2019.bf1",30,968,"brick","huis bouwen","huis bouwen",1,1,1
+"1690","CESvalid2019.bf1",67,1038,"brick","Een huis bouwen","huis bouwen",1,1,1
+"1691","CESvalid2019.bf1",77,1074,"brick","een huis bouwen","huis bouwen",1,1,1
+"1692","CESvalid2019.bf1",91,1092,"brick","Huis bouwen","huis bouwen",1,1,1
+"1693","CESvalid2019.bf1",123,1193,"brick","huis bouwen","huis bouwen",1,1,1
+"1694","CESvalid2019.bb1",28,81,"brick","huisbestanddeel","huisbestanddeel",1,1,1
+"1695","CESvalid2019.bb1",28,86,"brick","huisbouwcel","huisbouwcel",1,1,1
+"1696","CESvalid2019.bb1",120,264,"brick","huisje","huisje",1,1,1
+"1697","CESvalid2019.bb2",120,597,"brick","huisje","huisje",1,1,1
+"1698","CESvalid2019.bb2",36,414,"brick","huisvesting","huisvesting",1,1,1
+"1699","CESvalid2019.bb1",110,253,"brick","Huizen","huizen",1,1,1
+"1700","CESvalid2019.bf1",123,1195,"brick","huizen","huizen",1,1,1
+"1701","CESvalid2019.bb1",44,125,"brick","Huizen bouwen","huizen bouwen",1,1,1
+"1702","CESvalid2019.fb2",95,829,"brick","huizen bouwen","huizen bouwen",1,1,1
+"1703","CESvalid2019.bb1",97,229,"brick","Hut","hut",1,1,1
+"1704","CESvalid2019.bf1",119,1176,"brick","hut","hut",1,1,1
+"1705","CESvalid2019.fb2",95,833,"brick","hutje maken","hutje",1,1,1
+"1706","CESvalid2019.fb2",29,652,"brick","iemands hersens inslaan","iemands hersens inslaan",2,2,2
+"1707","CESvalid2019.bb2",84,519,"brick","Door iemands ruit gooien","iemands ruit gooien",1,2,2
+"1708","CESvalid2019.bb2",58,462,"brick","Ijs mee breken","ijs breken",2,2,2
+"1709","CESvalid2019.bb2",22,355,"brick","Een ijzersterk en van bouwen","ijzersterk bouwen",1,0,1
+"1710","CESvalid2019.fb2",92,816,"brick","inbreken","inbreken",2,2,2
+"1711","CESvalid2019.bf1",76,1067,"brick","industrieel","industrieel",0,0,0
+"1712","CESvalid2019.bb2",61,469,"brick","Inpakken (grapje)","inpakken",2,3,3
+"1713","CESvalid2019.bb1",61,153,"brick","Inpakken als geintje (cadeau)","inpakken geintje",2,3,3
+"1714","CESvalid2019.fb2",106,872,"brick","interieur","interieur",2,1,3
+"1715","CESvalid2019.bf1",122,1189,"brick","Gebruiken als interieur","interieur",2,1,3
+"1716","CESvalid2019.fb2",100,857,"brick","Ist","ist",0,0,0
+"1717","CESvalid2019.fb2",100,838,"brick","Jemoeder","jemoeder",0,0,0
+"1718","CESvalid2019.bb2",90,545,"brick","Yenga","jenga",4,3,3
+"1719","CESvalid2019.bb2",80,508,"brick","Jenga mee spelen","jenga spelen",4,3,3
+"1720","CESvalid2019.bf1",77,1076,"brick","yenga mee spelen","jenga spelen",4,3,3
+"1721","CESvalid2019.fb2",100,840,"brick","Jeoma","jeoma",0,0,0
+"1722","CESvalid2019.fb2",100,854,"brick","Jerk","jerk",0,0,0
+"1723","CESvalid2019.fb2",100,839,"brick","Jevader","jevader",0,0,0
+"1724","CESvalid2019.fb2",100,855,"brick","John","john",0,0,0
+"1725","CESvalid2019.bf1",48,1007,"brick","Kachel","kachel",1,0,2
+"1726","CESvalid2019.fb2",100,850,"brick","Kak","kak",0,0,0
+"1727","CESvalid2019.bb2",7,284,"brick","Kandelaar","kandelaar",3,2,3
+"1728","CESvalid2019.bb2",7,293,"brick","Kandelaar","kandelaar",3,2,3
+"1729","CESvalid2019.bb1",75,176,"brick","Iets kapot maken","kapot",2,1,1
+"1730","CESvalid2019.bb1",80,187,"brick","Kapot maken","kapot",1,1,1
+"1731","CESvalid2019.bb2",75,496,"brick","Iets kapot maken","kapot",1,1,1
+"1732","CESvalid2019.bb2",80,503,"brick","Kapot maken","kapot",1,1,1
+"1733","CESvalid2019.fb2",29,655,"brick","kapot maken","kapot",1,1,1
+"1734","CESvalid2019.fb2",132,933,"brick","Iets kapot mee maken","kapot",1,1,1
+"1735","CESvalid2019.bf1",54,1023,"brick","Kapot maken","kapot",1,1,1
+"1736","CESvalid2019.bf1",107,1151,"brick","Kapot maken","kapot",1,1,1
+"1737","CESvalid2019.bb1",4,3,"brick","Iets kapot slaan","kapot slaan",1,1,1
+"1738","CESvalid2019.bb2",4,280,"brick","Iets kapot slaan","kapot slaan",1,1,1
+"1739","CESvalid2019.fb2",106,868,"brick","iets kapot slaan","kapot slaan",1,1,1
+"1740","CESvalid2019.fb2",92,818,"brick","kapotmaken","kapotmaken",1,1,1
+"1741","CESvalid2019.bf1",96,1125,"brick","Kapotte ramen","kapotte ramen",1,1,1
+"1742","CESvalid2019.bb1",11,26,"brick","Kast mee maken","kast",3,1,2
+"1743","CESvalid2019.bb2",10,302,"brick","kast mee bouwen","kast bouwen",3,1,2
+"1744","CESvalid2019.bb2",11,311,"brick","Kast bouwen","kast bouwen",3,1,2
+"1745","CESvalid2019.bf1",12,946,"brick","Kasteel","kasteel",1,1,2
+"1746","CESvalid2019.fb2",121,912,"brick","Kasteel bouwen","kasteel bouwen",1,1,2
+"1747","CESvalid2019.fb2",3,617,"brick","kegel","kegel",3,0,3
+"1748","CESvalid2019.fb2",64,740,"brick","Kegelen","kegelen",3,2,3
+"1749","CESvalid2019.bf1",60,1032,"brick","Kei","kei",1,1,2
+"1750","CESvalid2019.bb2",10,304,"brick","als kerstboomhouder","kerstboomhouder",4,2,3
+"1751","CESvalid2019.bf1",16,958,"brick","keukenbar","keukenbar",2,1,3
+"1752","CESvalid2019.bb1",22,65,"brick","Kinderkopjes","kinderkopjes",1,3,2
+"1753","CESvalid2019.fb2",100,864,"brick","Kkr","kkr",0,0,0
+"1754","CESvalid2019.bb1",36,110,"brick","klei","klei",1,0,2
+"1755","CESvalid2019.bb2",110,580,"brick","Klei","klei",1,0,2
+"1756","CESvalid2019.bf1",73,1047,"brick","klei","klei",1,0,2
+"1757","CESvalid2019.bf1",122,1187,"brick","Kleien","kleien",1,0,2
+"1758","CESvalid2019.bf1",98,1137,"brick","Klein","klein",0,0,2
+"1759","CESvalid2019.bb2",102,571,"brick","Klem","klem",2,2,2
+"1760","CESvalid2019.bf1",116,1167,"brick","Klemmen","klemmen",2,2,2
+"1761","CESvalid2019.bb2",7,289,"brick","Kleurblad","kleurblad",3,3,3
+"1762","CESvalid2019.fb2",69,763,"brick","Kleuren","kleuren",2,3,3
+"1763","CESvalid2019.fb2",15,632,"brick","op klimmen","klimmen",2,2,3
+"1764","CESvalid2019.bb1",18,48,"brick","Kloppen","kloppen",2,2,2
+"1765","CESvalid2019.fb2",108,878,"brick","Klussen","klussen",2,2,2
+"1766","CESvalid2019.bf1",119,1175,"brick","klussen","klussen",2,2,2
+"1767","CESvalid2019.bf1",119,1181,"brick","knutselen","knutselen",2,2,3
+"1768","CESvalid2019.bf1",122,1185,"brick","Knutselen","knutselen",2,2,3
+"1769","CESvalid2019.bb2",120,598,"brick","knutselgerief","knutselgerief",2,2,3
+"1770","CESvalid2019.bb1",110,255,"brick","Knutselopdracht","knutselopdracht",2,2,3
+"1771","CESvalid2019.fb2",92,823,"brick","koken","koken",3,3,3
+"1772","CESvalid2019.bf1",39,993,"brick","Krachttraining","krachttraining",3,3,2
+"1773","CESvalid2019.bb1",18,47,"brick","Krijt","krijt",2,3,3
+"1774","CESvalid2019.bb1",102,234,"brick","Krijt","krijt",2,3,3
+"1775","CESvalid2019.bb2",129,612,"brick","Gebruiken als krijt","krijt",2,3,3
+"1776","CESvalid2019.fb2",3,616,"brick","krijt","krijt",2,3,3
+"1777","CESvalid2019.bb1",58,137,"brick","Krijten","krijten",2,3,3
+"1778","CESvalid2019.fb2",92,819,"brick","krijten","krijten",2,3,3
+"1779","CESvalid2019.fb2",106,869,"brick","kruimelen","kruimelen",1,1,1
+"1780","CESvalid2019.bb1",93,221,"brick","Kruk om te zitten","kruk zitten",2,1,2
+"1781","CESvalid2019.bb1",42,122,"brick","Kunst","kunst",2,3,3
+"1782","CESvalid2019.bb1",55,131,"brick","Kunst","kunst",2,3,3
+"1783","CESvalid2019.bb1",129,272,"brick","Kunst maken","kunst",2,3,3
+"1784","CESvalid2019.bb2",42,426,"brick","Kunst","kunst",2,3,3
+"1785","CESvalid2019.bb2",129,613,"brick","Kunst maken","kunst",2,3,3
+"1786","CESvalid2019.fb2",65,746,"brick","kunst","kunst",2,3,3
+"1787","CESvalid2019.fb2",83,801,"brick","Kunst","kunst",2,3,3
+"1788","CESvalid2019.fb2",92,813,"brick","kunst","kunst",2,3,3
+"1789","CESvalid2019.fb2",115,896,"brick","Kunst maken","kunst",2,3,3
+"1790","CESvalid2019.bf1",24,963,"brick","als kunst","kunst",2,3,3
+"1791","CESvalid2019.bf1",116,1164,"brick","Kunst maken","kunst",2,3,3
+"1792","CESvalid2019.fb2",15,633,"brick","kunst object","kunst object",2,3,3
+"1793","CESvalid2019.bb2",23,366,"brick","Als kunstopject","kunstobject",2,3,3
+"1794","CESvalid2019.bb2",103,576,"brick","Kunstproject","kunstproject",2,3,3
+"1795","CESvalid2019.bb1",80,186,"brick","Kunstvoorwerp","kunstvoorwerp",2,3,3
+"1796","CESvalid2019.bb1",10,21,"brick","als kunstwerk","kunstwerk",2,3,3
+"1797","CESvalid2019.bb1",71,166,"brick","Kunstwerk","kunstwerk",2,3,3
+"1798","CESvalid2019.bb1",90,214,"brick","Kunstwerk","kunstwerk",2,3,3
+"1799","CESvalid2019.bb2",71,488,"brick","Kunstwerk","kunstwerk",2,3,3
+"1800","CESvalid2019.bb2",90,541,"brick","Kunstwerk","kunstwerk",2,3,3
+"1801","CESvalid2019.bf1",112,1153,"brick","kunstwerk","kunstwerk",2,3,3
+"1802","CESvalid2019.bf1",24,967,"brick","lamp","lamp",1,4,3
+"1803","CESvalid2019.fb2",15,636,"brick","lampen voet","lampen voet",3,4,3
+"1804","CESvalid2019.bb1",80,190,"brick","Laten zinken","laten zinken",2,1,1
+"1805","CESvalid2019.bf1",91,1093,"brick","Iets te laten zinken","laten zinken",2,1,1
+"1806","CESvalid2019.bf1",98,1141,"brick","Lava","lava",1,0,3
+"1807","CESvalid2019.bf1",123,1194,"brick","lego","lego",2,3,3
+"1808","CESvalid2019.bf1",96,1119,"brick","Een Lego toren","lego toren",2,3,3
+"1809","CESvalid2019.bb1",36,107,"brick","legoblokken","legoblokken",2,3,3
+"1810","CESvalid2019.bb2",36,410,"brick","legoblokken","legoblokken",2,3,3
+"1811","CESvalid2019.fb2",121,913,"brick","Letters bouwen","letters bouwen",2,4,3
+"1812","CESvalid2019.bb2",10,299,"brick","op liggen","liggen",2,1,1
+"1813","CESvalid2019.fb2",124,924,"brick","Liggen","liggen",2,1,1
+"1814","CESvalid2019.bf1",54,1017,"brick","Lijm","lijm",1,0,3
+"1815","CESvalid2019.bf1",122,1190,"brick","Loft","loft",1,0,2
+"1816","CESvalid2019.fb2",132,929,"brick","Op lopen","lopen",1,1,2
+"1817","CESvalid2019.fb2",100,843,"brick","Lotto","lotto",0,1,3
+"1818","CESvalid2019.fb2",100,852,"brick","Lul","lul",0,0,0
+"1819","CESvalid2019.fb2",100,847,"brick","Madre","madre",0,0,0
+"1820","CESvalid2019.bb1",71,168,"brick","Meel maken","meel",1,3,3
+"1821","CESvalid2019.bb2",71,487,"brick","Meel maken","meel",1,3,3
+"1822","CESvalid2019.bb1",18,52,"brick","Mensen","mensen",0,0,0
+"1823","CESvalid2019.bb2",68,478,"brick","Gebruiken als mes","mes",3,3,3
+"1824","CESvalid2019.bf1",33,983,"brick","mes slijpen","mes slijpen",4,3,3
+"1825","CESvalid2019.bb2",18,345,"brick","Meten","meten",3,4,3
+"1826","CESvalid2019.bb1",18,56,"brick","Metsel","metsel",1,0,1
+"1827","CESvalid2019.bb2",18,344,"brick","Metsel","metsel",1,0,1
+"1828","CESvalid2019.fb2",59,730,"brick","Mestel","metsel",1,0,1
+"1829","CESvalid2019.bb1",31,98,"brick","Metselen","metselen",1,0,1
+"1830","CESvalid2019.bb1",36,102,"brick","metselen","metselen",1,0,1
+"1831","CESvalid2019.bb2",31,399,"brick","metselen","metselen",1,0,1
+"1832","CESvalid2019.bb2",36,402,"brick","metselen","metselen",1,0,1
+"1833","CESvalid2019.bb2",42,431,"brick","Metselen","metselen",1,0,1
+"1834","CESvalid2019.fb2",38,670,"brick","metselen","metselen",1,0,1
+"1835","CESvalid2019.fb2",49,692,"brick","metselen","metselen",1,0,1
+"1836","CESvalid2019.fb2",81,788,"brick","metselen","metselen",1,0,1
+"1837","CESvalid2019.bf1",33,980,"brick","metselen","metselen",1,0,1
+"1838","CESvalid2019.bf1",39,990,"brick","Metselen","metselen",1,0,1
+"1839","CESvalid2019.bf1",116,1160,"brick","Metselen","metselen",1,0,1
+"1840","CESvalid2019.bf1",122,1191,"brick","Metselen","metselen",1,0,1
+"1841","CESvalid2019.bb1",23,75,"brick","Als meubel","meubel",2,1,3
+"1842","CESvalid2019.bb2",110,586,"brick","Meubels","meubels",2,1,3
+"1843","CESvalid2019.bb2",36,408,"brick","meubilair","meubilair",2,1,3
+"1844","CESvalid2019.bb1",68,159,"brick","Door midden slijpen","midden slijpen",1,3,3
+"1845","CESvalid2019.fb2",100,848,"brick","Mierda","mierda",0,0,0
+"1846","CESvalid2019.bb2",28,378,"brick","mineralen steen","mineralen steen",1,3,3
+"1847","CESvalid2019.bb1",28,85,"brick","mineralen toevoeging","mineralen toevoeging",1,3,3
+"1848","CESvalid2019.bb2",58,453,"brick","Mini stad mee bouwen","mini stad bouwen",2,4,2
+"1849","CESvalid2019.fb2",78,780,"brick","mishandelen","mishandelen",2,2,2
+"1850","CESvalid2019.bb2",18,323,"brick","Moe","moe",0,0,0
+"1851","CESvalid2019.fb2",100,865,"brick","Moeder","moeder",0,0,0
+"1852","CESvalid2019.bb2",97,562,"brick","Mogelijkheden","mogelijkheden",0,0,0
+"1853","CESvalid2019.fb2",111,887,"brick","Monteren","monteren",1,1,1
+"1854","CESvalid2019.bb1",128,267,"brick","Monument","monument",1,4,2
+"1855","CESvalid2019.bf1",123,1197,"brick","monument","monument",1,4,2
+"1856","CESvalid2019.fb2",92,814,"brick","moord","moord",2,2,2
+"1857","CESvalid2019.fb2",59,723,"brick","Moordwapen","moordwapen",2,2,2
+"1858","CESvalid2019.fb2",65,750,"brick","Mos","mos",0,0,0
+"1859","CESvalid2019.bb1",110,256,"brick","Moza<ef>ek","mozaïek",4,4,NA
+"1860","CESvalid2019.bb2",110,589,"brick","Moza<ef>ek","mozaïek",4,4,NA
+"1861","CESvalid2019.bf1",112,1156,"brick","mud race","mud race",1,4,3
+"1862","CESvalid2019.bb1",44,123,"brick","Muren","muren",1,1,1
+"1863","CESvalid2019.bb2",44,438,"brick","Muren","muren",1,1,1
+"1864","CESvalid2019.fb2",95,832,"brick","muren maken","muren",1,1,1
+"1865","CESvalid2019.bb1",22,60,"brick","Muur","muur",1,1,1
+"1866","CESvalid2019.bb1",25,78,"brick","Muur","muur",1,1,1
+"1867","CESvalid2019.bb1",31,91,"brick","Muur","muur",1,1,1
+"1868","CESvalid2019.bb1",36,101,"brick","muur","muur",1,1,1
+"1869","CESvalid2019.bb1",42,120,"brick","Muur","muur",1,1,1
+"1870","CESvalid2019.bb1",97,231,"brick","Muur","muur",1,1,1
+"1871","CESvalid2019.bb1",128,269,"brick","Muur","muur",1,1,1
+"1872","CESvalid2019.bb2",23,363,"brick","Als muur","muur",1,1,1
+"1873","CESvalid2019.bb2",31,388,"brick","Muur","muur",1,1,1
+"1874","CESvalid2019.bb2",36,404,"brick","muur","muur",1,1,1
+"1875","CESvalid2019.bb2",42,424,"brick","Muur","muur",1,1,1
+"1876","CESvalid2019.fb2",20,639,"brick","Muur","muur",1,1,1
+"1877","CESvalid2019.fb2",29,650,"brick","muur","muur",1,1,1
+"1878","CESvalid2019.fb2",53,718,"brick","muur","muur",1,1,1
+"1879","CESvalid2019.fb2",69,759,"brick","Muur","muur",1,1,1
+"1880","CESvalid2019.fb2",78,781,"brick","muur","muur",1,1,1
+"1881","CESvalid2019.fb2",106,867,"brick","muur","muur",1,1,1
+"1882","CESvalid2019.bf1",12,942,"brick","Muur","muur",1,1,1
+"1883","CESvalid2019.bf1",48,1005,"brick","Muur","muur",1,1,1
+"1884","CESvalid2019.bf1",73,1043,"brick","muur","muur",1,1,1
+"1885","CESvalid2019.bf1",86,1079,"brick","Muur","muur",1,1,1
+"1886","CESvalid2019.bf1",94,1108,"brick","Muur","muur",1,1,1
+"1887","CESvalid2019.bf1",119,1177,"brick","muur","muur",1,1,1
+"1888","CESvalid2019.bb1",11,23,"brick","Muur bouwen","muur bouwen",1,1,1
+"1889","CESvalid2019.bb2",11,310,"brick","Muur bouwen","muur bouwen",1,1,1
+"1890","CESvalid2019.fb2",34,662,"brick","muur bouwen","muur bouwen",1,1,1
+"1891","CESvalid2019.fb2",121,911,"brick","Muur Bouwen","muur bouwen",1,1,1
+"1892","CESvalid2019.bf1",131,1204,"brick","Muur bouwen","muur bouwen",1,1,1
+"1893","CESvalid2019.bb1",23,70,"brick","Muur voor een huis","muur huis",1,1,1
+"1894","CESvalid2019.fb2",8,627,"brick","Muurtje","muurtje",1,1,1
+"1895","CESvalid2019.bb1",14,31,"brick","muurtje bouwen","muurtje bouwen",1,1,1
+"1896","CESvalid2019.bb2",14,317,"brick","muurtje bouwen","muurtje bouwen",1,1,1
+"1897","CESvalid2019.bf1",16,957,"brick","muurtje bouwen","muurtje bouwen",1,1,1
+"1898","CESvalid2019.bb1",129,273,"brick","Muziek maken","muziek",2,3,3
+"1899","CESvalid2019.bb2",129,614,"brick","Muziek maken","muziek",2,3,3
+"1900","CESvalid2019.fb2",74,774,"brick","Muziek maken","muziek",2,3,3
+"1901","CESvalid2019.fb2",92,822,"brick","muziek maken","muziek",2,3,3
+"1902","CESvalid2019.bf1",24,961,"brick","nachtkastje","nachtkastje",2,2,3
+"1903","CESvalid2019.bb1",31,89,"brick","Neerleggen","neerleggen",1,1,1
+"1904","CESvalid2019.bb2",31,390,"brick","Neerleggen","neerleggen",1,1,1
+"1905","CESvalid2019.fb2",3,623,"brick","netje voor tafeltennis","netje tafeltennis",5,4,4
+"1906","CESvalid2019.bb2",18,336,"brick","Neuronen","neuronen",0,0,0
+"1907","CESvalid2019.bb1",31,100,"brick","Niet brandbaar","niet brandbaar",0,0,0
+"1908","CESvalid2019.bf1",60,1030,"brick","Niet breekbaar","niet breekbaar",0,0,0
+"1909","CESvalid2019.bb2",18,327,"brick","Nieuwboos","nieuwboos",0,0,0
+"1910","CESvalid2019.bf1",123,1200,"brick","nieuwe creatie maken","nieuwe creatie",1,2,3
+"1911","CESvalid2019.bb1",71,165,"brick","Noten kraken","noten kraken",3,3,3
+"1912","CESvalid2019.bf1",30,973,"brick","noten kraken","noten kraken",3,3,3
+"1913","CESvalid2019.bb1",93,222,"brick","Notenkraker","notenkraker",3,3,3
+"1914","CESvalid2019.bb2",93,552,"brick","Notenkraker","notenkraker",3,3,3
+"1915","CESvalid2019.fb2",3,624,"brick","een obstakel voor knikkerbaan of iets anders","obstakel knikkerbaan anders",3,3,3
+"1916","CESvalid2019.bf1",98,1130,"brick","Omgeving","omgeving",0,0,0
+"1917","CESvalid2019.bb2",36,413,"brick","onderdak","onderdak",1,1,0
+"1918","CESvalid2019.bf1",116,1165,"brick","Ondersteunen","ondersteunen",2,2,2
+"1919","CESvalid2019.bb1",68,162,"brick","Gebruiken als ondersteuning","ondersteuning",2,2,2
+"1920","CESvalid2019.bb2",11,312,"brick","Ondersteuning band vervangen","ondersteuning band vervangen",3,2,3
+"1921","CESvalid2019.bb1",11,24,"brick","Ondersteuning van tafels","ondersteuning tafels",3,2,2
+"1922","CESvalid2019.bb1",7,9,"brick","Onderstuk/pilaar","onderstuk pilaar",2,2,2
+"1923","CESvalid2019.bb1",102,240,"brick","Onderzetter","onderzetter",3,2,2
+"1924","CESvalid2019.bb2",23,367,"brick","Als onderzetter","onderzetter",3,2,2
+"1925","CESvalid2019.bb2",102,564,"brick","Onderzetter","onderzetter",3,2,2
+"1926","CESvalid2019.fb2",3,618,"brick","onderzetter","onderzetter",3,2,2
+"1927","CESvalid2019.fb2",29,659,"brick","gebruiken als onderzetter","onderzetter",3,2,2
+"1928","CESvalid2019.fb2",106,870,"brick","onderzetter","onderzetter",3,2,2
+"1929","CESvalid2019.bf1",46,1000,"brick","Onderzetter","onderzetter",3,2,2
+"1930","CESvalid2019.bf1",43,996,"brick","Onderzoek doen naar omzetting van zwaarte energie naar kinetische energie","onderzoek omzetting zwaarte energie kinetische energie",4,5,4
+"1931","CESvalid2019.bb2",36,412,"brick","ontwerpen","ontwerpen",1,2,3
+"1932","CESvalid2019.bf1",119,1173,"brick","ontwikkelen","ontwikkelen",1,2,2
+"1933","CESvalid2019.bb2",44,446,"brick","Open haard","open haard",1,2,2
+"1934","CESvalid2019.fb2",83,807,"brick","Openhaart","open haard",1,2,2
+"1935","CESvalid2019.bf1",43,997,"brick","Gebruiken voor het openhouden van een deur","openhouden deur",2,2,2
+"1936","CESvalid2019.fb2",81,794,"brick","ophangen","ophangen",2,2,2
+"1937","CESvalid2019.bb1",84,199,"brick","Opstapelen","opstapelen",1,1,1
+"1938","CESvalid2019.bb2",61,468,"brick","Opstapelen","opstapelen",1,1,1
+"1939","CESvalid2019.bb2",75,498,"brick","Opstapelen","opstapelen",1,1,1
+"1940","CESvalid2019.bb2",85,533,"brick","Opstapelen","opstapelen",1,1,1
+"1941","CESvalid2019.fb2",51,708,"brick","opstapelen","opstapelen",1,1,1
+"1942","CESvalid2019.bf1",99,1146,"brick","Opstapelen","opstapelen",1,1,1
+"1943","CESvalid2019.bf1",123,1202,"brick","opstapelen","opstapelen",1,1,1
+"1944","CESvalid2019.bf1",131,1206,"brick","Opstapelen","opstapelen",1,1,1
+"1945","CESvalid2019.bb1",58,141,"brick","Opstapelen tot een barbecue houder","opstapelen barbecue houder",2,2,2
+"1946","CESvalid2019.bb1",11,27,"brick","Opstapelen tot stoel","opstapelen stoel",3,2,2
+"1947","CESvalid2019.bb1",58,142,"brick","Opstapelen tot een stoel","opstapelen stoel",3,2,2
+"1948","CESvalid2019.bb1",58,140,"brick","Opstapelen tot een tafeltje","opstapelen tafeltje",3,2,2
+"1949","CESvalid2019.bb1",7,12,"brick","Opstapje","opstapje",2,2,2
+"1950","CESvalid2019.bb1",10,16,"brick","als opstapje","opstapje",2,2,2
+"1951","CESvalid2019.bb1",23,72,"brick","Als opstapje","opstapje",2,2,2
+"1952","CESvalid2019.bb2",7,285,"brick","Opstapje","opstapje",2,2,2
+"1953","CESvalid2019.bb2",10,306,"brick","opstapje","opstapje",2,2,2
+"1954","CESvalid2019.bb2",23,365,"brick","Als opstapje","opstapje",2,2,2
+"1955","CESvalid2019.fb2",47,684,"brick","Opstapje","opstapje",2,2,2
+"1956","CESvalid2019.fb2",64,738,"brick","Opstapje","opstapje",2,2,2
+"1957","CESvalid2019.fb2",115,898,"brick","Opstapje","opstapje",2,2,2
+"1958","CESvalid2019.bf1",63,1034,"brick","Opstapje","opstapje",2,2,2
+"1959","CESvalid2019.fb2",51,713,"brick","iets opzetten","opzetten",1,2,2
+"1960","CESvalid2019.bf1",76,1063,"brick","oude bakstenen muur in huis","oude bakstenen muur huis",1,1,2
+"1961","CESvalid2019.bb1",31,95,"brick","In oude gebouwen als muur","oude gebouwen muur",1,1,2
+"1962","CESvalid2019.bb1",31,96,"brick","Ouderwets","ouderwets",0,0,0
+"1963","CESvalid2019.bb2",31,392,"brick","Ouderwetse muren in opvanghuizen","ouderwetse muren opvanghuizen",1,1,2
+"1964","CESvalid2019.bb1",36,109,"brick","oven","oven",3,2,2
+"1965","CESvalid2019.bb2",44,447,"brick","Oven","oven",3,2,2
+"1966","CESvalid2019.bb2",128,606,"brick","Oven","oven",3,2,2
+"1967","CESvalid2019.bb1",10,19,"brick","mee overgooien","overgooien",2,3,2
+"1968","CESvalid2019.bb1",80,191,"brick","Overgooien","overgooien",2,3,2
+"1969","CESvalid2019.bb2",80,511,"brick","Overgooien","overgooien",2,3,2
+"1970","CESvalid2019.fb2",29,657,"brick","overgooien","overgooien",2,3,2
+"1971","CESvalid2019.bf1",46,1003,"brick","Paaltje","paaltje",2,1,2
+"1972","CESvalid2019.bb1",22,64,"brick","Pad","pad",1,1,1
+"1973","CESvalid2019.fb2",78,785,"brick","pad","pad",1,1,1
+"1974","CESvalid2019.bb2",120,601,"brick","pasta-hoeveelheidsmeter","pasta hoeveelheidsmeter",3,2,3
+"1975","CESvalid2019.fb2",121,915,"brick","Patronen Bouwen","patronen bouwen",2,3,3
+"1976","CESvalid2019.bb2",120,596,"brick","pennenhouder","pennenhouder",3,3,3
+"1977","CESvalid2019.bb1",120,263,"brick","pennenpot","pennenpot",3,3,3
+"1978","CESvalid2019.fb2",100,851,"brick","Piemol","piemol",0,0,0
+"1979","CESvalid2019.fb2",100,856,"brick","Piet","piet",0,0,0
+"1980","CESvalid2019.bb2",18,343,"brick","Pijn","pijn",0,0,0
+"1981","CESvalid2019.fb2",65,752,"brick","Pijn","pijn",0,0,0
+"1982","CESvalid2019.bb2",7,291,"brick","Pilaar","pilaar",1,1,2
+"1983","CESvalid2019.bb1",90,215,"brick","Pyramide","piramide",1,1,2
+"1984","CESvalid2019.bb2",90,539,"brick","Pyramide","piramide",1,1,2
+"1985","CESvalid2019.bb1",58,146,"brick","Een piramide van bouwen","piramide bouwen",1,1,2
+"1986","CESvalid2019.bb2",22,350,"brick","Een pizza oven","pizza oven",3,2,2
+"1987","CESvalid2019.fb2",8,626,"brick","Pizza oven","pizza oven",3,2,2
+"1988","CESvalid2019.bb1",40,117,"brick","Iets op zijn plaats te houden, dmv zijn gewicht","plaats houden gewicht",2,2,NA
+"1989","CESvalid2019.bb2",85,528,"brick","Plaatsen","plaatsen",1,1,1
+"1990","CESvalid2019.bb1",75,175,"brick","Plantenbak maken","plantenbak",3,3,2
+"1991","CESvalid2019.bb2",75,494,"brick","Plantenbak maken","plantenbak",3,3,2
+"1992","CESvalid2019.bf1",48,1010,"brick","Plantenbak","plantenbak",3,3,2
+"1993","CESvalid2019.bf1",63,1033,"brick","Plantenbak","plantenbak",3,3,2
+"1994","CESvalid2019.bb1",11,28,"brick","Iets plat mee drukken","plat drukken",2,2,2
+"1995","CESvalid2019.fb2",49,700,"brick","plat slaan","plat slaan",2,2,2
+"1996","CESvalid2019.bf1",89,1090,"brick","gebruiken als plaveisel of vloering","plaveisel bevloering",1,1,2
+"1997","CESvalid2019.bf1",39,994,"brick","Plek afdekken","plek afdekken",2,2,2
+"1998","CESvalid2019.bb2",40,417,"brick","Iets op zijn plek te houden","plek houden",2,2,2
+"1999","CESvalid2019.fb2",106,874,"brick","iets pletten","pletten",2,2,2
+"2000","CESvalid2019.bf1",12,951,"brick","Podium","podium",2,1,2
+"2001","CESvalid2019.bb1",22,63,"brick","Politie","politie",0,0,0
+"2002","CESvalid2019.bb2",68,484,"brick","Prakken","prakken",2,3,2
+"2003","CESvalid2019.bf1",54,1025,"brick","Presenteren","presenteren",1,3,3
+"2004","CESvalid2019.fb2",34,667,"brick","presse papier","presse papier",3,2,2
+"2005","CESvalid2019.fb2",47,687,"brick","Press papier","presse papier",3,2,2
+"2006","CESvalid2019.bb2",68,474,"brick","Prikken","prikken",1,2,2
+"2007","CESvalid2019.bb1",58,144,"brick","Prullenbak","prullenbak",1,2,3
+"2008","CESvalid2019.fb2",100,849,"brick","Puf","puf",0,0,0
+"2009","CESvalid2019.bb1",93,224,"brick","Punt slijpen op hout","punt slijpen hout",4,3,3
+"2010","CESvalid2019.bb2",128,607,"brick","Put","put",1,2,2
+"2011","CESvalid2019.bf1",12,944,"brick","Put","put",1,2,2
+"2012","CESvalid2019.bf1",94,1109,"brick","Put","put",1,2,2
+"2013","CESvalid2019.bb1",68,163,"brick","Put bouwen","put bouwen",1,2,2
+"2014","CESvalid2019.bb2",22,354,"brick","Een put van bouwen","put bouwen",1,2,2
+"2015","CESvalid2019.fb2",83,805,"brick","Raam","raam",0,1,2
+"2016","CESvalid2019.fb2",118,900,"brick","Raam","raam",0,1,2
+"2017","CESvalid2019.bf1",91,1098,"brick","Je kan er een raam mee in","raam",1,1,2
+"2018","CESvalid2019.bb1",58,134,"brick","Door een raam gooien","raam gooien",1,1,1
+"2019","CESvalid2019.bb2",58,451,"brick","Door een raam gooien","raam gooien",1,1,1
+"2020","CESvalid2019.fb2",51,706,"brick","door het raam gooien","raam gooien",1,1,1
+"2021","CESvalid2019.fb2",64,735,"brick","Raam doorgooien","raam gooien",1,1,1
+"2022","CESvalid2019.fb2",47,682,"brick","Raam ingooien","raam ingooien",1,1,1
+"2023","CESvalid2019.fb2",20,638,"brick","Raam inslaan","raam inslaan",1,1,1
+"2024","CESvalid2019.bf1",112,1154,"brick","raam inslaan","raam inslaan",1,1,1
+"2025","CESvalid2019.bb1",10,17,"brick","raam intikken","raam intikken",1,1,1
+"2026","CESvalid2019.bb2",84,521,"brick","Rand van tuin aanleggen","rand tuin aanleggen",2,1,2
+"2027","CESvalid2019.fb2",65,751,"brick","Random","random",0,0,0
+"2028","CESvalid2019.bb1",110,247,"brick","Rechthoek","rechthoek",0,0,3
+"2029","CESvalid2019.fb2",65,755,"brick","Rechthoek","rechthoek",0,0,3
+"2030","CESvalid2019.bf1",12,949,"brick","Regenboog","regenboog",0,0,3
+"2031","CESvalid2019.bb1",36,113,"brick","rivier (klei","rivier klei",0,0,3
+"2032","CESvalid2019.bb1",129,274,"brick","Het gebruiken als rode krijt","rode krijt",2,0,3
+"2033","CESvalid2019.bb1",36,111,"brick","rood","rood",0,0,0
+"2034","CESvalid2019.fb2",78,787,"brick","rood","rood",0,0,0
+"2035","CESvalid2019.fb2",118,909,"brick","Rood","rood",0,0,0
+"2036","CESvalid2019.bf1",73,1054,"brick","rood","rood",0,0,0
+"2037","CESvalid2019.bf1",98,1139,"brick","Rood","rood",0,0,0
+"2038","CESvalid2019.fb2",65,749,"brick","Rood/oranje","rood oranje",0,0,0
+"2039","CESvalid2019.bb2",22,352,"brick","Rood poster van maken","rood poster",3,0,3
+"2040","CESvalid2019.bf1",96,1124,"brick","Rotzooi","rotzooi",0,0,1
+"2041","CESvalid2019.fb2",100,858,"brick","Rst","rst",0,0,0
+"2042","CESvalid2019.bf1",30,969,"brick","ruit in gooien","ruit gooien",1,1,1
+"2043","CESvalid2019.bb1",84,198,"brick","Door ruit heen gooien","ruit heen gooien",1,1,1
+"2044","CESvalid2019.bb1",93,220,"brick","Ruit ingooien","ruit ingooien",1,1,1
+"2045","CESvalid2019.bb1",103,243,"brick","Ruit ingooien","ruit ingooien",1,1,1
+"2046","CESvalid2019.bb2",93,555,"brick","Ruit ingooien","ruit ingooien",1,1,1
+"2047","CESvalid2019.bb2",103,574,"brick","Ruit ingooien","ruit ingooien",1,1,1
+"2048","CESvalid2019.fb2",29,656,"brick","ruit ingooien","ruit ingooien",1,1,1
+"2049","CESvalid2019.fb2",132,928,"brick","Ruit inslaan","ruit inslaan",1,1,1
+"2050","CESvalid2019.bf1",73,1051,"brick","ruw","ruw",0,0,0
+"2051","CESvalid2019.bb1",93,227,"brick","Ruzie maken en iemand verwonden","ruzie verwonden",2,2,2
+"2052","CESvalid2019.bb2",68,485,"brick","S","s",0,0,0
+"2053","CESvalid2019.bb2",18,341,"brick","Schaafwond","schaafwond",0,0,0
+"2054","CESvalid2019.bf1",73,1056,"brick","schaafwond","schaafwond",0,0,0
+"2055","CESvalid2019.bb1",31,93,"brick","Scheiding","scheiding",2,0,2
+"2056","CESvalid2019.bf1",119,1182,"brick","scheiding","scheiding",2,2,2
+"2057","CESvalid2019.bb2",31,394,"brick","scheiding tussen twee huizen","scheiding tussen huizen",2,2,2
+"2058","CESvalid2019.bb2",103,575,"brick","In scherven breken om te overleven","scherven breken overleven",2,3,3
+"2059","CESvalid2019.bb1",22,59,"brick","Schilderen","schilderen",2,3,3
+"2060","CESvalid2019.bb1",58,135,"brick","Schilderen","schilderen",2,3,3
+"2061","CESvalid2019.bb1",80,182,"brick","Op schilderen","schilderen",2,3,3
+"2062","CESvalid2019.bb1",84,194,"brick","Op schilderen","schilderen",2,3,3
+"2063","CESvalid2019.bb1",85,204,"brick","Schilderen","schilderen",2,3,3
+"2064","CESvalid2019.bb2",84,517,"brick","Schilderen","schilderen",2,3,3
+"2065","CESvalid2019.bb2",85,535,"brick","Schilderen","schilderen",2,3,3
+"2066","CESvalid2019.fb2",83,810,"brick","Schilderen","schilderen",2,3,3
+"2067","CESvalid2019.fb2",92,820,"brick","schilderen","schilderen",2,3,3
+"2068","CESvalid2019.bf1",86,1085,"brick","Schilderij op maken","schilderij",2,3,3
+"2069","CESvalid2019.bb2",28,382,"brick","schoenen","schoenen",3,4,4
+"2070","CESvalid2019.bb2",10,307,"brick","schoenenrek","schoenenrek",3,2,3
+"2071","CESvalid2019.bb1",22,67,"brick","Schoorsteen","schoorsteen",1,1,2
+"2072","CESvalid2019.bb2",80,513,"brick","Schrijven","schrijven",2,4,3
+"2073","CESvalid2019.fb2",74,773,"brick","Schrijven","schrijven",2,4,3
+"2074","CESvalid2019.bf1",33,979,"brick","schuren","schuren",3,3,3
+"2075","CESvalid2019.bb1",31,94,"brick","Schutting","schutting",1,1,2
+"2076","CESvalid2019.bb2",31,395,"brick","schutting","schutting",1,1,2
+"2077","CESvalid2019.bb2",42,428,"brick","Schuur","schuur",1,1,2
+"2078","CESvalid2019.bf1",112,1155,"brick","schuur","schuur",1,1,2
+"2079","CESvalid2019.bf1",89,1089,"brick","Gebruiken als schuurobject","schuurobject",3,2,3
+"2080","CESvalid2019.bf1",76,1066,"brick","sfeervol","sfeervol",0,0,0
+"2081","CESvalid2019.bb2",44,445,"brick","Siervoorwerpen maken","siervoorwerpen",2,4,3
+"2082","CESvalid2019.fb2",45,679,"brick","sinterklaassurprise","sinterklaas surprise",2,3,3
+"2083","CESvalid2019.fb2",100,842,"brick","Sjans","sjans",0,0,0
+"2084","CESvalid2019.fb2",124,918,"brick","Slaan","slaan",1,2,2
+"2085","CESvalid2019.bf1",50,1014,"brick","slaan","slaan",1,2,2
+"2086","CESvalid2019.bf1",116,1162,"brick","Slaan","slaan",1,2,2
+"2087","CESvalid2019.fb2",74,770,"brick","Slijpen","slijpen",3,3,2
+"2088","CESvalid2019.bb2",114,594,"brick","Slijper","slijper",3,3,2
+"2089","CESvalid2019.bb1",102,233,"brick","Sloopkogel","sloopkogel",2,3,2
+"2090","CESvalid2019.bb2",40,419,"brick","Iets mee slopen","slopen",1,3,1
+"2091","CESvalid2019.bb2",55,450,"brick","Slopen","slopen",1,3,1
+"2092","CESvalid2019.fb2",49,699,"brick","slopen","slopen",1,3,1
+"2093","CESvalid2019.fb2",74,772,"brick","Slopen","slopen",1,3,1
+"2094","CESvalid2019.bb1",40,114,"brick","Iets slopen, door te gooien","slopen gooien",1,3,NA
+"2095","CESvalid2019.bb2",18,328,"brick","Sloten","sloten",1,1,0
+"2096","CESvalid2019.bb2",93,553,"brick","Iets mee sluipen","sluipen",2,0,2
+"2097","CESvalid2019.bb1",18,42,"brick","Snel","snel",0,0,0
+"2098","CESvalid2019.bb2",25,372,"brick","Soort van schuurpapier","soort schuurpapier",3,2,3
+"2099","CESvalid2019.bb2",14,320,"brick","als speelgoed gebruiken","speelgoed",2,3,2
+"2100","CESvalid2019.fb2",69,764,"brick","Speelgoed","speelgoed",2,3,2
+"2101","CESvalid2019.bf1",12,956,"brick","Speelkuil","speelkuil",2,3,3
+"2102","CESvalid2019.bf1",119,1174,"brick","spel","spel",2,3,2
+"2103","CESvalid2019.bb2",10,295,"brick","spelen","spelen",2,3,2
+"2104","CESvalid2019.bb2",28,386,"brick","spelen","spelen",2,3,2
+"2105","CESvalid2019.bb2",55,449,"brick","Spelen","spelen",2,3,2
+"2106","CESvalid2019.fb2",74,775,"brick","Spelen","spelen",2,3,2
+"2107","CESvalid2019.fb2",124,921,"brick","Spelen","spelen",2,3,2
+"2108","CESvalid2019.fb2",132,937,"brick","Mee spelen","spelen",2,3,2
+"2109","CESvalid2019.bf1",119,1179,"brick","spelen","spelen",2,3,2
+"2110","CESvalid2019.bb1",120,265,"brick","spongebob","spongebob",0,0,3
+"2111","CESvalid2019.bb2",120,600,"brick","spongebob-broek","spongebob broek",1,0,4
+"2112","CESvalid2019.bb1",103,244,"brick","Sportelement opstellen (overheen springen o.i.d.)","sportelement opstellen",3,3,3
+"2113","CESvalid2019.bb1",80,189,"brick","Mee sporten","sporten",3,3,2
+"2114","CESvalid2019.bf1",76,1070,"brick","staal","staal",0,0,0
+"2115","CESvalid2019.bb1",68,160,"brick","Er op staan","staan",2,1,2
+"2116","CESvalid2019.bb2",10,297,"brick","op staan","staan",2,1,2
+"2117","CESvalid2019.fb2",78,783,"brick","staan","staan",2,1,2
+"2118","CESvalid2019.bf1",98,1131,"brick","Staat","staat",0,1,0
+"2119","CESvalid2019.bb2",102,570,"brick","Stamper","stamper",3,3,3
+"2120","CESvalid2019.bb1",7,8,"brick","Standaard","standaard",2,2,2
+"2121","CESvalid2019.bb1",10,22,"brick","als standaard","standaard",2,2,2
+"2122","CESvalid2019.bb1",102,236,"brick","Standaard","standaard",2,2,2
+"2123","CESvalid2019.bb1",14,30,"brick","stapelen","stapelen",1,2,1
+"2124","CESvalid2019.bb2",4,282,"brick","Stapelen","stapelen",1,2,1
+"2125","CESvalid2019.bb2",31,389,"brick","Stapelen","stapelen",1,2,1
+"2126","CESvalid2019.bb2",90,544,"brick","Stapelen","stapelen",1,2,1
+"2127","CESvalid2019.fb2",64,742,"brick","Stapelen","stapelen",1,2,1
+"2128","CESvalid2019.fb2",81,789,"brick","stapelen","stapelen",1,2,1
+"2129","CESvalid2019.fb2",92,821,"brick","stapelen","stapelen",1,2,1
+"2130","CESvalid2019.bf1",116,1163,"brick","Stapelen","stapelen",1,2,1
+"2131","CESvalid2019.bf1",89,1088,"brick","Gebruiken als stapelobject","stapelobject",1,2,1
+"2132","CESvalid2019.bb2",80,507,"brick","Statief","statief",3,3,2
+"2133","CESvalid2019.bb1",18,36,"brick","Steen","steen",0,0,1
+"2134","CESvalid2019.bb1",18,55,"brick","Steen","steen",0,0,1
+"2135","CESvalid2019.bb1",110,251,"brick","Steen","steen",0,0,1
+"2136","CESvalid2019.bb2",110,581,"brick","Steen","steen",0,0,1
+"2137","CESvalid2019.fb2",78,786,"brick","steen","steen",0,0,1
+"2138","CESvalid2019.fb2",111,884,"brick","Steen","steen",0,0,1
+"2139","CESvalid2019.bf1",60,1027,"brick","Steen","steen",0,0,1
+"2140","CESvalid2019.bf1",73,1050,"brick","steen","steen",0,0,1
+"2141","CESvalid2019.bf1",94,1104,"brick","Steen","steen",0,0,1
+"2142","CESvalid2019.bf1",98,1127,"brick","Steen","steen",0,0,1
+"2143","CESvalid2019.bb1",22,68,"brick","Steenfabriek","steenfabriek",0,0,1
+"2144","CESvalid2019.bb1",36,108,"brick","steenfabriek","steenfabriek",0,0,1
+"2145","CESvalid2019.bb2",23,369,"brick","Als steengrill","steengrill",3,2,2
+"2146","CESvalid2019.bf1",48,1008,"brick","Steenoven","steenoven",3,2,2
+"2147","CESvalid2019.bf1",96,1112,"brick","Steenoven","steenoven",3,2,2
+"2148","CESvalid2019.bb2",68,473,"brick","Steken","steken",2,2,2
+"2149","CESvalid2019.fb2",81,793,"brick","stempelen","stempelen",3,2,3
+"2150","CESvalid2019.bb2",42,437,"brick","Stenen","stenen",0,0,1
+"2151","CESvalid2019.bf1",96,1114,"brick","Stenen bakjes","stenen bakjes",3,3,2
+"2152","CESvalid2019.bb2",28,376,"brick","stenen voetbal","stenen voetbal",3,4,3
+"2153","CESvalid2019.bb1",61,154,"brick","Als steun gebruiken","steun",2,2,2
+"2154","CESvalid2019.bb2",61,464,"brick","Steun","steun",2,2,2
+"2155","CESvalid2019.fb2",69,762,"brick","Steun","steun",2,2,2
+"2156","CESvalid2019.bb2",18,332,"brick","Stevig","stevig",0,0,0
+"2157","CESvalid2019.bf1",73,1046,"brick","stevig","stevig",0,0,0
+"2158","CESvalid2019.bb2",58,455,"brick","Stoel mee maken","stoel",3,2,2
+"2159","CESvalid2019.bb2",75,500,"brick","Stoel maken","stoel",3,2,2
+"2160","CESvalid2019.bb2",110,585,"brick","Stoel","stoel",2,2,2
+"2161","CESvalid2019.fb2",83,799,"brick","Stoel","stoel",2,2,2
+"2162","CESvalid2019.fb2",95,836,"brick","een stoel","stoel",2,2,2
+"2163","CESvalid2019.bf1",24,965,"brick","stoel","stoel",2,2,2
+"2164","CESvalid2019.bf1",86,1080,"brick","Stoel","stoel",2,2,2
+"2165","CESvalid2019.bf1",91,1094,"brick","Stoel van maken","stoel",3,2,2
+"2166","CESvalid2019.bb1",114,262,"brick","Stoelen","stoelen",2,2,2
+"2167","CESvalid2019.bb1",42,121,"brick","Stoep","stoep",1,1,1
+"2168","CESvalid2019.bb2",42,425,"brick","Stoep","stoep",1,1,1
+"2169","CESvalid2019.bb2",84,522,"brick","Stoep maken","stoep",1,1,1
+"2170","CESvalid2019.bb2",128,610,"brick","Stoep","stoep",1,1,1
+"2171","CESvalid2019.fb2",83,804,"brick","Stoep","stoep",1,1,1
+"2172","CESvalid2019.fb2",118,901,"brick","Stoep","stoep",1,1,1
+"2173","CESvalid2019.bf1",98,1134,"brick","Stoep","stoep",1,1,1
+"2174","CESvalid2019.bb2",102,567,"brick","Stoepkrijt","stoepkrijt",2,3,3
+"2175","CESvalid2019.fb2",29,660,"brick","stoepkrijten","stoepkrijten",2,3,3
+"2176","CESvalid2019.bb1",90,213,"brick","Straat","straat",1,1,1
+"2177","CESvalid2019.bb2",36,405,"brick","straat","straat",1,1,1
+"2178","CESvalid2019.bb2",90,542,"brick","Straat","straat",1,1,1
+"2179","CESvalid2019.fb2",29,651,"brick","straat","straat",1,1,1
+"2180","CESvalid2019.bf1",48,1009,"brick","Straat","straat",1,1,1
+"2181","CESvalid2019.bb2",58,458,"brick","Straat mee aanleggen","straat aanleggen",1,1,1
+"2182","CESvalid2019.bb2",10,300,"brick","straat mee betegelen","straat betegelen",1,1,1
+"2183","CESvalid2019.fb2",51,703,"brick","straat betegelen","straat betegelen",1,1,1
+"2184","CESvalid2019.fb2",64,737,"brick","Straat betegelen","straat betegelen",1,1,1
+"2185","CESvalid2019.bb1",55,132,"brick","Straat leggen","straat leggen",1,1,1
+"2186","CESvalid2019.bb1",58,147,"brick","Een straat mee leggen","straat leggen",1,1,1
+"2187","CESvalid2019.bb1",68,156,"brick","Straat leggen","straat leggen",1,1,1
+"2188","CESvalid2019.bb1",75,174,"brick","Straat leggen","straat leggen",1,1,1
+"2189","CESvalid2019.bf1",67,1039,"brick","Straat leggen","straat leggen",1,1,1
+"2190","CESvalid2019.bb2",75,495,"brick","Straat tegelen","straat tegelen",1,1,1
+"2191","CESvalid2019.fb2",34,663,"brick","straatje leggen","straatje leggen",1,1,1
+"2192","CESvalid2019.fb2",95,830,"brick","straten leggen","straten leggen",1,1,1
+"2193","CESvalid2019.bb2",80,505,"brick","Stukjes hakken","stukjes hakken",1,3,1
+"2194","CESvalid2019.fb2",69,766,"brick","Symbool","symbool",0,4,3
+"2195","CESvalid2019.bb2",58,454,"brick","Tafel mee maken","tafel",3,2,2
+"2196","CESvalid2019.bb2",128,608,"brick","Tafel","tafel",2,2,2
+"2197","CESvalid2019.fb2",69,761,"brick","Tafel","tafel",2,2,2
+"2198","CESvalid2019.fb2",83,806,"brick","Tafel","tafel",2,2,2
+"2199","CESvalid2019.fb2",95,837,"brick","tafel","tafel",2,2,2
+"2200","CESvalid2019.bf1",86,1078,"brick","Tafel","tafel",2,2,2
+"2201","CESvalid2019.bf1",37,984,"brick","Tafelpoot verhogen","tafelpoot verhogen",3,2,2
+"2202","CESvalid2019.fb2",3,619,"brick","tafeltje","tafeltje",2,2,2
+"2203","CESvalid2019.bf1",24,966,"brick","als tafeltje","tafeltje",2,2,2
+"2204","CESvalid2019.bf1",94,1107,"brick","Technisch","technisch",0,0,0
+"2205","CESvalid2019.bb2",42,433,"brick","Tegel","tegel",1,0,1
+"2206","CESvalid2019.bb2",58,461,"brick","Twee tegen elkaar klappen en gebruiken als start sein","tegen elkaar klappen start sein",4,5,4
+"2207","CESvalid2019.fb2",51,709,"brick","tegenaan schoppen","tegenaan schoppen",2,3,1
+"2208","CESvalid2019.bb1",61,152,"brick","Iets tegenhouden","tegenhouden",2,2,2
+"2209","CESvalid2019.bb2",61,467,"brick","Iets tegenhouden","tegenhouden",2,2,2
+"2210","CESvalid2019.bb1",68,158,"brick","Er op tekenen","tekenen",2,3,3
+"2211","CESvalid2019.bb2",71,489,"brick","Op tekenen","tekenen",2,3,3
+"2212","CESvalid2019.bf1",91,1095,"brick","Als Tennisracket gebruiken","tennisracket",4,4,4
+"2213","CESvalid2019.bf1",54,1022,"brick","Tentoonstellen Amfi of BPH","tentoonstellen amfi bph",2,4,3
+"2214","CESvalid2019.bb2",28,380,"brick","thuis gewichtheffen","thuis gewichtheffen",3,3,2
+"2215","CESvalid2019.fb2",132,931,"brick","Tillen","tillen",2,1,2
+"2216","CESvalid2019.fb2",29,658,"brick","timmeren","timmeren",3,2,2
+"2217","CESvalid2019.bb2",22,356,"brick","Toren van maken","toren",1,2,2
+"2218","CESvalid2019.fb2",132,932,"brick","Toren maken","toren",1,2,2
+"2219","CESvalid2019.bb1",71,167,"brick","Toren bouwen","toren bouwen",1,2,2
+"2220","CESvalid2019.bb1",75,177,"brick","Toren bouwen","toren bouwen",1,2,2
+"2221","CESvalid2019.bb2",28,384,"brick","toren bouwen","toren bouwen",1,2,2
+"2222","CESvalid2019.bb2",71,491,"brick","Toren bouwen","toren bouwen",1,2,2
+"2223","CESvalid2019.bb2",75,497,"brick","Toren bouwen","toren bouwen",1,2,2
+"2224","CESvalid2019.fb2",74,776,"brick","Trainen","trainen",3,3,2
+"2225","CESvalid2019.fb2",124,925,"brick","Trainen","trainen",3,3,2
+"2226","CESvalid2019.bb2",93,554,"brick","Trainen als gewicht","trainen gewicht",3,3,2
+"2227","CESvalid2019.bb1",93,225,"brick","Trainen voor spierballen","trainen spierballen",3,3,2
+"2228","CESvalid2019.bb1",103,242,"brick","Trap maken","trap",1,3,2
+"2229","CESvalid2019.bb2",103,573,"brick","Trap opstellen","trap opstellen",1,3,2
+"2230","CESvalid2019.bb1",90,217,"brick","Trui","trui",1,4,4
+"2231","CESvalid2019.bb2",85,532,"brick","Tuin","tuin",1,1,2
+"2232","CESvalid2019.bf1",123,1198,"brick","voor in je tuin","tuin",1,1,2
+"2233","CESvalid2019.fb2",20,648,"brick","Tuin aanleggen","tuin aanleggen",1,1,2
+"2234","CESvalid2019.bb1",114,261,"brick","Tuinbeeldjes","tuinbeeldjes",2,3,3
+"2235","CESvalid2019.fb2",15,631,"brick","tuinmeubel","tuinmeubel",2,2,3
+"2236","CESvalid2019.fb2",20,645,"brick","Tunnel","tunnel",1,1,2
+"2237","CESvalid2019.bb1",4,5,"brick","Iets uitbeelden","uitbeelden",1,3,3
+"2238","CESvalid2019.bb2",4,278,"brick","Iets uitbeelden","uitbeelden",1,3,3
+"2239","CESvalid2019.fb2",121,917,"brick","Uithollen","uithollen",2,3,2
+"2240","CESvalid2019.bf1",12,950,"brick","Uitkijktoren","uitkijktoren",1,2,2
+"2241","CESvalid2019.fb2",100,866,"brick","Vabahahhaha","vabahahhaha",0,0,0
+"2242","CESvalid2019.bb2",18,337,"brick","Vallen","vallen",1,0,0
+"2243","CESvalid2019.bb2",28,381,"brick","vandalen apparaat","vandalen apparaat",2,0,2
+"2244","CESvalid2019.bb2",68,483,"brick","Vast pakken","vast pakken",1,1,1
+"2245","CESvalid2019.fb2",51,711,"brick","vastlijmen","vastlijmen",2,1,1
+"2246","CESvalid2019.bb1",80,188,"brick","Vastmaken aan iets","vastmaken",2,1,1
+"2247","CESvalid2019.bb2",4,283,"brick","Iets vastzetten","vastzetten",2,1,2
+"2248","CESvalid2019.bf1",63,1036,"brick","Vastzetten van iets","vastzetten",2,1,2
+"2249","CESvalid2019.bf1",33,982,"brick","vastzetten tegen wind","vastzetten tegen wind",2,2,2
+"2250","CESvalid2019.fb2",49,702,"brick","ve","ve",0,0,0
+"2251","CESvalid2019.bf1",131,1207,"brick","Ve","ve",0,0,0
+"2252","CESvalid2019.bb2",18,331,"brick","Veiligheid","veiligheid",0,1,0
+"2253","CESvalid2019.bf1",112,1157,"brick","veiligheid","veiligheid",0,1,0
+"2254","CESvalid2019.fb2",34,665,"brick","ver gooi wedstrijd","ver gooi wedstrijd",4,3,3
+"2255","CESvalid2019.fb2",59,727,"brick","Verbouwing","verbouwing",1,1,1
+"2256","CESvalid2019.bb1",58,138,"brick","Verbrijzelen","verbrijzelen",1,2,1
+"2257","CESvalid2019.bb2",80,506,"brick","Verbrijzelen","verbrijzelen",1,2,1
+"2258","CESvalid2019.bf1",46,1004,"brick","Verdedigingsvoorwerp","verdedigingsvoorwerp",2,2,2
+"2259","CESvalid2019.fb2",49,698,"brick","verduisteren","verduisteren",1,3,2
+"2260","CESvalid2019.bb2",22,353,"brick","Verf van maken","verf",3,4,3
+"2261","CESvalid2019.bb2",110,579,"brick","Verf","verf",2,4,3
+"2262","CESvalid2019.fb2",81,791,"brick","vergruizen","vergruizen",2,3,1
+"2263","CESvalid2019.bb1",40,116,"brick","Iets verhogen","verhogen",2,2,2
+"2264","CESvalid2019.bb2",40,422,"brick","Iets verhogen","verhogen",2,2,2
+"2265","CESvalid2019.bb1",7,13,"brick","Verhoging","verhoging",2,2,2
+"2266","CESvalid2019.bb1",25,80,"brick","Verhoging","verhoging",2,2,2
+"2267","CESvalid2019.bb1",85,208,"brick","verhogi","verhoging",2,2,2
+"2268","CESvalid2019.bb2",7,286,"brick","Verhoging","verhoging",2,2,2
+"2269","CESvalid2019.bb2",85,536,"brick","Verhoging","verhoging",2,2,2
+"2270","CESvalid2019.bb2",93,551,"brick","Verhoging gebruiken","verhoging",2,2,2
+"2271","CESvalid2019.bb2",114,595,"brick","Verhoging","verhoging",2,2,2
+"2272","CESvalid2019.fb2",49,694,"brick","verhoging","verhoging",2,2,2
+"2273","CESvalid2019.bb2",11,314,"brick","Verhoging van bed of kast","verhoging bed kast",2,2,2
+"2274","CESvalid2019.bb2",84,523,"brick","Verhoging als je er op staat","verhoging staat",2,2,2
+"2275","CESvalid2019.bb1",93,226,"brick","Verhoging voor een stoel","verhoging stoel",2,2,2
+"2276","CESvalid2019.bf1",76,1064,"brick","verkleurd","verkleurd",2,0,0
+"2277","CESvalid2019.bb1",85,206,"brick","Vermalen","vermalen",2,3,1
+"2278","CESvalid2019.bb1",102,239,"brick","Om mee te vermalen","vermalen",2,3,1
+"2279","CESvalid2019.bf1",30,971,"brick","verplaatsen","verplaatsen",1,1,1
+"2280","CESvalid2019.bb2",80,514,"brick","Vers","vers",0,0,0
+"2281","CESvalid2019.bf1",76,1059,"brick","verschillende kleuren","verschillende kleuren",0,0,3
+"2282","CESvalid2019.bf1",76,1068,"brick","verschillende lagen","verschillende lagen",0,1,3
+"2283","CESvalid2019.bf1",30,970,"brick","verschuiven","verschuiven",1,1,1
+"2284","CESvalid2019.bf1",123,1196,"brick","versiering","versiering",2,2,3
+"2285","CESvalid2019.bf1",131,1205,"brick","Als versiering gebruiken","versiering",2,2,3
+"2286","CESvalid2019.bb1",129,275,"brick","Gebruiken als versiering in je tuin","versiering tuin",2,2,3
+"2287","CESvalid2019.bf1",116,1168,"brick","Verstevigen","verstevigen",2,2,2
+"2288","CESvalid2019.bb2",44,444,"brick","Versteviging","versteviging",2,2,2
+"2289","CESvalid2019.bf1",16,959,"brick","versteviging voor mijn palletbed","versteviging pallet bed",3,2,2
+"2290","CESvalid2019.fb2",15,634,"brick","versteviging om plastic te bevestigen","versteviging plastic bevestigen",2,2,2
+"2291","CESvalid2019.bb1",44,129,"brick","Versteviging van voorwerpen","versteviging voorwerpen",2,2,2
+"2292","CESvalid2019.fb2",51,716,"brick","verstoppen","verstoppen",1,3,2
+"2293","CESvalid2019.bb2",58,452,"brick","Verven","verven",2,3,3
+"2294","CESvalid2019.fb2",51,717,"brick","verven","verven",2,3,3
+"2295","CESvalid2019.fb2",81,792,"brick","verven","verven",2,3,3
+"2296","CESvalid2019.bf1",54,1016,"brick","Verfen","verven",2,3,3
+"2297","CESvalid2019.bf1",119,1180,"brick","verven","verven",2,3,3
+"2298","CESvalid2019.bb2",85,527,"brick","Vervormen","vervormen",1,3,2
+"2299","CESvalid2019.fb2",45,678,"brick","verwerken in kunstwerk","verwerken kunstwerk",2,3,3
+"2300","CESvalid2019.bb2",93,550,"brick","Verwonden","verwonden",2,2,2
+"2301","CESvalid2019.bb1",61,151,"brick","Iets verzwaren","verzwaren",2,2,2
+"2302","CESvalid2019.bb2",11,315,"brick","Iets mee verzwaren","verzwaren",2,2,2
+"2303","CESvalid2019.bb2",61,466,"brick","Iets verzwaren","verzwaren",2,2,2
+"2304","CESvalid2019.bf1",33,981,"brick","iets verzwaren","verzwaren",2,2,2
+"2305","CESvalid2019.fb2",45,676,"brick","iets verzwaren tegen de wind","verzwaren tegen wind",2,2,2
+"2306","CESvalid2019.fb2",65,756,"brick","Vestigingen","vestigingen",2,1,2
+"2307","CESvalid2019.bb2",18,346,"brick","Vierkant","vierkant",0,0,3
+"2308","CESvalid2019.fb2",65,754,"brick","Vierkant","vierkant",0,0,3
+"2309","CESvalid2019.bf1",77,1072,"brick","vierkant","vierkant",0,0,3
+"2310","CESvalid2019.bf1",98,1136,"brick","Vierkant","vierkant",0,0,3
+"2311","CESvalid2019.bb2",18,329,"brick","Vies","vies",0,0,0
+"2312","CESvalid2019.bf1",12,953,"brick","Vila","villa",1,1,2
+"2313","CESvalid2019.bb1",71,171,"brick","Vis vangen","vis vangen",4,4,3
+"2314","CESvalid2019.bf1",54,1021,"brick","In vitrine kast plaatsen","vitrine kast plaatsen",2,1,2
+"2315","CESvalid2019.bb1",90,212,"brick","Vloer","vloer",1,1,2
+"2316","CESvalid2019.bb2",90,540,"brick","Vloer","vloer",1,1,2
+"2317","CESvalid2019.bb2",42,432,"brick","Voeg","voeg",1,1,2
+"2318","CESvalid2019.bb1",36,112,"brick","voegen","voegen",1,1,2
+"2319","CESvalid2019.bf1",12,954,"brick","Voetbalkuil","voetbalkuil",3,3,3
+"2320","CESvalid2019.bf1",86,1084,"brick","Voeten steun","voeten steun",2,2,2
+"2321","CESvalid2019.bf1",122,1186,"brick","Voetenbank","voetenbank",2,2,2
+"2322","CESvalid2019.bb2",58,456,"brick","Voetenbankje","voetenbankje",2,2,2
+"2323","CESvalid2019.bb1",85,203,"brick","Voetensteun","voetensteun",2,2,2
+"2324","CESvalid2019.fb2",83,800,"brick","Voetensteun","voetensteun",2,2,2
+"2325","CESvalid2019.bb1",84,193,"brick","Voetensteuntje","voetensteuntje",2,2,2
+"2326","CESvalid2019.bb2",85,530,"brick","Voetsteuntje","voetsteuntje",2,2,2
+"2327","CESvalid2019.bf1",2,939,"brick","voetstuk","voetstuk",2,2,2
+"2328","CESvalid2019.fb2",34,668,"brick","voorkomen dat auto wegrolt (of caravan)","voorkomen auto wegrolt",3,2,3
+"2329","CESvalid2019.bb1",44,128,"brick","Voorkomen dat iets wegwaait","voorkomen wegwaait",2,2,2
+"2330","CESvalid2019.bb2",44,442,"brick","Voorkomen dat iets wegwaait","voorkomen wegwaait",2,2,2
+"2331","CESvalid2019.bf1",77,1071,"brick","vorm","vorm",0,0,3
+"2332","CESvalid2019.bb2",22,360,"brick","Vorm van nemen en er een brood uit bakken","vorm nemen brood bakken",4,3,3
+"2333","CESvalid2019.bb1",18,53,"brick","Vrienden","vrienden",0,0,0
+"2334","CESvalid2019.bf1",96,1121,"brick","Vrijwel heel Amsterdam","vrijwel heel amsterdam",0,0,0
+"2335","CESvalid2019.fb2",74,777,"brick","Vuurmaken","vuur",1,3,3
+"2336","CESvalid2019.bf1",98,1140,"brick","Vuur","vuur",0,3,2
+"2337","CESvalid2019.bb1",75,178,"brick","Vuurkorf maken","vuurkorf",2,3,2
+"2338","CESvalid2019.bb2",58,460,"brick","Vuurkorf mee maken","vuurkorf",2,3,2
+"2339","CESvalid2019.fb2",8,628,"brick","Vuurplaats","vuurplaats",2,3,2
+"2340","CESvalid2019.bb1",23,74,"brick","Als wapen","wapen",2,2,2
+"2341","CESvalid2019.bb1",40,118,"brick","Wapen","wapen",2,2,2
+"2342","CESvalid2019.bb1",44,124,"brick","Wapen","wapen",2,2,2
+"2343","CESvalid2019.bb2",23,361,"brick","Wapen","wapen",2,2,2
+"2344","CESvalid2019.bb2",40,416,"brick","Wapen","wapen",2,2,2
+"2345","CESvalid2019.bb2",44,439,"brick","Wapen","wapen",2,2,2
+"2346","CESvalid2019.bb2",102,565,"brick","Wapen","wapen",2,2,2
+"2347","CESvalid2019.fb2",38,673,"brick","als wapen","wapen",2,2,2
+"2348","CESvalid2019.bf1",63,1035,"brick","Wapen","wapen",2,2,2
+"2349","CESvalid2019.bf1",91,1096,"brick","Als wapen gebruiken","wapen",2,2,2
+"2350","CESvalid2019.bf1",60,1031,"brick","Warm","warm",0,0,0
+"2351","CESvalid2019.bf1",76,1069,"brick","warm","warm",0,0,0
+"2352","CESvalid2019.bf1",94,1105,"brick","Warm","warm",0,0,0
+"2353","CESvalid2019.bb2",22,358,"brick","In het water gooien","water gooien",1,1,1
+"2354","CESvalid2019.fb2",49,697,"brick","water tegenhouden","water tegenhouden",2,2,2
+"2355","CESvalid2019.bb1",7,14,"brick","Waxinelicjthouder","waxinelichthouder",5,3,3
+"2356","CESvalid2019.bb1",58,143,"brick","Wc pot","wc pot",4,4,4
+"2357","CESvalid2019.bb1",22,66,"brick","Weg","weg",1,1,1
+"2358","CESvalid2019.fb2",78,784,"brick","weg","weg",1,1,1
+"2359","CESvalid2019.fb2",83,803,"brick","Weg","weg",1,1,1
+"2360","CESvalid2019.fb2",118,903,"brick","Weg","weg",1,1,1
+"2361","CESvalid2019.bf1",12,943,"brick","Weg","weg",1,1,1
+"2362","CESvalid2019.bf1",96,1118,"brick","Een weg","weg",1,1,1
+"2363","CESvalid2019.bb1",14,33,"brick","weg aanleggen","weg aanleggen",1,1,1
+"2364","CESvalid2019.bb2",22,351,"brick","Weg van bouwen","weg bouwen",1,1,1
+"2365","CESvalid2019.bb2",36,415,"brick","wegen","wegen",2,1,1
+"2366","CESvalid2019.fb2",132,934,"brick","Wegen","wegen",2,1,1
+"2367","CESvalid2019.bf1",107,1150,"brick","Wegen","wegen",2,1,1
+"2368","CESvalid2019.bf1",67,1037,"brick","Weggooien","weggooien",1,1,1
+"2369","CESvalid2019.fb2",111,890,"brick","Werken","werken",1,1,2
+"2370","CESvalid2019.fb2",59,725,"brick","Wit","wit",0,0,0
+"2371","CESvalid2019.bb2",18,339,"brick","Wond","wond",0,1,0
+"2372","CESvalid2019.bf1",98,1133,"brick","Zagen","zagen",1,3,2
+"2373","CESvalid2019.fb2",59,729,"brick","Zand","zand",1,0,2
+"2374","CESvalid2019.bf1",96,1123,"brick","Zand","zand",1,0,2
+"2375","CESvalid2019.bf1",98,1143,"brick","Zand","zand",1,0,2
+"2376","CESvalid2019.bf1",12,955,"brick","Zandbak","zandbak",2,2,2
+"2377","CESvalid2019.bf1",16,960,"brick","zandbak omlijning","zandbak omlijning",2,2,2
+"2378","CESvalid2019.bb2",114,592,"brick","Zelfdefensie","zelfbescherming",2,2,2
+"2379","CESvalid2019.bb1",18,40,"brick","Ziekenhuis","ziekenhuis",0,1,2
+"2380","CESvalid2019.bb1",28,84,"brick","zink hulpstuk","zink hulpstuk",2,2,2
+"2381","CESvalid2019.bb2",97,560,"brick","Zinken","zinken",2,2,2
+"2382","CESvalid2019.fb2",3,620,"brick","zitje","zitje",2,2,2
+"2383","CESvalid2019.fb2",47,689,"brick","Zitje","zitje",2,2,2
+"2384","CESvalid2019.bb2",18,324,"brick","Zitplaats","zitplaats",2,2,2
+"2385","CESvalid2019.bb2",85,531,"brick","Zitplaats","zitplaats",2,2,2
+"2386","CESvalid2019.bf1",39,992,"brick","Zitplek maken","zitplek",2,2,2
+"2387","CESvalid2019.bb1",10,18,"brick","op zitten","zitten",2,2,2
+"2388","CESvalid2019.bb1",80,185,"brick","Op zitten","zitten",2,2,2
+"2389","CESvalid2019.bb1",85,202,"brick","Zitten","zitten",2,2,2
+"2390","CESvalid2019.bb2",10,296,"brick","op zitten","zitten",2,2,2
+"2391","CESvalid2019.bb2",18,322,"brick","Zitten","zitten",2,2,2
+"2392","CESvalid2019.fb2",49,693,"brick","zitten","zitten",2,2,2
+"2393","CESvalid2019.fb2",78,782,"brick","zitten","zitten",2,2,2
+"2394","CESvalid2019.fb2",124,920,"brick","Zitten","zitten",2,2,2
+"2395","CESvalid2019.fb2",125,927,"brick","Er op zitten","zitten",2,2,2
+"2396","CESvalid2019.bf1",33,978,"brick","op zitten","zitten",2,2,2
+"2397","CESvalid2019.bf1",50,1015,"brick","zitten","zitten",2,2,2
+"2398","CESvalid2019.bf1",107,1148,"brick","Zitten","zitten",2,2,2
+"2399","CESvalid2019.bf1",24,964,"brick","op iets zodat het niet wegvliegt","zodat niet wegvliegt",2,2,2
+"2400","CESvalid2019.bb2",61,470,"brick","Zorgen dat iets niet verzakt","zorgen niet verzakt",3,2,2
+"2401","CESvalid2019.bb1",31,92,"brick","Zwaar","zwaar",0,0,0
+"2402","CESvalid2019.bb1",110,250,"brick","Zwaar","zwaar",0,0,0
+"2403","CESvalid2019.bb2",31,397,"brick","Zwaar","zwaar",0,0,0
+"2404","CESvalid2019.bb2",97,561,"brick","Zwaar","zwaar",0,0,0
+"2405","CESvalid2019.bb2",110,582,"brick","Zwaar","zwaar",0,0,0
+"2406","CESvalid2019.fb2",59,728,"brick","Zwaar","zwaar",0,0,0
+"2407","CESvalid2019.fb2",111,882,"brick","Zwaar","zwaar",0,0,0
+"2408","CESvalid2019.bf1",73,1052,"brick","zwaar","zwaar",0,0,0
+"2409","CESvalid2019.bf1",94,1103,"brick","Zwaar","zwaar",0,0,0
+"2410","CESvalid2019.bf1",119,1171,"brick","zwaar","zwaar",0,0,0
+"2411","CESvalid2019.bf1",89,1087,"brick","Gebruiken als zwaar projectiel","zwaar projectiel",2,0,2
+"2412","CESvalid2019.fb2",106,873,"brick","zwaarte gebruiken voor hefboom","zwaarte hefboom",3,2,2
+"2413","CESvalid2019.bf1",54,1019,"brick","Zwarte stift","zwarte stift",2,1,4
+"2414","CESvalid2019.bb1",71,170,"brick","Zwembad in de tuin","zwembad tuin",1,1,2
