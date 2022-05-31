@@ -27,7 +27,7 @@ write_excel_csv(arabic1, "processed/merged/arabic_all.csv")
 #Chinese 
 chinese1 <- read_excel("datasets/Chinese/AUT_materialBase.xlsx", sheet = 1) 
 #chinese2 <- read_excel("datasets/Chinese/AUT_materialBase.xlsx", sheet = 2) 
-chinese3 <- read_excel("datasets/Chinese/chineseaut_validity.xlsx")
+chinese3 <- read_excel("datasets/Chinese/chineseaut_withopencaq.xlsx")
 
 chinese1 <- chinese1 %>% dplyr::rename("ID" = "subID",
                                        "prompt" = "item",
@@ -47,7 +47,7 @@ chinese2 <- chinese3 %>% dplyr::rename("ID" = "subID",
                                        "prompt" = "item") %>%
   dplyr::select(ID, prompt, response, item_english, rater1, rater2, rater3, rater4, openness, CAQ) %>%
   mutate(set = 3) %>% mutate(lab = 2) %>% 
-  write_excel_csv("processed/chinese3.csv")
+  write_excel_csv("processed/chinese2.csv")
 
 chineseMergeCols <- c("ID", "prompt", "response", "set", "lab", "rater1", "rater2", "rater3", "rater4")
 chinese_all <- merge(chinese1, chinese2, all = TRUE)
@@ -93,7 +93,8 @@ dutch3 <- dutch3 %>% dplyr::rename("ID" = "respondent_id",
                                    "rater1" = "originality_rater01",
                                    "rater2" = "originality_rater02") %>%
   mutate(set = 6, lab = 3) %>%
-  dplyr::select(ID, prompt, response, set, lab, response_cleaned, rater1, rater2) 
+  dplyr::select(ID, prompt, response, set, lab, response_cleaned, rater1, rater2) %>%
+  write_excel_csv("processed/dutch3.csv")
 
 dutch3_merged <- dutch3 %>% merge(dutch3_data, by = "ID") %>%
   write_excel_csv("processed/dutch3.csv")
