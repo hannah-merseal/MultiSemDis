@@ -148,10 +148,11 @@ french2 <- french2 %>% dplyr::rename("ID" = "ï..userid",
 
 french3_ceinture <- read_excel("datasets/French/data_survey.xlsx", sheet = 1) %>% mutate("prompt" = "ceinture", "lab" = 6, "set" = 10)
 french3_brouette <- read_excel("datasets/French/data_survey.xlsx", sheet = 2) %>% mutate("prompt" = "brouette", "lab" = 6, "set" = 10)
-french3_data <- read_excel("datasets/French/data_survey.xlsx", sheet = 3)
+french3_data <- read_excel("datasets/French/data_survey.xlsx", sheet = 3) %>%
+  rename("ppt_id" = "id")
 
 french3_task <- merge(french3_brouette, french3_ceinture, all = TRUE)
-french3 <- merge(french3_task, french3_data, all = TRUE)
+french3 <- merge(french3_task, french3_data, by = "ppt_id")
 french3 <- french3 %>% dplyr::rename("ID" = "ppt_id",
                                      "response" = "idea",
                                      "rater1" = "Judge_A",
@@ -162,10 +163,11 @@ french3 <- french3 %>% dplyr::rename("ID" = "ppt_id",
                                     
 french4_ceinture <- read_excel("datasets/French/data_expe.xlsx", sheet = 1) %>% mutate("prompt" = "ceinture", "lab" = 6, "set" = 11)
 french4_brouette <- read_excel("datasets/French/data_expe.xlsx", sheet = 2) %>% mutate("prompt" = "brouette", "lab" = 6, "set" = 11)
-french4_data <- read_excel("datasets/French/data_expe.xlsx", sheet = 3)
+french4_data <- read_excel("datasets/French/data_expe.xlsx", sheet = 3) %>%
+  rename("ppt_id" = "id")
 
 french4_task <- merge(french4_brouette, french4_ceinture, all = TRUE)
-french4 <- merge(french4_task, french4_data, all = TRUE)
+french4 <- merge(french4_task, french4_data, by = "ppt_id")
 french4 <- french4 %>% dplyr::rename("ID" = "ppt_id",
                                      "response" = "idea",
                                      "rater1" = "Judge_A",
