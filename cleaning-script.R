@@ -82,7 +82,9 @@ dutch2 <- dutch2 %>% dplyr::rename("ID" = "respondent_id",
   write_excel_csv("processed/dutch2.csv")
 
 dutch3_data <- dutch3_data %>% dplyr::rename("ID" = "respondent_id") %>%
-  select(ID, Total_CAQ, PI_originalityMean, JS_originalityMean)
+  select(ID, Total_CAQ, PI_originalityMean, JS_originalityMean) 
+
+dutch3_data <- unique(dutch3_data)
   
 dutch3 <- dutch3 %>% dplyr::rename("ID" = "respondent_id",
                                    "prompt" = "object",
@@ -91,10 +93,9 @@ dutch3 <- dutch3 %>% dplyr::rename("ID" = "respondent_id",
                                    "rater1" = "originality_rater01",
                                    "rater2" = "originality_rater02") %>%
   mutate(set = 6, lab = 3) %>%
-  dplyr::select(ID, prompt, response, set, lab, response_cleaned, rater1, rater2) %>%
-  write_excel_csv("processed/dutch3.csv")
+  dplyr::select(ID, prompt, response, set, lab, response_cleaned, rater1, rater2) 
 
-dutch3_merged <- dutch3 %>% full_join(dutch3_data, by = "ID") %>%
+dutch3_merged <- dutch3 %>% merge(dutch3_data, by = "ID") %>%
   write_excel_csv("processed/dutch3.csv")
 
 dutch4 <- dutch4 %>% dplyr::rename("ID" = "respondent_id",
@@ -105,11 +106,12 @@ dutch4 <- dutch4 %>% dplyr::rename("ID" = "respondent_id",
                                    "rater2" = "originality_rater02",
                                    "rater3" = "originality_rater03") %>%
   mutate(set = 7, lab = 3) %>%
-  dplyr::select(ID, prompt, response, set, lab, response_cleaned, rater1, rater2, rater3) %>%
-  write_excel_csv("processed/dutch4.csv")
+  dplyr::select(ID, prompt, response, set, lab, response_cleaned, rater1, rater2, rater3)
 
 dutch4_data <- dutch4_data %>% dplyr::rename("ID" = "respondent_id") %>%
   select(ID, Total_CAQ, Total_KDOCS)
+
+dutch4_data <- unique(dutch4_data)
 
 dutch4_merged <- dutch4 %>% full_join(dutch4_data, by = "ID") %>%
   write_excel_csv("processed/dutch4.csv")
