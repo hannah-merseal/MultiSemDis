@@ -350,8 +350,8 @@ portugese1 <- portugese1 %>% dplyr::rename("ID" = "id",
   write_excel_csv("processed/portugese1.csv")
 
 #Russian
-russian1 <- read_excel("datasets/Russian/Rus-DT-AUT [final].xlsx", sheet = 1)
-russian2 <- read_excel("datasets/Russian/Rus-DT-AUT [final].xlsx", sheet = 2)
+russian1 <- read_excel("datasets/Russian/russian_thisone.xlsx", sheet = 1)
+russian2 <- read_excel("datasets/Russian/russian_thisone.xlsx", sheet = 2)
 
 russian1 <- russian1 %>% dplyr::rename("ID" = "id", "prompt" = "item",
                                        "rater1" = "coder1", "rater2" = "coder2", "rater3" = "coder3") %>%

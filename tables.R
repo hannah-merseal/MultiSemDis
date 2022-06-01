@@ -78,3 +78,46 @@ counts <- merge(responses, subs_set, by = "set") %>%
          "N" = "subsBySet") %>%
   select(set, N, totalResponses) %>% 
   write_excel_csv("countstable.csv")
+
+#merging
+arabic_all <- arabic1_clean %>% 
+  write_excel_csv("merged/arabic_all.csv")
+
+chinese_all <- chinese1_clean %>%
+  merge(chinese2_clean, all = TRUE) %>%
+  write_excel_csv("merged/chinese_all.csv")
+
+dutch_all <- dutch1_clean %>%
+  merge(dutch2_clean, all = TRUE) %>%
+  merge(dutch3_clean, all = TRUE) %>%
+  merge(dutch4_clean, all = TRUE) %>%
+  write_excel_csv("merged/dutch_all.csv")
+
+french_all <- french1_clean %>%
+  merge(french2_clean, all = TRUE) %>%
+  merge(french3_clean, all = TRUE) %>%
+  merge(french4_clean, all = TRUE) %>%
+  write_excel_csv("merged/french_all.csv")
+
+german_all <- german1_clean %>%
+  merge(german2_clean, all = TRUE) %>%
+  merge(german3_clean, all = TRUE) %>%
+  write_excel_csv("merged/german_all.csv")
+
+hebrew_all <- hebrew1_clean %>%
+  write_excel_csv("merged/hebrew_all.csv")
+
+italian_all <- italian1_clean %>%
+  merge(italian2_clean, all = TRUE) %>%
+  write_excel_csv("merged/italian_all.csv")
+
+polish_all <- polish1_clean %>%
+  merge(polish2_clean, all = TRUE) %>%
+  write_excel_csv("merged/polish_all.csv")
+
+russian_all <- russian1_clean %>%
+  merge(russian2_clean, all = TRUE) %>%
+  write_excel_csv("merged/russian_all.csv")
+
+spanish_all <- spanish1_clean %>%
+  write_excel_csv("merged/spanish_all.csv")

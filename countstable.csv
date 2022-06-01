@@ -1,10 +1,10 @@
 ﻿"set","N","totalResponses"
 "arabic1",160,1524
 "chinese1",466,14176
-"chinese2",171,2918
+"chinese2",217,1302
 "dutch1",633,10549
 "dutch2",111,1640
-"dutch3",111,1004
+"dutch3",297,2546
 "dutch4",132,2447
 "french1",92,2100
 "french2",89,496
@@ -18,6 +18,6 @@
 "italian2",80,6906
 "polish1",791,7415
 "polish2",497,3054
-"russian1",1728,1728
-"russian2",370,370
+"russian1",111,1728
+"russian2",45,370
 "spanish1",491,2735
