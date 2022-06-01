@@ -7,7 +7,7 @@ arabic1 <- read_excel("datasets/Arabic/Arabic SemDis data .xlsx")
 
 arabic1 <- arabic1 %>% rename("prompt" = "AUT item",
                               "response" = "AUT response",
-                              "rating" = "AUT rating",
+                              "rater1" = "AUT rating",
                               "CAQTotal" = "Total CAQ",
                               "openness" = "Openness",
                               "visual_arts" = "Visual arts",
@@ -20,7 +20,8 @@ arabic1 <- arabic1 %>% rename("prompt" = "AUT item",
                               "theater_film" = "Theater and film",
                               "culinary_arts" = "Culinary arts") %>%
   group_by(ID) %>% mutate("order" = 1:n()) %>% mutate(lab = 1) %>% mutate(set = 1) %>%
-  select(ID, prompt, response, set, lab, order, rating:CAQTotal)
+  select(ID, prompt, response, set, lab, order, rater1:CAQTotal) %>%
+  write_excel_csv("processed/arabic1.csv")
 
 write_excel_csv(arabic1, "processed/merged/arabic_all.csv")
 
@@ -290,14 +291,14 @@ italian2 <- read_excel("datasets/Italian/italian2.xlsx")
 
 italian1 <- italian1 %>% dplyr::rename("prompt" = "Item", "response" = "ALTERNATIVERESPONSE",
                                        "rater1" = "Coder1", "rater2" = "Coder2") %>%
-  mutate(set = 16, lab = 10) %>%
-  dplyr::select(ID, prompt, response, set, rater1, rater2, CAAC_TOT, NEO_OPEN) %>%
+  mutate(set = 16) %>% mutate(lab = 10) %>%
+  dplyr::select(ID, prompt, response, set, lab, rater1, rater2, CAAC_TOT, NEO_OPEN) %>%
   write_excel_csv("processed/italian1.csv")
 
 italian2 <- italian2 %>% dplyr::rename("prompt" = "Item", "response" = "Alternativeresponse",
                                        "rater1" = "Coder1", "rater2" = "Coder2") %>%
-  mutate(set = 17, lab = 10) %>%
-  dplyr::select(ID, prompt, response, set, rater1, rater2, CAAC_TOT, Openness) %>%
+  mutate(set = 17) %>% mutate(lab = 10) %>%
+  dplyr::select(ID, prompt, response, set, lab, rater1, rater2, CAAC_TOT, Openness) %>%
   write_excel_csv("processed/italian2.csv")
 
 italian_all <- merge(italian1, italian2, all = TRUE)

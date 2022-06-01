@@ -1,47 +1,47 @@
 arabic1_clean <- read_csv("processed/arabic1.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "arabic1")
+  select(ID, prompt, response, set, lab, rater1) 
 chinese1_clean <- read_csv("processed/chinese1.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "chinese1")
+  select(ID, prompt, response, set, lab, rater1, rater2, rater3, rater4) 
 chinese2_clean <- read_csv("processed/chinese2.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "chinese2")
+  select(ID, prompt, response, set, lab, rater1, rater2, rater3, rater4)
 dutch1_clean <- read_csv("processed/dutch1.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "dutch1")
+  select(ID, prompt, response, set, lab, rater1, rater2)
 dutch2_clean <- read_csv("processed/dutch2.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "dutch2")
+  select(ID, prompt, response, set, lab, rater1, rater2)
 dutch3_clean <- read_csv("processed/dutch3.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "dutch3")
+  select(ID, prompt, response, set, lab, rater1, rater2)
 dutch4_clean <- read_csv("processed/dutch4.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "dutch4")
+  select(ID, prompt, response, set, lab, rater1, rater2, rater3)
 french1_clean <- read_csv("processed/french1.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "french1")
+  select(ID, prompt, response, set, lab, rater1, rater2, rater3, rater4)
 french2_clean <- read_csv("processed/french2.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "french2")
+  select(ID, prompt, response, set, lab, rater1, rater2, rater3)
 french3_clean <- read_csv("processed/french3.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "french3")
+  select(ID, prompt, response, set, lab, rater1, rater2, rater3)
 french4_clean <- read_csv("processed/french4.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "french4")
+  select(ID, prompt, response, set, lab, rater1, rater2, rater3)
 german1_clean <- read_csv("processed/german1.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "german1")
+  select(ID, prompt, response, set, lab, rater1, rater2, rater3, rater4)
 german2_clean <- read_csv("processed/german2.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "german2")
+  select(ID, prompt, response, set, lab, rater1, rater2, rater3)
 german3_clean <- read_csv("processed/german3.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "german3")
+  select(ID, prompt, response, set, lab, rater1, rater2, rater3)
 hebrew1_clean <- read_csv("processed/hebrew1.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "hebrew1")
+  select(ID, prompt, response, set, lab, rater1:rater45)
 italian1_clean <- read_csv("processed/italian1.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "italian1")
+  select(ID, prompt, response, set, lab, rater1, rater2)
 italian2_clean <- read_csv("processed/italian2.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "italian2")
+  select(ID, prompt, response, set, lab, rater1, rater2)
 polish1_clean <- read_csv("processed/polish1.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "polish1")
+  select(ID, prompt, response, set, lab, rater1:rater3)
 polish2_clean <- read_csv("processed/polish2.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "polish2")
+  select(ID, prompt, response, set, lab, rater1:rater3)
 russian1_clean <- read_csv("processed/russian1.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "russian1")
+  select(ID, prompt, response, set, lab, rater1:rater3)
 russian2_clean <- read_csv("processed/russian2.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "russian2")
+  select(ID, prompt, response, set, lab, rater1:rater3)
 spanish1_clean <- read_csv("processed/spanish1.csv") %>%
-  select(ID, prompt, response) %>% mutate("set" = "spanish1")
+  select(ID, prompt, response, set, lab, rater1:rater3)
 
 multi_all <- arabic1_clean %>%
   merge(chinese1_clean, all = TRUE) %>%
