@@ -3,56 +3,56 @@ library(readxl)
 library(dplyr)
 
 #English
-english1 <- read_excel("datasets/Chinese/AUT_materialBase.xlsx", sheet = 2) 
+english1 <- read_excel("raw-data/Chinese/AUT_materialBase.xlsx", sheet = 2) 
 english1 <- english1 %>% dplyr::rename("ID" = "id",
                                        "prompt" = "item") %>%
   dplyr::select(ID, prompt, response, rater1, rater2, rater3, rater4) %>%
   write_excel_csv("processed-data/english1.csv")
 
-english2_aut <- read_csv("datasets/English/english2/english2_aut.csv") %>% 
+english2_aut <- read_csv("raw-data/English/english2/english2_aut.csv") %>% 
   rename("ID" = "id",
          "prompt" = "item") %>%
   select(ID:average)
-english2_val <- read_excel("datasets/English/english2/english2_val.xlsx")
+english2_val <- read_excel("raw-data/English/english2/english2_val.xlsx")
 english2 <- merge(english2_aut, english2_val, all = TRUE)
 write_excel_csv(english2, "processed-data/english2.csv")
 
-english3_aut <- read_csv("datasets/English/english3/english3_aut.csv") %>%
+english3_aut <- read_csv("raw-data/English/english3/english3_aut.csv") %>%
   rename("ID" = "id",
          "prompt" = "item")
-english3_val <- read_excel("datasets/English/english3/english3_val.xlsx") %>%
+english3_val <- read_excel("raw-data/English/english3/english3_val.xlsx") %>%
   rename("ID" = "id")
 english3 <- merge(english3_aut, english3_val, all = TRUE)
 write_excel_csv(english3, "processed-data/english3.csv")
 
-english4_aut <- read_csv("datasets/English/english4/english4_aut.csv") %>%
+english4_aut <- read_csv("raw-data/English/english4/english4_aut.csv") %>%
   rename("ID" = "id",
          "prompt" = "item")
-english4_val <- read_excel("datasets/English/english4/english4_val.xlsx") %>%
+english4_val <- read_excel("raw-data/English/english4/english4_val.xlsx") %>%
   rename("ID" = "id",
          "openness_avg" = "o_average")
 english4 <- merge(english4_aut, english4_val, all = TRUE)
 write_excel_csv(english4, "processed-data/english4.csv")
 
-english5_aut <- read_csv("datasets/English/english5/english5_aut.csv") %>%
+english5_aut <- read_csv("raw-data/English/english5/english5_aut.csv") %>%
   rename("ID" = "id",
          "prompt" = "item")
-english5_val <- read_excel("datasets/English/english5/english5_val.xlsx") %>%
+english5_val <- read_excel("raw-data/English/english5/english5_val.xlsx") %>%
   rename("ID" = "id",
          "openness" = "o_ffi")
 english5 <- merge(english5_aut, english5_val, all = TRUE)
 write_excel_csv(english5, "processed-data/english5.csv")
 
-english6_aut <- read_csv("datasets/English/english6/english6_aut.csv") %>%
+english6_aut <- read_csv("raw-data/English/english6/english6_aut.csv") %>%
   rename("ID" = "id",
          "prompt" = "item")
-english6_val <- read_excel("datasets/English/english6/english6_val.xlsx") %>%
+english6_val <- read_excel("raw-data/English/english6/english6_val.xlsx") %>%
   rename("ID" = "subject")
 english6 <- merge(english6_aut, english6_val, all = TRUE)
 write_excel_csv(english6, "processed-data/english6.csv")
 
 #Arabic
-arabic1 <- read_excel("datasets/Arabic/Arabic SemDis data .xlsx")
+arabic1 <- read_excel("raw-data/Arabic/Arabic SemDis data .xlsx")
 
 arabic1 <- arabic1 %>% rename("prompt" = "AUT item",
                               "response" = "AUT response",
@@ -75,9 +75,9 @@ arabic1 <- arabic1 %>% rename("prompt" = "AUT item",
 write_excel_csv(arabic1, "processed/merged/arabic_all.csv")
 
 #Chinese 
-chinese1 <- read_excel("datasets/Chinese/AUT_materialBase.xlsx", sheet = 1) 
-english1 <- read_excel("datasets/Chinese/AUT_materialBase.xlsx", sheet = 2) 
-chinese3 <- read_excel("datasets/Chinese/chineseaut_withopencaq.xlsx")
+chinese1 <- read_excel("raw-data/Chinese/AUT_materialBase.xlsx", sheet = 1) 
+english1 <- read_excel("raw-data/Chinese/AUT_materialBase.xlsx", sheet = 2) 
+chinese3 <- read_excel("raw-data/Chinese/chineseaut_withopencaq.xlsx")
 
 chinese1 <- chinese1 %>% dplyr::rename("ID" = "subID",
                                        "prompt" = "item",
@@ -104,12 +104,12 @@ chinese_all <- merge(chinese1, chinese2, all = TRUE)
 write_excel_csv(chinese_all, "processed/merged/chinese_all.csv")
 
 #Dutch
-dutch1 <- read.csv("datasets/Dutch/StevensonBaas_ERB6990_aut.csv")
-dutch2 <- read.csv("datasets/Dutch/StevensonBaas_ERB8309_aut.csv")
-dutch3 <- read.csv("datasets/Dutch/StevensonBaas_ERB8684_aut.csv")
-dutch3_data <- read.csv("datasets/Dutch/StevensonBaas_ERB8684_caq_tcttJS_ttctPI.csv")
-dutch4 <- read.csv("datasets/Dutch/StevensonBaas_ERB11501_aut.csv")
-dutch4_data <- read.csv("datasets/Dutch/StevensonBaas_ERB11501_caq_kdocs.csv")
+dutch1 <- read.csv("raw-data/Dutch/StevensonBaas_ERB6990_aut.csv")
+dutch2 <- read.csv("raw-data/Dutch/StevensonBaas_ERB8309_aut.csv")
+dutch3 <- read.csv("raw-data/Dutch/StevensonBaas_ERB8684_aut.csv")
+dutch3_data <- read.csv("raw-data/Dutch/StevensonBaas_ERB8684_caq_tcttJS_ttctPI.csv")
+dutch4 <- read.csv("raw-data/Dutch/StevensonBaas_ERB11501_aut.csv")
+dutch4_data <- read.csv("raw-data/Dutch/StevensonBaas_ERB11501_caq_kdocs.csv")
 
 dutch1 <- dutch1 %>% dplyr::rename("ID" = "respondent_id",
                                    "prompt" = "object",
@@ -172,7 +172,7 @@ dutch_all <- merge(dutch_all, dutch4_merged, all = TRUE) %>%
   write_excel_csv("processed/merged/dutch_all.csv")
 
 #French
-french1 <- read_excel("datasets/French/Volle_AUT_CREAFLEX_data4Beaty_V2.xlsx", sheet = 2)
+french1 <- read_excel("raw-data/French/Volle_AUT_CREAFLEX_data4Beaty_V2.xlsx", sheet = 2)
 
 french1 <- french1 %>% dplyr::rename("ID" = "ID...1",
                                     "prompt" = "item",
@@ -185,7 +185,7 @@ french1 <- french1 %>% dplyr::rename("ID" = "ID...1",
   dplyr::select(ID, prompt, response, set, lab, rater1, rater2, rater3, rater4, "C-act", "C-ach") %>%
   write_excel_csv("processed-data/french1.csv")
 
-french2 <- read.csv("datasets/French/AUTbelgium.csv")
+french2 <- read.csv("raw-data/French/AUTbelgium.csv")
 french2 <- french2 %>% dplyr::rename("ID" = "ï..userid",
                                      "age" = "AgeNum",
                                      "sex" = "sexe",
@@ -198,9 +198,9 @@ french2 <- french2 %>% dplyr::rename("ID" = "ï..userid",
   dplyr::select(ID, prompt, response, set, lab, rater1, rater2, rater3, age, sex, condition, timebegin, timeend, Valid, CAT) %>%
   write_excel_csv("processed-data/french2.csv")
 
-french3_ceinture <- read_excel("datasets/French/data_survey.xlsx", sheet = 1) %>% mutate("prompt" = "ceinture", "lab" = 6, "set" = 10)
-french3_brouette <- read_excel("datasets/French/data_survey.xlsx", sheet = 2) %>% mutate("prompt" = "brouette", "lab" = 6, "set" = 10)
-french3_data <- read_excel("datasets/French/data_survey.xlsx", sheet = 3) %>%
+french3_ceinture <- read_excel("raw-data/French/data_survey.xlsx", sheet = 1) %>% mutate("prompt" = "ceinture", "lab" = 6, "set" = 10)
+french3_brouette <- read_excel("raw-data/French/data_survey.xlsx", sheet = 2) %>% mutate("prompt" = "brouette", "lab" = 6, "set" = 10)
+french3_data <- read_excel("raw-data/French/data_survey.xlsx", sheet = 3) %>%
   rename("ppt_id" = "id")
 
 french3_task <- merge(french3_brouette, french3_ceinture, all = TRUE)
@@ -213,9 +213,9 @@ french3 <- french3 %>% dplyr::rename("ID" = "ppt_id",
   select(ID, prompt, response, set, lab, rater1, rater2, rater3, Fluency_Ceinture, Fluency_Brouette, Fluency_avrg, Orig_Ceinture, Orig_Brouette, Orig_avrg, CSE, CPI, Openness, Gender, Nationality, Age) %>%
   write_excel_csv("processed-data/french3.csv")
                                     
-french4_ceinture <- read_excel("datasets/French/data_expe.xlsx", sheet = 1) %>% mutate("prompt" = "ceinture", "lab" = 6, "set" = 11)
-french4_brouette <- read_excel("datasets/French/data_expe.xlsx", sheet = 2) %>% mutate("prompt" = "brouette", "lab" = 6, "set" = 11)
-french4_data <- read_excel("datasets/French/data_expe.xlsx", sheet = 3) %>%
+french4_ceinture <- read_excel("raw-data/French/data_expe.xlsx", sheet = 1) %>% mutate("prompt" = "ceinture", "lab" = 6, "set" = 11)
+french4_brouette <- read_excel("raw-data/French/data_expe.xlsx", sheet = 2) %>% mutate("prompt" = "brouette", "lab" = 6, "set" = 11)
+french4_data <- read_excel("raw-data/French/data_expe.xlsx", sheet = 3) %>%
   rename("ppt_id" = "id")
 
 french4_task <- merge(french4_brouette, french4_ceinture, all = TRUE)
@@ -232,11 +232,11 @@ french4 <- french4 %>% dplyr::rename("ID" = "ppt_id",
 
 
 #German
-german1_konservendose <- read_excel("datasets/German/NEMOData_DT.xls", sheet = 1) %>% mutate("prompt" = "konservendose", "set" = 12, "lab" = 7)
-german1_messer <- read_excel("datasets/German/NEMOData_DT.xls", sheet = 2) %>% mutate("prompt" = "messer", "set" = 12, "lab" = 7)
-german1_haarfoehn <- read_excel("datasets/German/NEMOData_DT.xls", sheet = 3) %>% mutate("prompt" = "haarfoehn", "set" = 12, "lab" = 7)
+german1_konservendose <- read_excel("raw-data/German/NEMOData_DT.xls", sheet = 1) %>% mutate("prompt" = "konservendose", "set" = 12, "lab" = 7)
+german1_messer <- read_excel("raw-data/German/NEMOData_DT.xls", sheet = 2) %>% mutate("prompt" = "messer", "set" = 12, "lab" = 7)
+german1_haarfoehn <- read_excel("raw-data/German/NEMOData_DT.xls", sheet = 3) %>% mutate("prompt" = "haarfoehn", "set" = 12, "lab" = 7)
 
-german1_data <- read_excel("datasets/German/NEMOData_Scores.xlsx")
+german1_data <- read_excel("raw-data/German/NEMOData_Scores.xlsx")
 
 german1_data <- german1_data %>% rename("ID" = "NEMO_Nr")
 
@@ -252,8 +252,8 @@ german1 <- do.call("rbind", list(german1_konservendose, german1_messer, german1_
 german1_all <- merge(german1, german1_data, by = "ID")
 write_excel_csv(german1_all, "processed-data/german1.csv")
 
-load("datasets/German/german2.rda")
-load("datasets/German/german2_dat.rda")
+load("raw-data/German/german2.rda")
+load("raw-data/German/german2_dat.rda")
 
 ori.dat <- ori.dat %>% rename("ID" = "subject_id",
                               "prompt" = "object",
@@ -271,7 +271,7 @@ write_excel_csv(german2, "processed-data/german2.csv")
 german1 <- read_csv("processed/german1.csv")
 german2 <- read_csv("processed/german2.csv")
 
-load("datasets/German/serial_order_data.rda")
+load("raw-data/German/serial_order_data.rda")
 
 german3 <- dat %>% rename("ID" = "subject_id",
                           "prompt" = "object", 
@@ -285,7 +285,7 @@ german3 <- dat %>% rename("ID" = "subject_id",
   write_excel_csv("processed-data/german3.csv")
 
 #Hebrew
-hebrew1 <- read_csv("datasets/Hebrew/FINAL_OBJECT_USE_SCORES-2.csv")
+hebrew1 <- read_csv("raw-data/Hebrew/FINAL_OBJECT_USE_SCORES-2.csv")
 hebrew1 <- hebrew1 %>% rename("ID" = "participant ID",
                               "prompt" = "object",
                               "order" = "use_number",
@@ -340,8 +340,8 @@ hebrew1 <- hebrew1 %>% rename("ID" = "participant ID",
   write_excel_csv("processed-data/hebrew1.csv")
 
 #Italian
-italian1 <- read_excel("datasets/Italian/italian1.xlsx")
-italian2 <- read_excel("datasets/Italian/italian2.xlsx")
+italian1 <- read_excel("raw-data/Italian/italian1.xlsx")
+italian2 <- read_excel("raw-data/Italian/italian2.xlsx")
 
 italian1 <- italian1 %>% dplyr::rename("prompt" = "Item", "response" = "ALTERNATIVERESPONSE",
                                        "rater1" = "Coder1", "rater2" = "Coder2") %>%
@@ -359,8 +359,8 @@ italian_all <- merge(italian1, italian2, all = TRUE)
 write_excel_csv(italian_all, "processed/merged/italian_all.csv")
 
 #Polish
-polish1 <- read_excel("datasets/Polish/Can-Brick-complete(S1).xlsx")
-polish2 <- read_excel("datasets/Polish/String-Can-Brick(S2).xlsx")
+polish1 <- read_excel("raw-data/Polish/Can-Brick-complete(S1).xlsx")
+polish2 <- read_excel("raw-data/Polish/String-Can-Brick(S2).xlsx")
 
 polish1 <- polish1 %>% dplyr::rename("ID" = "id", "prompt" = "item",
                                      "rater1" = "coder1", "rater2" = "coder2", "rater3" = "coder3") %>%
@@ -374,7 +374,7 @@ polish2 <- polish2 %>% dplyr::rename("prompt" = "item",
   dplyr::select(ID, prompt, response, set, lab, lp, order, rater1, rater2, rater3, rater4, Extr:age) %>%
   write_excel_csv("processed-data/polish2.csv")
 
-# polish3 <- read_excel("datasets/Polish/within_subject_dt.xlsx")
+# polish3 <- read_excel("raw-data/Polish/within_subject_dt.xlsx")
 # polish3_responses <- polish3 %>% select(ID:ideas_ovulat)
 #   pivot_longer(cols = "ideas_period": "ideas_ovulat",
 #                                     names_to = c("response", "cyclephase"),
@@ -386,7 +386,7 @@ polish_all <- merge(polish1, polish2, all = TRUE) %>%
   write_excel_csv("processed/merged/polish_all.csv")
 
 #Portugese
-portugese1 <- read_excel("datasets/Portugese/data_br_primi - Ricardo Primi.xlsx")
+portugese1 <- read_excel("raw-data/Portugese/data_br_primi - Ricardo Primi.xlsx")
 portugese1 <- portugese1 %>% dplyr::rename("ID" = "id",
                             "order" = "resp_num",
                             "prompt" = "ativi",
@@ -405,8 +405,8 @@ portugese1 <- portugese1 %>% dplyr::rename("ID" = "id",
   write_excel_csv("processed/portugese1.csv")
 
 #Russian
-russian1 <- read_excel("datasets/Russian/russian_thisone.xlsx", sheet = 1)
-russian2 <- read_excel("datasets/Russian/russian_thisone.xlsx", sheet = 2)
+russian1 <- read_excel("raw-data/Russian/russian_thisone.xlsx", sheet = 1)
+russian2 <- read_excel("raw-data/Russian/russian_thisone.xlsx", sheet = 2)
 
 russian1 <- russian1 %>% dplyr::rename("ID" = "id", "prompt" = "item",
                                        "rater1" = "coder1", "rater2" = "coder2", "rater3" = "coder3") %>%
@@ -424,7 +424,7 @@ russian_all <- merge(russian1, russian2, all = TRUE) %>%
   write_excel_csv("processed/merged/russian_all.csv")
 
 #Spanish
-spanish1 <- read.csv("datasets/Spanish/spanish1.csv", na.strings = c("", "NA"))
+spanish1 <- read.csv("raw-data/Spanish/spanish1.csv", na.strings = c("", "NA"))
 
 spanish1_responses <- spanish1 %>% rename("ID" = "ï..ID") %>% select(ID, prompt, starts_with("response")) %>%
   group_by(ID) %>% pivot_longer(cols = "response_1":"response_21", 
