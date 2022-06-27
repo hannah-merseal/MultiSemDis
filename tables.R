@@ -132,4 +132,11 @@ russian_all <- russian1_clean %>%
 spanish_all <- spanish1_clean %>%
   write_excel_csv("merged/spanish_all.csv")
 
-length(unique(spanish1_clean$ID))
+length(unique(english6$prompt))
+
+english <- english1 %>%
+  merge(english2, all = TRUE) %>%
+  merge(english3, all = TRUE) %>%
+  merge(english4, all = TRUE) %>% 
+  merge(english5, all = TRUE) %>%
+  merge(english6, all = TRUE)

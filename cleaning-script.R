@@ -3,6 +3,12 @@ library(readxl)
 library(dplyr)
 
 #English
+english1 <- read_excel("datasets/Chinese/AUT_materialBase.xlsx", sheet = 2) 
+english1 <- english1 %>% dplyr::rename("ID" = "id",
+                                       "prompt" = "item") %>%
+  dplyr::select(ID, prompt, response, rater1, rater2, rater3, rater4) %>%
+  write_excel_csv("processed/english1.csv")
+
 english2_aut <- read_csv("datasets/English/english2/english2_aut.csv") %>% 
   rename("ID" = "id",
          "prompt" = "item") %>%
@@ -75,7 +81,7 @@ write_excel_csv(arabic1, "processed/merged/arabic_all.csv")
 
 #Chinese 
 chinese1 <- read_excel("datasets/Chinese/AUT_materialBase.xlsx", sheet = 1) 
-#chinese2 <- read_excel("datasets/Chinese/AUT_materialBase.xlsx", sheet = 2) 
+english1 <- read_excel("datasets/Chinese/AUT_materialBase.xlsx", sheet = 2) 
 chinese3 <- read_excel("datasets/Chinese/chineseaut_withopencaq.xlsx")
 
 chinese1 <- chinese1 %>% dplyr::rename("ID" = "subID",

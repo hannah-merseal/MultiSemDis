@@ -3,6 +3,8 @@
 .RData
 .Ruserdata
 /.datasets
+/.datasets/English
+/.english_proc
 /.merged
 /.processed2electricboogaloo
 .processed.zip
