@@ -4,6 +4,9 @@
 .Ruserdata
 /.datasets
 /.datasets/English
+/.processed-data/french1.csv
+/.raw-data/French/Volle_AUT_CREAFLEX_data4Beaty_V2.xlsx
+/.raw-data/French/Volle_CREAFLEX_data.xlsx
 /.english_proc
 /.merged
 /.processed2electricboogaloo
