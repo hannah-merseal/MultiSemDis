@@ -2,6 +2,54 @@ library(tidyverse)
 library(readxl)
 library(dplyr)
 
+#English
+english2_aut <- read_csv("datasets/English/english2/english2_aut.csv") %>% 
+  rename("ID" = "id",
+         "prompt" = "item") %>%
+  select(ID:average)
+english2_val <- read_excel("datasets/English/english2/english2_val.xlsx") %>% 
+  select(ID, Openness, ICAA.act_Total)
+english2 <- merge(english2_aut, english2_val, all = TRUE)
+write_excel_csv(english2, "english_proc/english2.csv")
+
+english3_aut <- read_csv("datasets/English/english3/english3_aut.csv") %>%
+  rename("ID" = "id",
+         "prompt" = "item")
+english3_val <- read_excel("datasets/English/english3/english3_val.xlsx") %>%
+  select(id, cse, cpi, icaa.act, icaa.ach, Open_Score) %>%
+  rename("ID" = "id")
+english3 <- merge(english3_aut, english3_val, all = TRUE)
+write_excel_csv(english3, "english_proc/english3.csv")
+
+english4_aut <- read_csv("datasets/English/english4/english4_aut.csv") %>%
+  rename("ID" = "id",
+         "prompt" = "item")
+english4_val <- read_excel("datasets/English/english4/english4_val.xlsx") %>%
+  select(id, caq_log, o_average) %>%
+  rename("ID" = "id",
+         "openness_avg" = "o_average")
+english4 <- merge(english4_aut, english4_val, all = TRUE)
+write_excel_csv(english4, "english_proc/english4.csv")
+
+english5_aut <- read_csv("datasets/English/english5/english5_aut.csv") %>%
+  rename("ID" = "id",
+         "prompt" = "item")
+english5_val <- read_excel("datasets/English/english5/english5_val.xlsx") %>%
+  select(id, o_ffi) %>%
+  rename("ID" = "id",
+         "openness" = "o_ffi")
+english5 <- merge(english5_aut, english5_val, all = TRUE)
+write_excel_csv(english5, "english_proc/english5.csv")
+
+english6_aut <- read_csv("datasets/English/english6/english6_aut.csv") %>%
+  rename("ID" = "id",
+         "prompt" = "item")
+english6_val <- read_excel("datasets/English/english6/english6_val.xlsx") %>%
+  select(subject, o_neo, o_ipip, o_bbf) %>%
+  rename("ID" = "subject")
+english6 <- merge(english6_aut, english6_val, all = TRUE)
+write_excel_csv(english6, "english_proc/english6.csv")
+
 #Arabic
 arabic1 <- read_excel("datasets/Arabic/Arabic SemDis data .xlsx")
 

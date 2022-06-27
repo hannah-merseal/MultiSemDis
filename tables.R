@@ -1,46 +1,46 @@
-arabic1_clean <- read_csv("processed/arabic1.csv") %>%
+arabic1_clean <- read_csv("proc-w-valid/arabic1.csv") %>%
   select(ID, prompt, response, set, lab, rater1) 
-chinese1_clean <- read_csv("processed/chinese1.csv") %>%
+chinese1_clean <- read_csv("proc-w-valid/chinese1.csv") %>%
   select(ID, prompt, response, set, lab, rater1, rater2, rater3, rater4) 
-chinese2_clean <- read_csv("processed/chinese2.csv") %>%
+chinese2_clean <- read_csv("proc-w-valid/chinese2.csv") %>%
   select(ID, prompt, response, set, lab, rater1, rater2, rater3, rater4)
-dutch1_clean <- read_csv("processed/dutch1.csv") %>%
+dutch1_clean <- read_csv("proc-w-valid/dutch1.csv") %>%
   select(ID, prompt, response, set, lab, rater1, rater2)
-dutch2_clean <- read_csv("processed/dutch2.csv") %>%
+dutch2_clean <- read_csv("proc-w-valid/dutch2.csv") %>%
   select(ID, prompt, response, set, lab, rater1, rater2)
-dutch3_clean <- read_csv("processed/dutch3.csv") %>%
+dutch3_clean <- read_csv("proc-w-valid/dutch3.csv") %>%
   select(ID, prompt, response, set, lab, rater1, rater2)
-dutch4_clean <- read_csv("processed/dutch4.csv") %>%
+dutch4_clean <- read_csv("proc-w-valid/dutch4.csv") %>%
   select(ID, prompt, response, set, lab, rater1, rater2, rater3)
-french1_clean <- read_csv("processed/french1.csv") %>%
+french1_clean <- read_csv("proc-w-valid/french1.csv") %>%
   select(ID, prompt, response, set, lab, rater1, rater2, rater3, rater4)
-french2_clean <- read_csv("processed/french2.csv") %>%
+french2_clean <- read_csv("proc-w-valid/french2.csv") %>%
   select(ID, prompt, response, set, lab, rater1, rater2, rater3)
-french3_clean <- read_csv("processed/french3.csv") %>%
+french3_clean <- read_csv("proc-w-valid/french3.csv") %>%
   select(ID, prompt, response, set, lab, rater1, rater2, rater3)
-french4_clean <- read_csv("processed/french4.csv") %>%
+french4_clean <- read_csv("proc-w-valid/french4.csv") %>%
   select(ID, prompt, response, set, lab, rater1, rater2, rater3)
-german1_clean <- read_csv("processed/german1.csv") %>%
+german1_clean <- read_csv("proc-w-valid/german1.csv") %>%
   select(ID, prompt, response, set, lab, rater1, rater2, rater3, rater4)
-german2_clean <- read_csv("processed/german2.csv") %>%
+german2_clean <- read_csv("proc-w-valid/german2.csv") %>%
   select(ID, prompt, response, set, lab, rater1, rater2, rater3)
-german3_clean <- read_csv("processed/german3.csv") %>%
+german3_clean <- read_csv("proc-w-valid/german3.csv") %>%
   select(ID, prompt, response, set, lab, rater1, rater2, rater3)
-hebrew1_clean <- read_csv("processed/hebrew1.csv") %>%
+hebrew1_clean <- read_csv("proc-w-valid/hebrew1.csv") %>%
   select(ID, prompt, response, set, lab, rater1:rater45)
-italian1_clean <- read_csv("processed/italian1.csv") %>%
+italian1_clean <- read_csv("proc-w-valid/italian1.csv") %>%
   select(ID, prompt, response, set, lab, rater1, rater2)
-italian2_clean <- read_csv("processed/italian2.csv") %>%
+italian2_clean <- read_csv("proc-w-valid/italian2.csv") %>%
   select(ID, prompt, response, set, lab, rater1, rater2)
-polish1_clean <- read_csv("processed/polish1.csv") %>%
+polish1_clean <- read_csv("proc-w-valid/polish1.csv") %>%
   select(ID, prompt, response, set, lab, rater1:rater3)
-polish2_clean <- read_csv("processed/polish2.csv") %>%
+polish2_clean <- read_csv("proc-w-valid/polish2.csv") %>%
   select(ID, prompt, response, set, lab, rater1:rater3)
-russian1_clean <- read_csv("processed/russian1.csv") %>%
+russian1_clean <- read_csv("proc-w-valid/russian1.csv") %>%
   select(ID, prompt, response, set, lab, rater1:rater3)
-russian2_clean <- read_csv("processed/russian2.csv") %>%
+russian2_clean <- read_csv("proc-w-valid/russian2.csv") %>%
   select(ID, prompt, response, set, lab, rater1:rater3)
-spanish1_clean <- read_csv("processed/spanish1.csv") %>%
+spanish1_clean <- read_csv("proc-w-valid/spanish1.csv") %>%
   select(ID, prompt, response, set, lab, rater1:rater3)
 
 multi_all <- arabic1_clean %>%
@@ -72,12 +72,22 @@ subs <- multi_all %>% group_by(set, ID) %>%
   summarise(subjectResponses=n())
 subs_set <- subs %>% group_by(set) %>%
   summarise(subsBySet=n())
+prompts <- multi_all %>% group_by(set) %>% 
+  summarise(levels(as.factor(prompt)))
+  
 
 counts <- merge(responses, subs_set, by = "set") %>%
   rename("totalResponses" = "responseCount",
          "N" = "subsBySet") %>%
   select(set, N, totalResponses) %>% 
   write_excel_csv("countstable.csv")
+
+responses_by_p <- multi_all %>%
+  count(set, ID, .drop = FALSE) %>%
+  na.omit()
+
+count <- multi_all %>%
+  group_by(set) %>% tally()
 
 #merging
 arabic_all <- arabic1_clean %>% 
@@ -121,3 +131,5 @@ russian_all <- russian1_clean %>%
 
 spanish_all <- spanish1_clean %>%
   write_excel_csv("merged/spanish_all.csv")
+
+length(unique(spanish1_clean$ID))
